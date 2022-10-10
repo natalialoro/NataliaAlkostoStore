@@ -1,0 +1,7 @@
+{
+    "flex-layout.row#home__section--one":{
+        "children":[
+            "rich-text#home__section--one"
+        ]
+    }
+}
