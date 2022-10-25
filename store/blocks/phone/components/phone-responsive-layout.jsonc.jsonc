@@ -1,0 +1,13 @@
+{
+    "responsive-layout.phone#home__info--phone":{
+        "title": "Componente Teléfono",
+        "children":[
+          "rich-text#home__info--phone"
+        ]
+      },
+      "rich-text#home__info--phone":{
+        "props":{
+          "text": "# Resolución de Teléfono"
+        }
+      }
+}

@@ -1,0 +1,16 @@
+.headerRowContainer--header__desktop--top{
+    background: #004797;
+}
+.headerRowContentContainer--Header__middle{
+    display: flex;
+    border-bottom: solid 3px  #EB5B25;
+    background: #004797;
+    justify-content:space-around;
+}
+.headerRowContainer--Header__top{
+    align-items: self-start;
+    justify-content: center;
+}
+.headerRowContentContainer--Header__top{  
+    height: 50px;
+}

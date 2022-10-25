@@ -1,0 +1,389 @@
+{ 
+  "flex-layout.row#home__section--one-department":{
+    "children":[
+        "flex-layout.col#home__section--one-department-one",
+        "flex-layout.col#home__section--one-department-two",
+        "flex-layout.col#home__section--one-department-three",
+        "flex-layout.col#home__section--one-department-four",
+        "flex-layout.col#home__section--one-department-five"    
+    ],
+    "props":{
+        "blockClass":"home__section--one-departments"
+    }
+  },
+  "flex-layout.col#home__section--one-department-one":{
+    "children":[
+        "image#home__section--one-department-celulares",
+        "rich-text#department-one-1",
+        "image#home__section--one-department-audio",
+        "rich-text#department-one-2",
+        "image#home__section--one-department-pines",
+        "rich-text#department-one-3",
+        "image#home__section--one-department-colchones",
+        "rich-text#department-one-4"
+    ],
+    "props":{
+        "blockClass":"home__section--one-col-departments"
+    }      
+  },    
+  "flex-layout.col#home__section--one-department-two":{
+    "children":[
+        "image#home__section--one-department-computadores", 
+        "rich-text#department-two-1",
+        "image#home__section--one-department-videojuegos",
+        "rich-text#department-two-2",
+        "image#home__section--one-department-impresoras",
+        "rich-text#department-two-3",
+        "image#home__section--one-department-muebles",
+        "rich-text#department-two-4"
+       
+    ],
+    "props":{
+        "blockClass":"home__section--one-col-departments"
+    }
+  },
+  "flex-layout.col#home__section--one-department-three":{
+    "children":[     
+        "image#home__section--one-department-televisores",
+        "rich-text#department-three-1",
+        "image#home__section--one-department-accesorios",
+        "rich-text#department-three-2",
+        "image#home__section--one-department-hogar",
+        "rich-text#department-three-3",
+        "image#home__section--one-department-deportes",
+        "rich-text#department-three-4"
+    ],
+    "props":{
+        "blockClass":"home__section--one-col-departments"
+    }
+  },
+    "flex-layout.col#home__section--one-department-four":{
+    "children":[
+    "image#home__section--one-department-electro", 
+    "rich-text#department-four-1",  
+    "image#home__section--one-department-smartwatch",
+    "rich-text#department-four-2",
+    "image#home__section--one-department-juguetes",
+    "rich-text#department-four-3",
+    "image#home__section--one-department-llantas",
+    "rich-text#department-four-4"
+    ],
+    "props":{
+    "blockClass":"home__section--one-col-departments"
+    }
+  },
+  "flex-layout.col#home__section--one-department-five":{
+    "children":[     
+    "image#home__section--one-department-electro-menor",
+    "rich-text#department-five-1", 
+    "image#home__section--one-department-tablets",
+    "rich-text#department-five-2", 
+    "image#home__section--one-department-navidad",
+    "rich-text#department-five-3",
+    "image#home__section--one-department-ofertas",
+    "rich-text#department-five-4"
+    ],
+    "props":{
+    "blockClass":"home__section--one-col-departments"
+    }
+  },
+  "image#home__section--one-department-celulares":{
+    "props": {
+    "src": "assets/img/celulares.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-audio":{
+    "props": {
+    "src": "assets/img/audio.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-pines":{
+    "props": {
+    "src": "assets/img/pines.png",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-colchones":{
+    "props": {
+    "src": "assets/img/colchones.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-computadores":{
+    "props": {
+    "src": "assets/img/computadores.png",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    } 
+  }, 
+  "image#home__section--one-department-videojuegos":{
+    "props": {
+    "src": "assets/img/videojuegos.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  }, 
+  "image#home__section--one-department-impresoras":{
+    "props": {
+    "src": "assets/img/impresoras.png",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-muebles":{
+    "props": {
+    "src": "assets/img/mueble.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+
+  "image#home__section--one-department-televisores":{
+    "props": {
+    "src": "assets/img/televisores.png",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-accesorios":{
+    "props": {
+    "src": "assets/img/accesorios.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-hogar":{
+    "props": {
+    "src": "assets/img/hogar.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-deportes":{
+    "props": {
+    "src": "assets/img/deportes.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-electro":{
+    "props": {
+    "src": "assets/img/electro.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  
+  "image#home__section--one-department-smartwatch":{
+    "props": {
+    "src": "assets/img/reloj-izq.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-juguetes":{
+    "props": {
+    "src": "assets/img/juguetes.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-llantas":{
+    "props": {
+    "src": "assets/img/llanta.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-electro-menor":{
+    "props": {
+    "src": "assets/img/electro-menores.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-tablets":{
+    "props": {
+    "src": "assets/img/tablet.jpg",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-navidad":{
+    "props": {
+    "src": "assets/img/navidad.png",
+    "blockClass":"home__section--one-department-img",
+    "link": {
+      "url": "/"
+    }
+    }
+  },
+  "image#home__section--one-department-ofertas":{
+    "props": {
+    "src": "/",
+    "blockClass":"home__section--one-department-img"
+    }
+  },
+  "rich-text#department-one-1":{
+    "props":{
+    "text":"Celulares",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-one-2":{
+    "props":{
+    "text":"Audio",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-one-3":{
+    "props":{
+    "text":"Pines",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-one-4":{
+    "props":{
+      "text":"Colchones",
+      "blockClass":"home_section-one-departmentName"      
+      }
+  },
+  "rich-text#department-two-1":{
+    "props":{
+    "text":"Computadores",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-two-2":{
+    "props":{
+    "text":"Video juegos",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-two-3":{
+    "props":{
+    "text":"Impresoras",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-two-4":{
+    "props":{
+    "text":"Muebles",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-three-1":{
+    "props":{
+    "text":"Televisores",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-three-2":{
+    "props":{
+    "text":"Accesorios",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-three-3":{
+    "props":{
+    "text":"Hogar",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-three-4":{
+    "props":{
+    "text":"Deportes",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-four-1":{
+    "props":{
+    "text":"Electrodomésticos",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-four-2":{
+    "props":{
+    "text":"Smartwatch",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-four-3":{
+    "props":{
+    "text":"Juguetes",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-four-4":{
+    "props":{
+    "text":"Llantas",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-five-1":{
+    "props":{
+    "text":"Electromenor",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-five-2":{
+    "props":{
+    "text":"Tabletas",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-five-3":{
+    "props":{
+    "text":"Navidad",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  },
+  "rich-text#department-five-4":{
+    "props":{
+    "text":"Ofertas",
+    "blockClass":"home_section-one-departmentName"      
+    }
+  }
+}

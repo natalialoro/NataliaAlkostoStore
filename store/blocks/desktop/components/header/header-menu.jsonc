@@ -1,0 +1,202 @@
+{
+     "menu-item#department__celphones--one":{
+      "props":{
+        "id": "department-celphones--one",
+        "type": "custom",
+        "blockClass":"department-name",  
+        "itemProps": {
+          "href": "/",
+          "noFollow": true,
+          "tagTitle": "Celulares",
+          "text": "Celulares"
+        }
+      }
+  },
+      
+     "menu-item#department__computers--two":{
+      "props":{
+        "id": "department-computers--two",
+        "type": "custom",
+        "blockClass":"department-name",
+        "itemProps": {
+          "href": "/catalogo",
+          "noFollow": true,
+          "tagTitle": "Computadores",
+          "text": "Computadores"
+        }
+      }
+    
+  },
+  "menu-item#department__home-appliances--three":{
+    "props":{
+      "id": "department__home-appliances",
+      "type": "custom",
+      "blockClass":"department-name",  
+      "itemProps": {
+        "href": "/",
+        "noFollow": true,
+        "tagTitle": "Electrodomésticos",
+        "text": "Electrodomésticos"
+      }
+    }
+},
+      
+"menu-item#department__tv--four":{
+  "props":{
+    "id": "department-tv",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "TV",
+      "text": "TV"
+    }
+  }
+},
+"menu-item#department__accesories--five":{
+  "props":{
+    "id": "department-accesories",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Accesorios",
+      "text": "Accesorios"
+    }
+  }
+},
+"menu-item#department__videogame--six":{
+  "props":{
+    "id": "department-videogame",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Video Juegos",
+      "text": "Video Juegos"
+    }
+  }
+},
+"menu-item#department__audio--seven":{
+  "props":{
+    "id": "department-audio--one",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Audio",
+      "text": "Audio"
+    }
+  }
+},
+"menu-item#department__camera--eight":{
+  "props":{
+    "id": "department-camera",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Cámaras",
+      "text": "Cámaras"
+    }
+  }
+},
+"menu-item#department__smart-house--nine":{
+  "props":{
+    "id": "department-smart-house",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Casa Inteligente",
+      "text": "Casa Inteligente"
+    }
+  }
+},
+"menu-item#department__home--ten":{
+  "props":{
+    "id": "department-home",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Hogar",
+      "text": "Hogar"
+    }
+  }
+},
+"menu-item#department__sports--eleven":{
+  "props":{
+    "id": "department-sports",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Deportes",
+      "text": "Deportes"
+    }
+  }
+},
+"menu-item#department__tires-and-motorcycles--twelve":{
+  "props":{
+    "id": "department__tires-and-motorcycles",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Llantas y Motos",
+      "text": "Llantas y Motos"
+    }
+  }
+},
+"menu-item#department__toys--thirteen":{
+  "props":{
+    "id": "department-celphones--one",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Juguetes",
+      "text": "Juguetes"
+    }
+  }
+},
+"menu-item#department__pines--fourteen":{
+  "props":{
+    "id": "department-pines",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Pines",
+      "text": "Pines"
+    }
+  }
+},
+"menu-item#department__others--fifteen":{
+  "props":{
+    "id": "department-others",
+    "type": "custom",
+    "blockClass":"department-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Otros",
+      "text": "Otros"
+    }
+  }
+}
+}
+   
+  

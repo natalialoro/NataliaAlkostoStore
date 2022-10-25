@@ -1,0 +1,10 @@
+{
+ "minicart.v2#header__minicart":{   
+    "props":{          
+      "itemCountMode":"total",
+      "quantityDisplay":"always", 
+      "variation":"link",
+      "linkVariationUrl":"/"
+      } 
+    }
+  }

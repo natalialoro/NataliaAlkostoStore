@@ -1,0 +1,101 @@
+{
+  "flex-layout.row#home__section--learn-more--title-nine":{
+    "children":[
+      "rich-text#home__section--learn-more--title"
+    ],
+    "props":{
+      "blockClass": "home__section--learn-more--title-nine"
+    }
+  },
+  "rich-text#home__section--learn-more--title":{
+    "props":{
+      "text": "**Conoce más**",
+      "textPosition": "CENTER",
+      "blockClass": "home__section--nine--title-text"
+    }
+  },  
+    "flex-layout.row#home__section--learn-more":{
+        "title": "Conoce+",
+        "children":[
+          "flex-layout.col#section__learn-more--image20",
+          "flex-layout.col#section__learn-more--image21",
+          "flex-layout.col#section__learn-more--image22",
+          "flex-layout.col#section__learn-more--image23"
+        ],
+        "props": {
+          "blockClass": "home__section--nine"
+          
+          
+        }
+    
+      },
+    "flex-layout.col#section__learn-more--image20":{
+        "children": [
+          "image#home__container--image20"
+        ]
+      },
+    "flex-layout.col#section__learn-more--image21":{
+        "children": [
+          
+          "image#home__container--image21"
+          
+        ]
+      },
+    "flex-layout.col#section__learn-more--image22":{
+        "children": [
+          
+          "image#home__container--image22"
+        ]
+      },
+      "flex-layout.col#section__learn-more--image23":{
+        "children": [
+          
+          "image#home__container--image23"
+        ]
+      },
+  
+    "image#home__container--image20":{
+        "title": "Colchones",
+        "props": {
+          "src": "assets/img/section9.1.jpg",
+          "title": "Colchones",
+          "blockClass": "home__image",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image21":{
+        "title": "Cajas",
+        "props": {
+        "src": "assets/img/section9.2.jpg",
+        "title": "Cajas Organizadoras",
+        "blockClass": "home__image",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image22":{
+            "title": "Llantas",
+            "props": {
+              "src": "assets/img/section9.3.jpg",
+              "title": "Llantas",
+              "blockClass": "home__image",
+              "link": {
+                "url": "/"
+            }
+        }
+        },
+        "image#home__container--image23":{
+            "title": "Juegos-de-mesa",
+            "props": {
+              "src": "assets/img/section9.4.jpg",
+              "title": "Juegos de mesa",
+              "blockClass": "home__image",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

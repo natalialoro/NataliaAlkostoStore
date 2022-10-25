@@ -1,0 +1,152 @@
+{
+    "footer": {
+      "blocks": [
+        "footer-layout.desktop"
+      ]
+    }, 
+     "footer-layout.desktop": { 
+      "children": [
+        "flex-layout.row#footer__container--contacto"
+      ],
+      "props":{
+        "blockClass": "footer__container"
+      }
+    },
+    "flex-layout.row#footer__container--contacto":{
+      "title": "contacto-footer",
+      "children":[
+        "flex-layout.col#footer__container--contacto-col-one",
+        "flex-layout.col#footer__container--contacto-col-two",
+        "flex-layout.col#footer__container--contacto-col-three"
+      ],
+      "props":{
+        "blockClass": "footer__container--contacto"
+      }
+    },
+    "flex-layout.col#footer__container--contacto-col-one":{
+      "children":[
+        "image#footer__container--contacto-col-one",
+        "rich-text#footer__container--contacto-col-one",
+        "rich-text#footer__container--razonsocial-col-one",
+        "rich-text#footer__container--nit-col-one"
+      ],
+      "props":{
+        "blockClass":"footer__container--contacto-col"
+      }
+    },
+    "image#footer__container--contacto-col-one":{
+      "title": "Nosotros",
+      "props": {
+          "src": "assets/img/about-icon.png",
+          "title:": "Nosotros",
+          "blockClass": "footer__image--nosotros",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+  },
+    "rich-text#footer__container--contacto-col-one":{
+      "props":{
+        "text": "Sobre Nosotros",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto-title"
+      }
+    },
+    "rich-text#footer__container--razonsocial-col-one":{
+      "props":{
+        "text": "**Colombiana de Comercio S.A.**",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto-razonsocial"
+      }
+    },
+    "rich-text#footer__container--nit-col-one":{
+      "props":{
+        "text": "NIT: 890.900.943-1",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto"
+      }
+    },
+   
+    "flex-layout.col#footer__container--contacto-col-two":{
+      "children":[
+        "image#footer__container--contacto-col-two",
+        "rich-text#footer__container--contacto-col-two",
+        "rich-text#footer__container--email-col-two"
+      ],
+      "props":{
+        "blockClass":"footer__container--contacto-col"
+      }
+    },
+    "image#footer__container--contacto-col-two":{
+      "title": "Imagen de contacto - Email",
+      "props": {
+          "src": "assets/img/email-icon.png",
+          "title:": "Email",
+          "blockClass": "footer__image--email",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+  },
+    "rich-text#footer__container--contacto-col-two":{
+      "props":{
+        "text": "Email",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto-title-email"
+      }
+    },
+    "rich-text#footer__container--email-col-two":{
+      "props":{
+        "text": "sugerencias@alkosto.com",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto-email"
+      }
+    },
+    "flex-layout.col#footer__container--contacto-col-three":{
+      "children":[
+        "image#footer__container--contacto-col-three",
+        "rich-text#footer__container--contacto-col-three",
+        "rich-text#footer__container--serv-cliente-col-three",
+        "rich-text#footer__container--vta-telefonica-col-three"
+      ]
+    },
+    "image#footer__container--contacto-col-three":{
+      "title": "Imagen de contacto - Telefono",
+      "props": {
+          "src": "assets/img/contact-icon.png",
+          "title:": "Venta Telefónica",
+          "blockClass": "footer__image--ventatelefonica",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+  },
+    "rich-text#footer__container--contacto-col-three":{
+      "props":{
+        "text": "Venta telefónica",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto-title"
+      }
+    },
+    "rich-text#footer__container--serv-cliente-col-three":{
+      "props":{
+        "text": "Servicio al cliente: (601) 407 3033",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto"
+      }
+    },
+    "rich-text#footer__container--vta-telefonica-col-three":{
+      "props":{
+        "text": "Venta Telefónica: (601) 3649734",
+        "textPosition": "CENTER",
+        "blockClass": "rich-text__footer__container--contacto"
+      }
+    }
+     
+}
