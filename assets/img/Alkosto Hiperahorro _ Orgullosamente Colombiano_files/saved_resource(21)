@@ -1,0 +1,3 @@
+if(typeof window.AdGlare != 'undefined') AdGlare.nextQueue();
+if(typeof window.AdGlare != 'undefined') AdGlare.loadAdGlareCallback({"functionName":"AdGlareCallback","data":[]});
+//No campaigns

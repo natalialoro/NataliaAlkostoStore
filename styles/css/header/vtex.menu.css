@@ -1,5 +1,43 @@
 .styledLinkContent--menu__top-name{
+    display: flex;
+    font-size: 16px;
     color: white;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    margin-right: 5px;
+
 }
+.styledLinkContent--department-name{
+    color: #004797;
+    padding: 12px;
+    display: flex;
+    font-size: 14px;
+    line-height: 1.15em;
+  
+}
+
+.headerRowContainer--Header__middle {
+    justify-content: center;
+}
+.headerRowContainer--Header__top{
+    align-items: self-start;
+    justify-content: center;
+}
+.headerRowContentContainer--Header__top{  
+    height: 40px;
+}
+.headerStickyRow--hearder__mobile{
+    width: 100%;
+}
+.menuContainer--container__header--top{
+    display: flex;
+    justify-content: center;
+    padding-left: 100%;
+    
+}
+.headerRowContentContainer--container__header--top{
+    display: flex;
+    align-items: self-start;
+    justify-content: center;
+}
+
+ 
+

@@ -80,6 +80,7 @@
   }
 }
 }
+}
 
 
 
@@ -92,8 +93,8 @@
 
 
 
-
-   /* "rich-text#venta":{
+/*
+   "rich-text#venta":{
     "props":{
       "text": "Venta: (601) 3649734",
       "blockClass": "header__text",
@@ -139,5 +140,5 @@
       "textColor": "c-on-emphasis"
     
     }
-  }*/
-}
+  }
+}*/

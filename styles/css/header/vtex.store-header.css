@@ -1,16 +1,19 @@
-.headerRowContainer--header__desktop--top{
+.flexRowContent--header__middle--menu{
+   
+    background-color: #004797;
+     
+}
+.headerRowContainer--Header__middle{
+    background-color: #004797;
+}
+.headerRowContentContainer {
     background: #004797;
 }
-.headerRowContentContainer--Header__middle{
-    display: flex;
-    border-bottom: solid 3px  #EB5B25;
-    background: #004797;
-    justify-content:space-around;
-}
-.headerRowContainer--Header__top{
-    align-items: self-start;
-    justify-content: center;
-}
-.headerRowContentContainer--Header__top{  
-    height: 50px;
+.headerRowContentContainer--header__desktop--menu{
+    background: white;
+    border-top: solid 4px #EB5B25;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    height: 40px;
+    margin: 0 60px 0 auto;
+    width:100%;
 }

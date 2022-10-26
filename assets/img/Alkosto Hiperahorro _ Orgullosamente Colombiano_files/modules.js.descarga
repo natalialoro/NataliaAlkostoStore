@@ -1,0 +1,11 @@
+/*!release: v7.0.3 - 2022-10-18 12:22*/
+(async () => {
+    const o = [ "alk-rich-content" ];
+    await import(`./pwa/pwa.js?v=${ACC.config.filesVersion}`).then(o => o.PWA()).catch(o => console.error(o));
+    await import(`./formElements/floatInput.js?v=${ACC.config.filesVersion}`).then(o => o.floatInput()).catch(o => console.error(o));
+    for (const e of o) {
+        if (document.querySelectorAll(e).length) {
+            await import(`./webcomponents/${e}.js?v=${ACC.config.filesVersion}`).then(o => window.customElements.define(e, o.default)).catch(o => console.error(o));
+        }
+    }
+})();

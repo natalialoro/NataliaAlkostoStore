@@ -1,5 +1,5 @@
 {
-     "menu-item#department__celphones--one":{
+    /* "menu-item#department__celphones--one":{
       "props":{
         "id": "department-celphones--one",
         "type": "custom",
@@ -144,59 +144,142 @@
       "text": "Deportes"
     }
   }
-},
-"menu-item#department__tires-and-motorcycles--twelve":{
+},*/
+"vtex.menu@2.x:menu#header__menu":{
+  "children": [
+    "link#department__celphones--one",
+    "link#department__computers--two",
+    "link#department__home-appliances--three",
+    "link#department__tv--four",
+    "link#department__accesories--five",
+    "link#department__videogame--six",
+    "link#department__audio--seven",
+    "link#department__camera--eight",
+    "link#department__smart-house--nine",
+    "link#department__home--ten",
+    "link#department__sports--eleven",
+    "link#department__tires--twelve",
+    "link#department__toys--thirteen",
+    "link#department__pins--fourteen",
+    "link#department__others--fifteen"
+  ],
   "props":{
-    "id": "department__tires-and-motorcycles",
-    "type": "custom",
-    "blockClass":"department-name",  
-    "itemProps": {
-      "href": "/",
-      "noFollow": true,
-      "tagTitle": "Llantas y Motos",
-      "text": "Llantas y Motos"
-    }
+    "orientation": "horizontal",
+    "blockClass": "container__header--menu"
+  }
+ },
+ "link#department__celphones--one":{
+   "props": {
+     "href": "/Celulares",
+     "label": "Celulares",
+     "blockClass":"link__department"
+   }
+ 
+ },
+ "link#department__computers--two":{
+ "props": {
+   "href": "/Computadores",
+   "label": "Computadores",
+   "blockClass":"link__department"
+ }
+},
+  "link#department__home-appliances--three":{
+  "props": {
+    "href": "/Electrodomésticos",
+    "label": "Electrodomésticos",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__tv--four":{
+  "props": {
+    "href": "/TV",
+    "label": "TV",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__accesories--five":{
+  "props": {
+    "href": "/Accesorios",
+    "label": "Accesorios",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__videogame--six":{
+  "props": {
+    "href": "/Video Juegos",
+    "label": "Video Juegos",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__audio--seven":{
+  "props": {
+    "href": "/Audio",
+    "label": "Audio",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__camera--eight":{
+  "props": {
+    "href": "/Cámaras",
+    "label": "Cámaras",
+    "blockClass":"link__department"
+  }
+
+},
+"link#department__smart-house--nine":{
+  "props": {
+    "href": "/Casa Inteligente",
+    "label": "Casa Inteligente",
+    "blockClass":"link__department"
   }
 },
-"menu-item#department__toys--thirteen":{
-  "props":{
-    "id": "department-celphones--one",
-    "type": "custom",
-    "blockClass":"department-name",  
-    "itemProps": {
-      "href": "/",
-      "noFollow": true,
-      "tagTitle": "Juguetes",
-      "text": "Juguetes"
-    }
+"link#department__home--ten":{
+  "props": {
+    "href": "/Hogar",
+    "label": "Hogar",
+    "blockClass":"link__department"
   }
 },
-"menu-item#department__pines--fourteen":{
-  "props":{
-    "id": "department-pines",
-    "type": "custom",
-    "blockClass":"department-name",  
-    "itemProps": {
-      "href": "/",
-      "noFollow": true,
-      "tagTitle": "Pines",
-      "text": "Pines"
-    }
+"link#department__sports--eleven":{
+  "props": {
+    "href": "/Deportes",
+    "label": "Deportes",
+    "blockClass":"link__department"
   }
 },
-"menu-item#department__others--fifteen":{
-  "props":{
-    "id": "department-others",
-    "type": "custom",
-    "blockClass":"department-name",  
-    "itemProps": {
-      "href": "/",
-      "noFollow": true,
-      "tagTitle": "Otros",
-      "text": "Otros"
+  "link#department__tires--twelve":{
+      "props": {
+        "href": "/Llantas y Motos",
+        "label": "Llantas y Motos",
+        "blockClass":"link__department"
+      }
+    },
+    "link#department__toys--thirteen":{
+      "props": {
+        "href": "/Juguetes",
+        "label": "Juguetes",
+        "blockClass":"link__department"
+      }
+    },
+    "link#department__pins--fourteen":{
+      "props": {
+        "href": "/Pines",
+        "label": "Pines",
+        "blockClass":"link__department"
+      }
+    },
+    "link#department__others--fifteen":{
+      "props": {
+        "href": "/Otros",
+        "label": "Otros",
+        "blockClass":"link__department"
+      }
     }
-  }
-}
 }
    
   
