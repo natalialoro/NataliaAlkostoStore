@@ -1,0 +1,36 @@
+{
+    "flex-layout.row#login__section--header":{
+        "children":[
+            "flex-layout.col#login__section--header"    
+        ],
+        "props":{
+            "blockClass":"container__login__logo--header"
+        }
+    },
+    "flex-layout.col#login__section--header":{
+        "children":[     
+            "login",
+            "link#login"
+        ],
+        "props":{
+            "blockClass":"container__login__logo--header"
+        }
+    },
+    "login":{
+        "props": {
+            "emailAndPasswordTitle": "LOG-IN",
+            "accessCodeTitle": "Acess Code LOG-IN",
+            "emailPlaceholder": "e-mail",
+            "passwordPlaceholder": "password",
+            "showPasswordVerificationIntoTooltip": true,
+            "showIconProfile": true
+        }
+    },  
+    "link#login": {
+        "props": {
+            "href": "/",
+            "label": "Mi cuenta",
+            "blockClass":"link__login"
+        }
+    }
+}

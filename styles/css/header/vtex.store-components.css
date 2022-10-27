@@ -1,4 +1,89 @@
-.logoImage--header__top--logo{
+.logoImage--header__top--logo{ 
+    position: absolute;
+    z-index: 5;
+    transform: translate(-267px, -60px);
+}
+.searchBarContainer :global(.vtex-input-prefix__group){
+    border: solid 1px  #004691;
+    border-radius: 3px;
+}
+.searchBarContainer ::placeholder{
+    color: #004691;
+    font-size: 14px;
+}
+.searchBarIcon--header__search--search{
+    color: white;
+    background-color: #EB5B25;
+    padding: 10px;
+    border-radius: 4px;
+}
+.logoImage--header__top--logo-mobile{
+    height: 48px;
+}
+.searchBarInnerContainer--header__search--mobile{
+    width: 90%;
+    transform: translateX(20px);
+    height: 40px;
+}
+.searchIcon--header__search--mobile{
+    color: #004691;
+}
+.headerRowContentContainer--hearder__mobile{
+    padding: 5px 16px;
+    border-bottom: solid 2px #004691;
+}
+.suffixWrapper--header__search{
+    transform: translateX(16px);
+    display: flex;
+}
+
+
+
+
+
+/*.logoImage--header__top--logo{ 
+    position: absolute;
+    z-index: 5;
+    transform: translate(-267px, -60px);
+}
+.searchBarContainer :global(.vtex-input-prefix__group){
+    border: solid 1px  #004691;
+    border-radius: 3px;
+}
+.searchBarContainer ::placeholder{
+    color: #004691;
+    font-size: 14px;
+}
+.searchBarIcon--header__search--search{
+    color: white;
+    background-color: #e63027;
+    padding: 10px;
+    border-radius: 4px;
+}
+.logoImage--header__top--logo-mobile{
+    height: 48px;
+}
+.searchBarInnerContainer--header__search--mobile{
+    width: 90%;
+    transform: translateX(20px);
+    height: 40px;
+}
+.searchIcon--header__search--mobile{
+    color: #e63027;
+}
+.headerRowContentContainer--hearder__mobile{
+    padding: 5px 16px;
+    border-bottom: solid 2px #e63027;
+}
+.suffixWrapper--header__search{
+    transform: translateX(16px);
+    display: flex;
+}
+
+
+
+
+/*.logoImage--header__top--logo{
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 50%;
@@ -14,9 +99,7 @@
     
     border-radius: 5px;
     padding-left: 50px;
-    display: flex;
-    align-items: self-start;
-    justify-content: center;
+    
 }
 .searchBarIcon--header__search--search{
     color: white;
@@ -42,4 +125,4 @@
 .suffixWrapper--header__search{
     transform: translateX(16px);
     display: flex;
-}
+}*/

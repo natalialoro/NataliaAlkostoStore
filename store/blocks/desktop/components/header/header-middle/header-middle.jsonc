@@ -1,4 +1,21 @@
 {
+  "header-row#header__middle--desktop":{
+    "title": "Header-middle",
+    "children":[
+      "logo#header__top--logo",
+      "search-bar#header__search",
+      "flex-layout.row#login__section--header",
+      "flex-layout.row#minicart__section--header"
+      
+    ],
+     "props":{
+      "sticky":true,
+      "blockClass": "Header__middle--desktop"
+    }
+}
+}
+
+/*{
     "logo#header__top--logo":{
         "title": "Logo",
         "props":{
@@ -25,4 +42,4 @@
            "showIconProfile": true
         }
       }
-}
+}*/

@@ -1,21 +1,21 @@
+.link--link__minicart,
+.link--link__login{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
 .link--link__department{
     text-decoration: none;
-    padding: 12px;
-    color: #004797;
-    font-size: 16px;
-    height: 38px;
-    padding-top: 10px;
-    
+    color: #fff;
+    font-size: 14px;
+   padding: 10px 5px 0px 8px;
 }
 .link--link__department:hover{
-    color: white;
-    background-color: #004691;
-    padding-left: 10px;
-}
-.link--link__department::after{
-    content: "";
-    display: block;
-    border-right: 1px solid #004691;
-    height: 8px;
-    transform: translate(10px,-12px);
-}
+    color: #004691;
+    background-color: #fff;
+} 
+/*
+.link--header__hiperofertas{
+    text-decoration: none;
+    color: #004691;
+}*/
