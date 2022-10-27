@@ -555,7 +555,7 @@
 },
 "menu-item#department__toys--thirteen":{
   "props":{
-    "id": "juguetes",
+    "id": "department-juguetes",
     "type": "custom",
     "blockClass":"department-name",  
     "itemProps": {
@@ -568,7 +568,7 @@
 },
 "menu-item#department__pins--fourteen":{
   "props":{
-    "id": "pines",
+    "id": "department-pines",
     "type": "custom",
     "blockClass":"department-name",  
     "itemProps": {
@@ -581,7 +581,7 @@
 },
 "menu-item#department__others--fifteen":{
   "props":{
-    "id": "otros",
+    "id": "department-otros",
     "type": "custom",
     "blockClass":"department-name",  
     "itemProps": {
