@@ -37,9 +37,8 @@
     "image#footer__container--contacto-col-one":{
       "title": "Nosotros",
       "props": {
-          "src": "assets/img/about-icon.png",
-          "title:": "Nosotros",
-          "blockClass": "footer__image--nosotros",
+        "src":"assets/img/about-icon.png",
+        "blockClass": "footer__image--nosotros",
           "link":{
               "url": "#",
               "newTab": false,
