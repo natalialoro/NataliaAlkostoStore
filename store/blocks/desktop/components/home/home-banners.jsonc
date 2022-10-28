@@ -18,7 +18,7 @@
         "props": {
           "src": "assets/img/nexen-llantas.jpg",
           "title": "B2B Commerce",
-          "blockClass": "home__image",
+          "blockClass": "home__image--banner-one",
           "link": {
             "url": "/",
             "newTab": true,
@@ -35,7 +35,7 @@
             "flex-layout.row#home__section--banner--one-4"
         ],
         "props": {            
-            "blockClass": "home__section--banner--one",
+            "blockClass": "home__section--banner--two",
             "colsizing": "auto"     
             
         }

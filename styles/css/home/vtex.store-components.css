@@ -14,3 +14,9 @@
     border: solid 2px #eb5b25;
     background:#fdeee9
 }
+.imageElement--home__image--banner-one{
+    margin-left: 100px;
+}
+.imageElementLink--home__image-top-offers{
+    width: 300px;
+}
