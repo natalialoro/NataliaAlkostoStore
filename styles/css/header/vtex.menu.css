@@ -17,6 +17,7 @@
 .menuContainer--container__header--menu{
     height: 37px;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-bottom: 35px;
 }
 .menuItem--department-name::after{
     content: "";

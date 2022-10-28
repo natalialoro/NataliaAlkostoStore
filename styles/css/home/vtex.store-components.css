@@ -1,0 +1,16 @@
+.imageElement--home__section--one-department-img{   
+    padding: 10px;
+    width: 90px;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 16%);
+    cursor: pointer;
+}
+.imageElement--home__section--one-department-img-ofertas{
+    padding: 10px;
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    border: solid 2px #eb5b25;
+    background:#fdeee9
+}

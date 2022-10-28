@@ -1,9 +1,3 @@
-.paragraph--rich-text__footer__container--contacto,
-.link--rich-text__footer__container--contacto-email{
-    margin: 0px;
-    font-size: 12px;
-    line-height: 0.3;
-}
 .paragraph--rich-text__footer__container--contacto-title{
     font-size: 16px;
     color: #fff;
@@ -24,11 +18,19 @@
     border-right: solid 1px white;
     font-size: 16px;
     color: #fff;
-    line-height: 0.3;
 }
 
 .container--rich-text__footer__container--contacto-email{
     border-left: solid 1px white;
     border-right: solid 1px white;
-    height: 20px;
+    height: 30px;
+}
+
+.paragraph--rich-text__footer__container--contacto{
+    margin: 0px;
+    font-size: 12px;
+    line-height: 0.3;
+}
+.container--rich-text__footer__container--contacto-email{
+    margin-top: -20px;
 }

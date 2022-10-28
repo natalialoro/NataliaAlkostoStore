@@ -1,0 +1,10 @@
+.flexRowContent--home__section--one-slider-departments{
+    background-color: white;
+    color: white;
+    margin-left: 15px;
+}
+.flexColChild--home__section--one-col-departments{
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+}

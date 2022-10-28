@@ -262,8 +262,11 @@
   },
   "image#home__section--one-department-ofertas":{
     "props": {
-    "src": "/",
-    "blockClass":"home__section--one-department-img"
+    "src": "assets/icons/icono-oferta.svg",
+    "blockClass":"home__section--one-department-img-ofertas",
+    "link": {
+      "url": "/"
+    }
     }
   },
   "rich-text#department-one-1":{
@@ -383,7 +386,7 @@
   "rich-text#department-five-4":{
     "props":{
     "text":"Ofertas",
-    "blockClass":"home_section-one-departmentName"      
+    "blockClass":"home_section-one-departmentName-ofertas"      
     }
   }
 }
