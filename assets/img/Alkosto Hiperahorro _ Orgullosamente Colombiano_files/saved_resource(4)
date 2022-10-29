@@ -1,0 +1,232 @@
+var AdGlareSettings_409666 = {
+            zID: 935552712,
+            cID: 546131444,
+            crID: 514838043,
+            containerID: '',
+            width: 1280,
+            height: 150,
+            isSync: false,
+            framed: 0,
+            useiframe: 'no',
+            alwaysOnScreen: false,
+            alwaysOnScreenData: '',       
+            animationType: 'none',
+            allowClose: false,
+            isBase64Encoded: false,          
+            zoneHTML: "<ins style='width:1280px;height:auto;max-width:100%;max-height:150px;border:none;overflow:hidden;margin:0px;padding:0px;display:inline-block;visibility:visible;position:relative;opacity:1;background:transparent;background-color:transparent;vertical-align:top;'><a id=adglare_a_935552712 onclick='parent.AdGlareImageBanner_409666.fireClick();' href='https://www.alkosto.com/pin-microsoft-office-365-familia-15-meses/p/799366518280?ag_alk=fTFwa1FXMDIkMCshISYwJjMqMWdQXDEoKiIxLykgIz0jMSQ_JnpqWlYqLScsKScqOi81MiAmNTpne21lJyM6ITAlNX9PVyYjISAnPSI3LikhPit0aW9wb0ZsYDAyJjMvLiQgPSM1ND8mcGgxKComPCg2KicnJjEyPTUsLjE-KnRqbHZnYHB2Z2RhNzsiMVFHWyc1Ond3f35mYzE-O2hwMCQ1Z2t3ZGFsZSc8MUdxanx_bTUpO3RyfG5iZGF2JiM6dmEqOyd2azEoK0BsaHdrbmsxPipzanR5enwrLSdnf292a2d9JnRqdDo_MGhzcX9jYTsiMXtldmJ8enJ8Z3J3JD8meHx1fXp6ZG06KTBgdmdZIjYhKEwjPScnNTpgYWU1PyRqYWo6PzB9ZWlGanZ0bGVgdDE-O3BnZnhkP0U3Tz1-YHIocmhyd2BmZzlmdnUxPitid2pMcHhqdHd8NT87cGdmeWQ_WjxYNm9kZSZ2aXJ3YGZmOWZpflg2aHp8JXpsemp8YWZxcSt8Yn9xcHclJDMsNXVzZH5pb3IpKC0-f21kYGpEPGJVODI_KjcvLiYjMCU9KTpu_7a9e77a7' rel=nofollow target='_top' style='visibility:visible; width:100%; opacity:1; display:inline-block;'><img id=adglare_img_935552712 style='visibility:visible; position:static; opacity:1; width:1280px; height:auto; max-width:100%; max-height:150px; vertical-align:top;' src='https://cdn.alkst.co/t53540310/img/474xt_4cabug_69bb6dbe.jpg' alt='Pin Microsoft Office 365 Familia 15 Meses' title='Pin Microsoft Office 365 Familia 15 Meses'></a></ins>",
+            autoRefresh: {},
+            verificationCode: '',
+            verificationCodeClick: '',
+            viewability: {
+                vbURLBase: 'https://engine.alkst'+'.co/data',
+                token_viewable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDIiLCJ0aW1lIjoxNjY2NzI0NDAyLCJ0eXBlIjoidmlld2FibGUiLCJ6SUQiOjkzNTU1MjcxMiwiY0lEIjoiNTQ2MTMxNDQ0IiwiY3JJRCI6IjUxNDgzODA0MyIsInRpZXIiOiIyIiwiYWR0eXBlIjoiaW1hZ2ViYW5uZXIiLCJhZGZvcm1hdCI6ImlhYl8xMjgwXzE1MCIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwic3NsIjoieWVzIiwiXyI6MzIzODA5fQ..-6511396c',
+                token_measurable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDIiLCJ0aW1lIjoxNjY2NzI0NDAyLCJ0eXBlIjoibWVhc3VyYWJsZSIsInpJRCI6OTM1NTUyNzEyLCJjSUQiOiI1NDYxMzE0NDQiLCJjcklEIjoiNTE0ODM4MDQzIiwidGllciI6IjIiLCJhZHR5cGUiOiJpbWFnZWJhbm5lciIsImFkZm9ybWF0IjoiaWFiXzEyODBfMTUwIiwiZG9tYWluIjoiYWxrb3N0by5jb20iLCJzc2wiOiJ5ZXMiLCJfIjo5NDM2MjN9-6538cf99'
+            },
+            impression: {
+                impURLBase: 'https://engine.alkst'+'.co/data',
+                impURLData: "eyJ0aW1lIjoxNjY2NzI0NDAyLCJ0eXBlIjoiaW1wIiwieklEIjo5MzU1NTI3MTIsImNJRCI6IjU0NjEzMTQ0NCIsImNySUQiOiI1MTQ4MzgwNDMiLCJ0aWVyIjoiMiIsImFkdHlwZSI6ImltYWdlYmFubmVyIiwiYWRmb3JtYXQiOiJpYWJfMTI4MF8xNTAiLCJkb21haW4iOiJhbGtvc3RvLmNvbSIsImNyX29wdF9ncm91cCI6bnVsbCwic3NsIjoieWVzIiwiY29vcmQiOiI2Iy03NiIsInZhbHVlIjowLCJfIjo5MjUzMDN9-a65f7137",
+                impressionPixels: []
+            },
+            click: {
+                clickURLBase: 'https://engine.alkst'+'.co/c',
+                clickURLData: 'data=eyJ0aW1lIjoxNjY2NzI0NDAyLCJ6SUQiOjkzNTU1MjcxMiwiY0lEIjoiNTQ2MTMxNDQ0IiwiY3JJRCI6IjUxNDgzODA0MyIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwiY3Jfb3B0X2dyb3VwIjpudWxsLCJpcGhhc2giOiIwZTU1ODZkNyIsImNtIjoiIiwibG9nIjoxLCJyZWZlcmVyIjoiaHR0cHMlM0ElMkYlMkZ3d3cuYWxrb3N0by5jb20iLCJfIjozMjk4MTR9-484fcd9a',
+                autoClickTracking: false,
+                clickPixels: []
+            },
+            freqcaps: [],
+            p3Vendor: '',
+            performance: {
+                perfURLBase: 'https://engine.alkst'+'.co/data',
+                loadtimeBuckets: [],
+            },
+            
+        };
+AdGlare._crIDsLoaded['zID_935552712'] = '514838043';
+AdGlare.nextQueue();
+var AdGlareImageBanner_409666 = {
+        _clickFired: false,
+        _clickListenerTimer: null,
+        settings: {},
+        html_content: '',
+        ifrm_id: 'ag'+Math.round((Math.random()*10000000)),
+        observeObj: null,
+        init: function(_settings, tries) {
+            if(_settings.containerID!='' && document.getElementById(_settings.containerID) && !document.getElementById('zone'+_settings.zID)) {
+                var s = document.createElement('SPAN');
+                s.id = 'zone'+_settings.zID;
+                document.getElementById(_settings.containerID).appendChild(s);
+            }
+            if(!document.getElementById('zone'+_settings.zID) && !_settings.isSync) {
+                tries = tries || 1;
+                var timeout = 10;
+                if(tries>100) timeout = 100;
+                if(tries>190) timeout = 1000;
+                window.setTimeout(function(){
+                    AdGlareImageBanner_409666.init(_settings,tries+1);
+                },timeout);
+                return;
+            }
+            this.settings = _settings;
+            this.fireImpression();
+            this.show();
+            
+            AdGlare._APICallbacks['isOpen_'+this.settings.zID] = function() {
+                var el = document.getElementById(AdGlareImageBanner_409666.ifrm_id);
+                return (!el) ? false : true;
+            };
+            AdGlare._APICallbacks['getIframeID_'+this.settings.zID] = function() {
+                return AdGlareImageBanner_409666.ifrm_id;
+            };
+        },
+        close: function() {
+            var el = document.getElementById('zone'+this.settings.zID);
+            if(el) el.innerHTML = '';
+            clearTimeout(this._clickListenerTimer);
+        },
+        show: function() {
+            
+            var targetzID = this.settings.zID;
+            
+            
+            this.settings.zoneHTML = this.settings.zoneHTML.replace(/<tpircs/g,'<script').replace(/tpircs>/g,'script>');
+            if(this.settings.isBase64Encoded) this.settings.zoneHTML = decodeURIComponent(atob(this.settings.zoneHTML));
+            
+            if(this.settings.isSync) {
+                document.write('<span id=zone'+this.settings.zID+'>'+this.settings.zoneHTML+'</span>');
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+            } else if(this.settings.p3Vendor.toLowerCase() == 'adsense' || this.settings.useiframe=='no') {
+                AdGlare.addMixedScript(document.getElementById('zone'+this.settings.zID), this.settings.zoneHTML);
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+                this.addClickListener();
+            } else {
+                ifrm = document.createElement('iframe');
+                ifrm.id = this.ifrm_id;
+                ifrm.setAttribute('frameborder', '0');
+                ifrm.setAttribute('marginheight', '0');
+                ifrm.setAttribute('marginwidth', '0');
+                ifrm.setAttribute('scrolling', 'no');                
+                ifrm.setAttribute('allow', 'autoplay; fullscreen');
+                ifrm.style.cssText = 'width:'+this.settings.width+'px;height:'+this.settings.height+'px;background:transparent;overflow:hidden;margin:0px;border:none;vertical-align:middle;';
+                ifrm.style.maxWidth = '100%';
+                
+                this.html_content = "<!doctype html> <html style='margin:0px; padding:0px;'> <head> <title>-</title> </head> <body id=docbody onclick='parent.AdGlareImageBanner_409666.fireClick();' style='margin:0px; padding:0px; animation-delay:100ms;' > "+this.settings.zoneHTML+" "+((this.settings.allowClose?"<img id=img_close_"+this.settings.zID+" onmousedown='parent.AdGlareImageBanner_409666.close();' style='cursor:pointer; z-index:2147483647; position:absolute; top:0px; right:0px; height:28px; width:28px;' src='https://cdn.alkst.co/t53540310/inventory/close_button.png'>":""))+" "+((this.settings.verificationCode!=''?decodeURIComponent(atob(this.settings.verificationCode)):""))+" <scri"+"pt> </scr"+"ipt> </body> </html>";
+                
+                AdGlare.appendToContainer('zone'+targetzID,ifrm);
+                AdGlare.writeToIframe(AdGlareImageBanner_409666.ifrm_id,AdGlareImageBanner_409666.html_content);
+                this.observeObj = document.getElementById(ifrm.id);
+                
+                try {
+                    this.iFrameResize();
+                    window.addEventListener('resize', this.iFrameResize, false);
+                    if(this.settings.click.autoClickTracking===true) this.addClickListener();
+                } catch(e) {};
+            }
+            
+            if('IntersectionObserver' in window && document.visibilityState) {
+                var vistimer = null;
+                var vistimer_n = 0;
+                AdGlare.queueData(this.settings.viewability.vbURLBase,this.settings.viewability.token_measurable);
+                var observer = new IntersectionObserver(function(e){
+                    if(e[0].intersectionRatio>=0.5) {
+                        if(document.visibilityState=='visible') {
+                            vistimer = window.setInterval(function(){
+                                if(++vistimer_n==10) {
+                                    AdGlare.queueData(AdGlareImageBanner_409666.settings.viewability.vbURLBase,AdGlareImageBanner_409666.settings.viewability.token_viewable);
+                                }
+                                if(vistimer_n>=10) {
+                                    window.clearInterval(vistimer);
+                                    observer.unobserve(e[0].target);
+                                }
+                            },100);
+                        }
+                    } else {
+                        window.clearInterval(vistimer);
+                    }
+                }, {threshold: [ 0.5 ]});
+                observer.observe(this.observeObj);
+            }
+                
+            AdGlare.loadAdGlareCallback(this.settings.callbackData);
+            if(this.settings.freqcaps) {
+                for(var i=0; i<this.settings.freqcaps.length; i++) {
+                    var c = this.settings.freqcaps[i];
+                    AdGlare.increaseCap(c['cID'],c['sec'],c['max'],c['pos']);
+                }
+            }
+            if(this.settings.autoRefresh.interval > 0  && !this.settings.isSync) {
+                AdGlare.refreshZone(this.settings.autoRefresh.loc,this.settings.zID,this.settings.autoRefresh.interval,this.settings.autoRefresh.max);
+            } else {
+                AdGlare.stopRefreshZone(this.settings.zID);
+            }
+            
+            
+            
+        },
+        fireImpression: function() {
+            AdGlare.queueData(this.settings.impression.impURLBase,this.settings.impression.impURLData);
+            for(var i=0; i<this.settings.impression.impressionPixels.length; i++) {
+                var a = this.settings.impression.impressionPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+        },
+        fireClick: function() {
+            var t = AdGlareImageBanner_409666;
+            if(t._clickFired===true) return;
+            t._clickFired = true;
+            AdGlare.loadPixel(t.settings.click.clickURLBase,'img',t.settings.click.clickURLData);
+            for(var i=0; i<t.settings.click.clickPixels.length; i++) {
+                var a = t.settings.click.clickPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+            clearTimeout(AdGlareImageBanner_409666._clickListenerTimer);
+            if(t.settings.verificationCodeClick!='') {
+                window.setTimeout(function(){
+                    var t = AdGlareImageBanner_409666;
+                    var s = document.createElement('SPAN');
+                    s.style.display = 'none';
+                    s.id = 'span_verificationcode_'+t.settings.zID;
+                    document.getElementById('zone'+t.settings.zID).appendChild(s);
+                    AdGlare.addMixedScript(document.getElementById('span_verificationcode_'+t.settings.zID), decodeURIComponent(atob(t.settings.verificationCodeClick)));
+                },100);
+            }
+        },
+        addClickListener: function() {
+            var el = document.getElementById('zone'+AdGlareImageBanner_409666.settings.zID);
+            el.addEventListener('click', AdGlareImageBanner_409666.fireClick, false);
+            window.setTimeout(function() {
+                var f = function() {
+                    //Firefox sends the activeElement *before* the click: use a timeout
+                    window.setTimeout(function() {
+                        var e = document.activeElement;
+                        if(e && e.tagName=='IFRAME' && e.id==AdGlareImageBanner_409666.ifrm_id && document.visibilityState=='visible'){
+                            AdGlareImageBanner_409666.fireClick();
+                        }
+                    },10);
+                };
+                AdGlareImageBanner_409666._clickListenerTimer = window.setInterval(f,1000);
+                window.addEventListener('blur', f, false);
+            },3000);
+        },
+        iFrameResize: function() {
+            
+            if(AdGlareImageBanner_409666.settings.framed==1) {
+                var _overflow = document.body.style.overflow;
+                document.body.style.overflow = 'hidden';
+            }
+            var el = document.getElementById(AdGlareImageBanner_409666.ifrm_id);
+            if(!el) return;
+            var rect = el.getClientRects();
+            if(!rect[0]) return;
+            var el_w = parseFloat(rect[0].width);
+            if(el_w==0) return;
+            var maxh = Math.round(el_w / AdGlareImageBanner_409666.settings.width * AdGlareImageBanner_409666.settings.height*100)/100;
+            if(maxh==0) return;
+            el.style.maxHeight = maxh+'px';
+            if(AdGlareImageBanner_409666.settings.framed==1) {
+                document.body.style.overflow = _overflow;
+            }
+        },
+        
+        
+    }
+AdGlareImageBanner_409666.init(AdGlareSettings_409666);

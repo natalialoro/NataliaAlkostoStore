@@ -1,0 +1,24 @@
+.body{
+    margin: 0;
+}
+.flexRowContent--container__minicart__logo--header{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.flexRowContent--container__minicart__logo--header::before{
+    content: "";
+    display: block;
+    height: 24px;
+    width: 1px;
+    background: white;
+    margin-right: 11px;
+}
+.flexRowContent--container__login__logo--header{
+    margin-bottom: 10px;
+}
+.flexRow--container__login__logo--header{
+    margin-left: 20px;
+}
+
+
+ 

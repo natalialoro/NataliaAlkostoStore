@@ -1,0 +1,22 @@
+{
+    "flex-layout.row#home__section--one-mobile":{
+        "title":"slider",
+        "children":[
+           "slider-layout#home__slider--children"
+           
+        ],
+        "props":{
+            "blockClass":"home__section--one-slider-departments"
+        }    
+      },
+      "flex-layout.row#home__section--two-mobile":{
+        "title":"department",
+        "children":[
+        
+           "flex-layout.row#home__section--one-department"
+        ],
+        "props":{
+            "blockClass":"home__section--two-departments"
+        }    
+      }
+}

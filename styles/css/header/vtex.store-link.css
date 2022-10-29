@@ -1,0 +1,21 @@
+.link--link__minicart,
+.link--link__login{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.link--link__department{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+   padding: 10px 5px 0px 8px;
+}
+.link--link__department:hover{
+    color: #004691;
+    background-color: #fff;
+} 
+/*
+.link--header__hiperofertas{
+    text-decoration: none;
+    color: #004691;
+}*/

@@ -1,0 +1,12 @@
+{
+    "store.custom#home-test": {
+        "blocks": [  
+            "flex-layout.row#home__section--one",
+            "slider-layout#home__slider--children",
+            "responsive-layout.desktop#home__info--desktop",
+            "responsive-layout.mobile#home__info--mobile",
+            "responsive-layout.tablet#home__info--tablet",
+            "responsive-layout.phone#home__info--phone"
+        ]
+     }
+   }

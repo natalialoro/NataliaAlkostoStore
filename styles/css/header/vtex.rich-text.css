@@ -1,0 +1,11 @@
+.paragraph--header__top--text{
+    font-size: 14px;
+    line-height: 16px;
+    margin-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link--header__top--text{
+    text-decoration: none;
+    color: white;
+}
+

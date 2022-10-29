@@ -1,0 +1,250 @@
+{
+    "header-row#header__top--desktop":{
+        "title": "Header-top",
+        "children":[   
+          "header-spacer", 
+          /*
+          "header-row#header__top--hiperofertas",*/
+          "rich-text#venta",
+          "rich-text#servicio",
+          "rich-text#pedido",
+          "rich-text#tiendas",
+          "rich-text#catalogo",
+          "rich-text#ayuda"
+        ],
+        "props":{
+          "sticky":true,
+          "blockClass": "Header__top--desktop"
+        }
+    },
+    "rich-text#venta":{
+        "props":{
+            "text": "[Venta: (601) 7468001](/)",
+            "blockClass":"header__top--text"
+        }
+    }, 
+    "rich-text#servicio":{
+        "props":{
+            "text": "[Servicio: (601) 407 3033](/)",
+            "blockClass":"header__top--text" 
+        }
+    },
+    "rich-text#pedido":{
+        "props":{
+            "text": "[Sigue tu pedido](/)",
+            "blockClass":"header__top--text"     
+        }
+    },
+    "rich-text#tiendas":{
+        "props":{
+            "text":"[Nuestras tiendas](/)",
+            "blockClass":"header__top--text"   
+        }
+    },
+    "rich-text#catalogo":{
+        "props":{
+            "text":"[Catálogo](/)",
+            "blockClass":"header__top--text"
+        }
+    },
+    "rich-text#ayuda":{
+        "props":{
+            "text": "[Ayuda](/)",
+            "blockClass":"header__top--text"
+        }
+    }
+    /*
+    "header-row#header__top--hiperofertas":{
+      "children":[
+        "flex-layout.row#hiperofertas"
+      ],
+      "props":{
+        "blockClass":"header__logo--hiperofertas"
+    }
+    },
+    "flex-layout.row#hiperofertas":{
+      "children": [
+        "flex-layout.col#header__hiperofertas",
+        "flex-layout.col#header__hiperofertas--icono"
+
+      ],
+      "props":{
+        "blockClass":"header__hiperofertas"
+    }
+    },
+    "flex-layout.col#header__hiperofertas":{
+      "children": [
+      "image#hiperofertas"
+    ]
+    },
+    "flex-layout.col#header__hiperofertas--icono":{
+      "children": [
+        "rich-text#hiperofertas"
+      ]
+    },
+    "image#hiperofertas": {
+      "props": {
+        "src": "assets/icons/ofertas-web.png",
+        "maxWidth": 30,
+        "blockClass":"header__hiperofertas"
+      }
+    },
+    "rich-text#hiperofertas":{
+      "props":{
+          "text": "[hiperofertas](/)",
+          "blockClass":"header__hiperofertas"
+      }
+  }*/
+
+}
+
+
+
+
+
+
+
+/*{
+  "menu-item#header__venta":{
+    "props":{
+      "id": "menu--top-venta",
+      "type": "custom",
+      "blockClass":"menu__top-name",  
+      "itemProps": {
+        "href": "/",
+        "noFollow": true,
+        "tagTitle": "Venta",
+        "text": "Venta: (601) 7468001"
+      }
+    }
+},
+    
+  "menu-item#header__servicio":{
+    "props":{
+      "id": "menu--top-servicio",
+      "type": "custom",
+      "blockClass":"menu__top-name",
+      "itemProps": {
+        "href": "/",
+        "noFollow": true,
+        "tagTitle": "Servicio",
+        "text": "Servicio: (601) 407 3033"
+      }
+    }
+  
+},
+"menu-item#header__pedido":{
+  "props":{
+    "id": "menu--top-pedido",
+    "type": "custom",
+    "blockClass":"menu__top-name",  
+    "itemProps": {
+      "href": "/",
+      "noFollow": true,
+      "tagTitle": "Pedido",
+      "text": "Sigue tu pedido"
+    }
+  }
+},
+    
+"menu-item#header__tiendas":{
+"props":{
+  "id": "menu--top-tiendas",
+  "type": "custom",
+  "blockClass":"menu__top-name",  
+  "itemProps": {
+    "href": "/",
+    "noFollow": true,
+    "tagTitle": "Tiendas",
+    "text": "Nuestras tiendas"
+  }
+}
+},
+"menu-item#header__catalogo":{
+"props":{
+  "id": "menu--top-catalogo",
+  "type": "custom",
+  "blockClass":"menu__top-name",  
+  "itemProps": {
+    "href": "/",
+    "noFollow": true,
+    "tagTitle": "Catálogo",
+    "text": "Catálogo"
+  }
+}
+},
+"menu-item#header__ayuda":{
+"props":{
+  "id": "menu--top-ayuda",
+  "type": "custom",
+  "blockClass":"menu__top-name", 
+  "itemProps": {
+    "href": "/",
+    "noFollow": true,
+    "tagTitle": "Ayuda",
+    "text": "Ayuda"
+  }
+}
+}
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+   "rich-text#venta":{
+    "props":{
+      "text": "Venta: (601) 3649734",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis"
+      
+    }
+  }, 
+  "rich-text#servicio":{
+    "props":{
+      "text": "Servicio: (601) 407 3033",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis",
+      "font": "t-heading-20"
+  
+    }
+  },
+  "rich-text#pedido":{
+    "props":{
+      "text": "Sigue tu pedido",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis"
+           
+    }
+  },
+  "rich-text#tiendas":{
+    "props":{
+      "text":"Nuestras tiendas",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis"   
+    }
+  },
+  "rich-text#catalogo":{
+    "props":{
+      "text":"Catálogo",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis"
+    }
+  },
+  "rich-text#ayuda":{
+    "props":{
+      "text": "Ayuda",
+      "blockClass": "header__text",
+      "textColor": "c-on-emphasis"
+    
+    }
+  }
+}*/

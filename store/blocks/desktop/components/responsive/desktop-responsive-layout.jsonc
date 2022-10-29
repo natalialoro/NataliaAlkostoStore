@@ -1,0 +1,13 @@
+{
+    "responsive-layout.desktop#home__info--desktop":{
+        "title": "Componente Escritorio",
+        "children":[
+          "rich-text#home__info--desktop"
+        ]
+      }, 
+      "rich-text#home__info--desktop":{
+        "props":{
+          "text": ""
+        }
+      }
+}

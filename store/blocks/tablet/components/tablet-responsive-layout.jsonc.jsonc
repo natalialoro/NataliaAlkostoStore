@@ -1,0 +1,13 @@
+{
+    "responsive-layout.tablet#home__info--tablet":{
+        "title": "Componente Tablet",
+        "children":[
+          "rich-text#home__info--tablet"
+        ]
+      },
+      "rich-text#home__info--tablet":{
+        "props":{
+          "text": "# Resolución de Tablet"
+        }
+      }
+}

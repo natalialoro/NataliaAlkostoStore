@@ -1,0 +1,11 @@
+{
+    "logo#header__top--logo":{
+    "title": "Logo",
+    "props":{
+        "blockClass":"header__top--logo",
+        "url": "assets/img/alkosto-logo.svg",
+        "href": "/",
+        "width": 230
+    }
+}
+}
