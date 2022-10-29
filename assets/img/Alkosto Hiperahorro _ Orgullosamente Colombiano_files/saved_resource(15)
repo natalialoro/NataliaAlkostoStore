@@ -1,0 +1,232 @@
+var AdGlareSettings_258608 = {
+            zID: 129286758,
+            cID: 318858569,
+            crID: 828075349,
+            containerID: '',
+            width: 302,
+            height: 398,
+            isSync: false,
+            framed: 0,
+            useiframe: 'no',
+            alwaysOnScreen: false,
+            alwaysOnScreenData: '',       
+            animationType: 'none',
+            allowClose: false,
+            isBase64Encoded: false,          
+            zoneHTML: "<ins style='width:302px;height:auto;max-width:100%;max-height:398px;border:none;overflow:hidden;margin:0px;padding:0px;display:inline-block;visibility:visible;position:relative;opacity:1;background:transparent;background-color:transparent;vertical-align:top;'><a id=adglare_a_129286758 onclick='parent.AdGlareImageBanner_258608.fireClick();' href='https://www.alkosto.com/macbook-air-13-pulgadas-mgn63la-a-chip-m1-ram-8gb-disco-estado-solido-256-gb-gris-espacial/p/194252425824?ag_alk=fTFwa1FXMDIkMCshISYwJjMqMWdQXDEoKiQ0ISAmKjwhPCQ_JnpqWlYqLSchKisiPiI2MiomNTpne21lJyM6ITAlNX9PVyYjKSErOi8zLi0rPit0aW9wb0ZsYDAyJjMvLiQgPSM1NT8mcGgxKComPCg2KicnJjEyPTUsLjE-KnRqbHZnYHB2Z2RhNzsiMVFHWyc1Ond3f35mYzE-O2hwMCQ1Z2t3ZGFsZSc8MUdxanx_bTUpO3RyfG5iZGF2JiM6dmEqOyd2azEoK0BsaHdrbmsxPipzanR5enwrLSdnf292a2d9JnRqdDo_MGhzcX9jYTsiMXtldmJ8enJ8Z3J3JD8meHx1fXp6ZG06KTBgdmdZIDQrRyArMDUpO2tgfistJ392dzs0MWd6e1prfXV3e3J3JCkmcWxnYnstWTZEPGV-YCtnf292a2d9JnRqdDo_MHxlaVlnZWt_dmYqLSdxbGdiei1ZKU8rbm9kPGl7bnZrZ30ndGprTyt0eXBwZ3huNHl6YCQmNitjcXV_cnZpZCh0f30kOntkK3IpenB6YiV6NDRqcn8kL2JkPmBwa3B9JXJ2bXl3fSRkamp6YHY1ISc-OmJ7NXRgYGQoY2B0eHt6c2RLKmlEPCMwIzczITArLSsgPDV4_1c7b5693' rel=nofollow target='_top' style='visibility:visible; width:100%; opacity:1; display:inline-block;'><img id=adglare_img_129286758 style='visibility:visible; position:static; opacity:1; width:302px; height:auto; max-width:100%; max-height:398px; vertical-align:top;' src='https://cdn.alkst.co/t53540310/img/474xt_yhvg39_7d5eb192.jpg' alt='MacBook Air de 13&quot; Pulgadas MGN63LA/A Chip M1' title='MacBook Air de 13&quot; Pulgadas MGN63LA/A Chip M1'></a></ins>",
+            autoRefresh: {},
+            verificationCode: '',
+            verificationCodeClick: '',
+            viewability: {
+                vbURLBase: 'https://engine.alkst'+'.co/data',
+                token_viewable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDMiLCJ0aW1lIjoxNjY2NzI0NDAzLCJ0eXBlIjoidmlld2FibGUiLCJ6SUQiOjEyOTI4Njc1OCwiY0lEIjoiMzE4ODU4NTY5IiwiY3JJRCI6IjgyODA3NTM0OSIsInRpZXIiOiIyIiwiYWR0eXBlIjoiaW1hZ2ViYW5uZXIiLCJhZGZvcm1hdCI6ImlhYl8zMDJfMzk4IiwiZG9tYWluIjoiYWxrb3N0by5jb20iLCJzc2wiOiJ5ZXMiLCJfIjo3MDMzMDN9-dc011e2e',
+                token_measurable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDMiLCJ0aW1lIjoxNjY2NzI0NDAzLCJ0eXBlIjoibWVhc3VyYWJsZSIsInpJRCI6MTI5Mjg2NzU4LCJjSUQiOiIzMTg4NTg1NjkiLCJjcklEIjoiODI4MDc1MzQ5IiwidGllciI6IjIiLCJhZHR5cGUiOiJpbWFnZWJhbm5lciIsImFkZm9ybWF0IjoiaWFiXzMwMl8zOTgiLCJkb21haW4iOiJhbGtvc3RvLmNvbSIsInNzbCI6InllcyIsIl8iOjg4OTk1Mn0.-c6d1986a'
+            },
+            impression: {
+                impURLBase: 'https://engine.alkst'+'.co/data',
+                impURLData: "eyJ0aW1lIjoxNjY2NzI0NDAzLCJ0eXBlIjoiaW1wIiwieklEIjoxMjkyODY3NTgsImNJRCI6IjMxODg1ODU2OSIsImNySUQiOiI4MjgwNzUzNDkiLCJ0aWVyIjoiMiIsImFkdHlwZSI6ImltYWdlYmFubmVyIiwiYWRmb3JtYXQiOiJpYWJfMzAyXzM5OCIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwiY3Jfb3B0X2dyb3VwIjpudWxsLCJzc2wiOiJ5ZXMiLCJjb29yZCI6IjYjLTc2IiwidmFsdWUiOjAsIl8iOjM1MjcwNn0.-724ca33c",
+                impressionPixels: []
+            },
+            click: {
+                clickURLBase: 'https://engine.alkst'+'.co/c',
+                clickURLData: 'data=eyJ0aW1lIjoxNjY2NzI0NDAzLCJ6SUQiOjEyOTI4Njc1OCwiY0lEIjoiMzE4ODU4NTY5IiwiY3JJRCI6IjgyODA3NTM0OSIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwiY3Jfb3B0X2dyb3VwIjpudWxsLCJpcGhhc2giOiIwZTU1ODZkNyIsImNtIjoiIiwibG9nIjoxLCJyZWZlcmVyIjoiaHR0cHMlM0ElMkYlMkZ3d3cuYWxrb3N0by5jb20iLCJfIjo0OTA1MzV9-30223159',
+                autoClickTracking: false,
+                clickPixels: []
+            },
+            freqcaps: [],
+            p3Vendor: '',
+            performance: {
+                perfURLBase: 'https://engine.alkst'+'.co/data',
+                loadtimeBuckets: [],
+            },
+            
+        };
+AdGlare._crIDsLoaded['zID_129286758'] = '828075349';
+AdGlare.nextQueue();
+var AdGlareImageBanner_258608 = {
+        _clickFired: false,
+        _clickListenerTimer: null,
+        settings: {},
+        html_content: '',
+        ifrm_id: 'ag'+Math.round((Math.random()*10000000)),
+        observeObj: null,
+        init: function(_settings, tries) {
+            if(_settings.containerID!='' && document.getElementById(_settings.containerID) && !document.getElementById('zone'+_settings.zID)) {
+                var s = document.createElement('SPAN');
+                s.id = 'zone'+_settings.zID;
+                document.getElementById(_settings.containerID).appendChild(s);
+            }
+            if(!document.getElementById('zone'+_settings.zID) && !_settings.isSync) {
+                tries = tries || 1;
+                var timeout = 10;
+                if(tries>100) timeout = 100;
+                if(tries>190) timeout = 1000;
+                window.setTimeout(function(){
+                    AdGlareImageBanner_258608.init(_settings,tries+1);
+                },timeout);
+                return;
+            }
+            this.settings = _settings;
+            this.fireImpression();
+            this.show();
+            
+            AdGlare._APICallbacks['isOpen_'+this.settings.zID] = function() {
+                var el = document.getElementById(AdGlareImageBanner_258608.ifrm_id);
+                return (!el) ? false : true;
+            };
+            AdGlare._APICallbacks['getIframeID_'+this.settings.zID] = function() {
+                return AdGlareImageBanner_258608.ifrm_id;
+            };
+        },
+        close: function() {
+            var el = document.getElementById('zone'+this.settings.zID);
+            if(el) el.innerHTML = '';
+            clearTimeout(this._clickListenerTimer);
+        },
+        show: function() {
+            
+            var targetzID = this.settings.zID;
+            
+            
+            this.settings.zoneHTML = this.settings.zoneHTML.replace(/<tpircs/g,'<script').replace(/tpircs>/g,'script>');
+            if(this.settings.isBase64Encoded) this.settings.zoneHTML = decodeURIComponent(atob(this.settings.zoneHTML));
+            
+            if(this.settings.isSync) {
+                document.write('<span id=zone'+this.settings.zID+'>'+this.settings.zoneHTML+'</span>');
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+            } else if(this.settings.p3Vendor.toLowerCase() == 'adsense' || this.settings.useiframe=='no') {
+                AdGlare.addMixedScript(document.getElementById('zone'+this.settings.zID), this.settings.zoneHTML);
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+                this.addClickListener();
+            } else {
+                ifrm = document.createElement('iframe');
+                ifrm.id = this.ifrm_id;
+                ifrm.setAttribute('frameborder', '0');
+                ifrm.setAttribute('marginheight', '0');
+                ifrm.setAttribute('marginwidth', '0');
+                ifrm.setAttribute('scrolling', 'no');                
+                ifrm.setAttribute('allow', 'autoplay; fullscreen');
+                ifrm.style.cssText = 'width:'+this.settings.width+'px;height:'+this.settings.height+'px;background:transparent;overflow:hidden;margin:0px;border:none;vertical-align:middle;';
+                ifrm.style.maxWidth = '100%';
+                
+                this.html_content = "<!doctype html> <html style='margin:0px; padding:0px;'> <head> <title>-</title> </head> <body id=docbody onclick='parent.AdGlareImageBanner_258608.fireClick();' style='margin:0px; padding:0px; animation-delay:100ms;' > "+this.settings.zoneHTML+" "+((this.settings.allowClose?"<img id=img_close_"+this.settings.zID+" onmousedown='parent.AdGlareImageBanner_258608.close();' style='cursor:pointer; z-index:2147483647; position:absolute; top:0px; right:0px; height:28px; width:28px;' src='https://cdn.alkst.co/t53540310/inventory/close_button.png'>":""))+" "+((this.settings.verificationCode!=''?decodeURIComponent(atob(this.settings.verificationCode)):""))+" <scri"+"pt> </scr"+"ipt> </body> </html>";
+                
+                AdGlare.appendToContainer('zone'+targetzID,ifrm);
+                AdGlare.writeToIframe(AdGlareImageBanner_258608.ifrm_id,AdGlareImageBanner_258608.html_content);
+                this.observeObj = document.getElementById(ifrm.id);
+                
+                try {
+                    this.iFrameResize();
+                    window.addEventListener('resize', this.iFrameResize, false);
+                    if(this.settings.click.autoClickTracking===true) this.addClickListener();
+                } catch(e) {};
+            }
+            
+            if('IntersectionObserver' in window && document.visibilityState) {
+                var vistimer = null;
+                var vistimer_n = 0;
+                AdGlare.queueData(this.settings.viewability.vbURLBase,this.settings.viewability.token_measurable);
+                var observer = new IntersectionObserver(function(e){
+                    if(e[0].intersectionRatio>=0.5) {
+                        if(document.visibilityState=='visible') {
+                            vistimer = window.setInterval(function(){
+                                if(++vistimer_n==10) {
+                                    AdGlare.queueData(AdGlareImageBanner_258608.settings.viewability.vbURLBase,AdGlareImageBanner_258608.settings.viewability.token_viewable);
+                                }
+                                if(vistimer_n>=10) {
+                                    window.clearInterval(vistimer);
+                                    observer.unobserve(e[0].target);
+                                }
+                            },100);
+                        }
+                    } else {
+                        window.clearInterval(vistimer);
+                    }
+                }, {threshold: [ 0.5 ]});
+                observer.observe(this.observeObj);
+            }
+                
+            AdGlare.loadAdGlareCallback(this.settings.callbackData);
+            if(this.settings.freqcaps) {
+                for(var i=0; i<this.settings.freqcaps.length; i++) {
+                    var c = this.settings.freqcaps[i];
+                    AdGlare.increaseCap(c['cID'],c['sec'],c['max'],c['pos']);
+                }
+            }
+            if(this.settings.autoRefresh.interval > 0  && !this.settings.isSync) {
+                AdGlare.refreshZone(this.settings.autoRefresh.loc,this.settings.zID,this.settings.autoRefresh.interval,this.settings.autoRefresh.max);
+            } else {
+                AdGlare.stopRefreshZone(this.settings.zID);
+            }
+            
+            
+            
+        },
+        fireImpression: function() {
+            AdGlare.queueData(this.settings.impression.impURLBase,this.settings.impression.impURLData);
+            for(var i=0; i<this.settings.impression.impressionPixels.length; i++) {
+                var a = this.settings.impression.impressionPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+        },
+        fireClick: function() {
+            var t = AdGlareImageBanner_258608;
+            if(t._clickFired===true) return;
+            t._clickFired = true;
+            AdGlare.loadPixel(t.settings.click.clickURLBase,'img',t.settings.click.clickURLData);
+            for(var i=0; i<t.settings.click.clickPixels.length; i++) {
+                var a = t.settings.click.clickPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+            clearTimeout(AdGlareImageBanner_258608._clickListenerTimer);
+            if(t.settings.verificationCodeClick!='') {
+                window.setTimeout(function(){
+                    var t = AdGlareImageBanner_258608;
+                    var s = document.createElement('SPAN');
+                    s.style.display = 'none';
+                    s.id = 'span_verificationcode_'+t.settings.zID;
+                    document.getElementById('zone'+t.settings.zID).appendChild(s);
+                    AdGlare.addMixedScript(document.getElementById('span_verificationcode_'+t.settings.zID), decodeURIComponent(atob(t.settings.verificationCodeClick)));
+                },100);
+            }
+        },
+        addClickListener: function() {
+            var el = document.getElementById('zone'+AdGlareImageBanner_258608.settings.zID);
+            el.addEventListener('click', AdGlareImageBanner_258608.fireClick, false);
+            window.setTimeout(function() {
+                var f = function() {
+                    //Firefox sends the activeElement *before* the click: use a timeout
+                    window.setTimeout(function() {
+                        var e = document.activeElement;
+                        if(e && e.tagName=='IFRAME' && e.id==AdGlareImageBanner_258608.ifrm_id && document.visibilityState=='visible'){
+                            AdGlareImageBanner_258608.fireClick();
+                        }
+                    },10);
+                };
+                AdGlareImageBanner_258608._clickListenerTimer = window.setInterval(f,1000);
+                window.addEventListener('blur', f, false);
+            },3000);
+        },
+        iFrameResize: function() {
+            
+            if(AdGlareImageBanner_258608.settings.framed==1) {
+                var _overflow = document.body.style.overflow;
+                document.body.style.overflow = 'hidden';
+            }
+            var el = document.getElementById(AdGlareImageBanner_258608.ifrm_id);
+            if(!el) return;
+            var rect = el.getClientRects();
+            if(!rect[0]) return;
+            var el_w = parseFloat(rect[0].width);
+            if(el_w==0) return;
+            var maxh = Math.round(el_w / AdGlareImageBanner_258608.settings.width * AdGlareImageBanner_258608.settings.height*100)/100;
+            if(maxh==0) return;
+            el.style.maxHeight = maxh+'px';
+            if(AdGlareImageBanner_258608.settings.framed==1) {
+                document.body.style.overflow = _overflow;
+            }
+        },
+        
+        
+    }
+AdGlareImageBanner_258608.init(AdGlareSettings_258608);

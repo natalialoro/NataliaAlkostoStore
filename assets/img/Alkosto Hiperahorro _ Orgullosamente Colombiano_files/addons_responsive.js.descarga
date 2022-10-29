@@ -1,0 +1,65 @@
+(() => {
+	const isASM = Boolean(document.querySelectorAll("#_asm").length)
+	const isSmartEdit = (window.location !== window.parent.location && window.parent.location.pathname.includes("smartedit"))
+	const isSearchHelper = Boolean(document.querySelectorAll("#searchHelperContainer").length)
+	const isYotpo = Boolean(document.querySelectorAll(".js-yotpoTotalReviews").length)
+
+	const scripts = {
+		asm : [
+			`${ACC.config.contextPath}/_ui/addons/alkostoassistedserviceaddon/responsive/common/js/alkostoassistedserviceaddon.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/alkostoassistedserviceaddon/responsive/common/js/asm.storefinder.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/assistedservicestorefront/responsive/common/js/Chart.min.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.min.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/assistedservicestorefront/responsive/common/js/jquery.tablesorter.pager.js?v=${ACC.config.filesVersion}`
+		],
+		smartedit : [
+			`${ACC.config.contextPath}/_ui/addons/smarteditaddon/shared/common/js/webApplicationInjector.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/smarteditaddon/shared/common/js/reprocessPage.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/smarteditaddon/shared/common/js/adjustComponentRenderingToSE.js?v=${ACC.config.filesVersion}`,
+			`${ACC.config.contextPath}/_ui/addons/smarteditaddon/responsive/common/js/smarteditaddon.js?v=${ACC.config.filesVersion}`
+		],
+		searchHelper: [
+			`${ACC.config.contextPath}/_ui/addons/searchhelperaddon/responsive/common/js/searchhelperaddon.js?v=${ACC.config.filesVersion}`
+		],
+		yotpo : [
+			`${ACC.config.contextPath}/_ui/addons/yotpoaddon/responsive/common/js/yotpoaddon.js?v=${ACC.config.filesVersion}`
+		]
+	}
+
+	function createScripTag(src = "") {
+		const script = document.createElement("script")
+		script.setAttribute("src", src)
+		script.setAttribute("defer", "")
+		document.getElementsByTagName("head")[0].append(script)
+	}
+
+	if(isASM) {
+		for (const script of scripts.asm) {
+			createScripTag(script)
+		}
+	}
+
+	if(isSearchHelper) {
+		for (const script of scripts.searchHelper) {
+			createScripTag(script)
+			let searchHelperLoaded = setInterval(() => {
+				if(typeof window.ACC.searchHelper === "object") {
+					clearInterval(searchHelperLoaded)
+					ACC.searchHelper.init()
+				}
+			}, 100)
+		}
+	}
+
+	if(isSmartEdit) {
+		for (const script of scripts.smartedit) {
+			createScripTag(script)
+		}
+	}
+
+	if(isYotpo) {
+		for (const script of scripts.yotpo) {
+			createScripTag(script)
+		}
+	}
+})();

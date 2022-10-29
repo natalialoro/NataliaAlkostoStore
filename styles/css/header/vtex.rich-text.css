@@ -1,0 +1,10 @@
+.paragraph--header__top--text{
+    font-size: 14px;
+    line-height: 16px;
+    margin-right: 25px;
+}
+.link--header__top--text{
+    text-decoration: none;
+    color: white;
+}
+

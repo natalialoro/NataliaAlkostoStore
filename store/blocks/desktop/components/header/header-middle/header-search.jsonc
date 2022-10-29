@@ -1,0 +1,11 @@
+{
+  "search-bar#header__search":{
+    "blocks": ["autocomplete-result-list.v2"],
+    "props": {
+        "openAutocompleteOnFocus": true,
+        "placeholder": "¿Qué buscas hoy?",
+        "maxWidth": 500,
+        "blockClass":"header__search"
+    }
+} 
+    }

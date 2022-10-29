@@ -1,0 +1,232 @@
+var AdGlareSettings_595021 = {
+            zID: 792072404,
+            cID: 557403689,
+            crID: 662825985,
+            containerID: '',
+            width: 432,
+            height: 432,
+            isSync: false,
+            framed: 0,
+            useiframe: 'no',
+            alwaysOnScreen: false,
+            alwaysOnScreenData: '',       
+            animationType: 'none',
+            allowClose: false,
+            isBase64Encoded: true,          
+            zoneHTML: "JTNDYSUyMGhyZWYlM0QlMjJodHRwcyUzQSUyRiUyRnd3dy5jcmVkaXRvMjBtaW51dG9zLmNvbSUyRnNvbGljaXRhci1jcmVkaXRvJTJGJTIyJTNFJTBBJTIwJTIwJTIwJTIwJTNDaW1nJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZtZWRpYS5hd3MuYWxrb3N0by5jb20lMkZ5bWFya2V0aW5nY29sY29tZXJjaW8lMkZBbGtvc3RvJTJGMjAyMiUyRmhvbWUlMkZiYW5jb3MlMkZCQU5DT1MtSE9NRS1LUkVESVRPLTIwTUlOLnBuZyUyMiUyMGFsdCUzRCUyMktyJUMzJUE5ZGl0byUyMDIwJTIwTWludXRvcyUyMiUyMCUyRiUzRSUwQSUyMCUyMCUyMCUyMCUzQ2g0JTIwY2xhc3MlM0QlMjJhay1ub21icmUtcHJvZHVjdG8lMjIlM0VTb2xpY2l0YSUyMGFxdSVDMyVBRCUyMHR1JTNDJTJGaDQlM0UlMEElMjAlMjAlMjAlMjAlM0NoNSUyMGNsYXNzJTNEJTIyYWstY3RhJTIyJTNFS3IlQzMlQTlkaXRvJTIwZW4lMjAyMCUyME1pbnV0b3MlM0MlMkZoNSUzRSUwQSUzQyUyRmElM0U=",
+            autoRefresh: {},
+            verificationCode: '',
+            verificationCodeClick: '',
+            viewability: {
+                vbURLBase: 'https://engine.alkst'+'.co/data',
+                token_viewable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDEiLCJ0aW1lIjoxNjY2NzI0NDAxLCJ0eXBlIjoidmlld2FibGUiLCJ6SUQiOjc5MjA3MjQwNCwiY0lEIjoiNTU3NDAzNjg5IiwiY3JJRCI6IjY2MjgyNTk4NSIsInRpZXIiOiIyIiwiYWR0eXBlIjoiaW1hZ2ViYW5uZXIiLCJhZGZvcm1hdCI6ImlhYl80MzJfNDMyIiwiZG9tYWluIjoiYWxrb3N0by5jb20iLCJzc2wiOiJ5ZXMiLCJfIjoxNjExMzd9-c16fabdc',
+                token_measurable: 'eyJ0cyI6IjIwMjItMTAtMjUgMTQ6MDA6MDEiLCJ0aW1lIjoxNjY2NzI0NDAxLCJ0eXBlIjoibWVhc3VyYWJsZSIsInpJRCI6NzkyMDcyNDA0LCJjSUQiOiI1NTc0MDM2ODkiLCJjcklEIjoiNjYyODI1OTg1IiwidGllciI6IjIiLCJhZHR5cGUiOiJpbWFnZWJhbm5lciIsImFkZm9ybWF0IjoiaWFiXzQzMl80MzIiLCJkb21haW4iOiJhbGtvc3RvLmNvbSIsInNzbCI6InllcyIsIl8iOjEzMjg4MX0.-5308af5f'
+            },
+            impression: {
+                impURLBase: 'https://engine.alkst'+'.co/data',
+                impURLData: "eyJ0aW1lIjoxNjY2NzI0NDAxLCJ0eXBlIjoiaW1wIiwieklEIjo3OTIwNzI0MDQsImNJRCI6IjU1NzQwMzY4OSIsImNySUQiOiI2NjI4MjU5ODUiLCJ0aWVyIjoiMiIsImFkdHlwZSI6ImltYWdlYmFubmVyIiwiYWRmb3JtYXQiOiJpYWJfNDMyXzQzMiIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwiY3Jfb3B0X2dyb3VwIjpudWxsLCJzc2wiOiJ5ZXMiLCJjb29yZCI6IjYjLTc2IiwidmFsdWUiOjAsIl8iOjM5ODcwMH0.-19858477",
+                impressionPixels: []
+            },
+            click: {
+                clickURLBase: 'https://engine.alkst'+'.co/c',
+                clickURLData: 'data=eyJ0aW1lIjoxNjY2NzI0NDAxLCJ6SUQiOjc5MjA3MjQwNCwiY0lEIjoiNTU3NDAzNjg5IiwiY3JJRCI6IjY2MjgyNTk4NSIsImRvbWFpbiI6ImFsa29zdG8uY29tIiwiY3Jfb3B0X2dyb3VwIjpudWxsLCJpcGhhc2giOiIwZTU1ODZkNyIsImNtIjoiIiwibG9nIjoxLCJyZWZlcmVyIjoiaHR0cHMlM0ElMkYlMkZ3d3cuYWxrb3N0by5jb20iLCJfIjoyNTY3MDl9-ef17d016',
+                autoClickTracking: true,
+                clickPixels: []
+            },
+            freqcaps: [],
+            p3Vendor: '',
+            performance: {
+                perfURLBase: 'https://engine.alkst'+'.co/data',
+                loadtimeBuckets: [],
+            },
+            
+        };
+AdGlare._crIDsLoaded['zID_792072404'] = '662825985';
+AdGlare.nextQueue();
+var AdGlareImageBanner_595021 = {
+        _clickFired: false,
+        _clickListenerTimer: null,
+        settings: {},
+        html_content: '',
+        ifrm_id: 'ag'+Math.round((Math.random()*10000000)),
+        observeObj: null,
+        init: function(_settings, tries) {
+            if(_settings.containerID!='' && document.getElementById(_settings.containerID) && !document.getElementById('zone'+_settings.zID)) {
+                var s = document.createElement('SPAN');
+                s.id = 'zone'+_settings.zID;
+                document.getElementById(_settings.containerID).appendChild(s);
+            }
+            if(!document.getElementById('zone'+_settings.zID) && !_settings.isSync) {
+                tries = tries || 1;
+                var timeout = 10;
+                if(tries>100) timeout = 100;
+                if(tries>190) timeout = 1000;
+                window.setTimeout(function(){
+                    AdGlareImageBanner_595021.init(_settings,tries+1);
+                },timeout);
+                return;
+            }
+            this.settings = _settings;
+            this.fireImpression();
+            this.show();
+            
+            AdGlare._APICallbacks['isOpen_'+this.settings.zID] = function() {
+                var el = document.getElementById(AdGlareImageBanner_595021.ifrm_id);
+                return (!el) ? false : true;
+            };
+            AdGlare._APICallbacks['getIframeID_'+this.settings.zID] = function() {
+                return AdGlareImageBanner_595021.ifrm_id;
+            };
+        },
+        close: function() {
+            var el = document.getElementById('zone'+this.settings.zID);
+            if(el) el.innerHTML = '';
+            clearTimeout(this._clickListenerTimer);
+        },
+        show: function() {
+            
+            var targetzID = this.settings.zID;
+            
+            
+            this.settings.zoneHTML = this.settings.zoneHTML.replace(/<tpircs/g,'<script').replace(/tpircs>/g,'script>');
+            if(this.settings.isBase64Encoded) this.settings.zoneHTML = decodeURIComponent(atob(this.settings.zoneHTML));
+            
+            if(this.settings.isSync) {
+                document.write('<span id=zone'+this.settings.zID+'>'+this.settings.zoneHTML+'</span>');
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+            } else if(this.settings.p3Vendor.toLowerCase() == 'adsense' || this.settings.useiframe=='no') {
+                AdGlare.addMixedScript(document.getElementById('zone'+this.settings.zID), this.settings.zoneHTML);
+                this.observeObj = document.getElementById('zone'+this.settings.zID);
+                this.addClickListener();
+            } else {
+                ifrm = document.createElement('iframe');
+                ifrm.id = this.ifrm_id;
+                ifrm.setAttribute('frameborder', '0');
+                ifrm.setAttribute('marginheight', '0');
+                ifrm.setAttribute('marginwidth', '0');
+                ifrm.setAttribute('scrolling', 'no');                
+                ifrm.setAttribute('allow', 'autoplay; fullscreen');
+                ifrm.style.cssText = 'width:'+this.settings.width+'px;height:'+this.settings.height+'px;background:transparent;overflow:hidden;margin:0px;border:none;vertical-align:middle;';
+                ifrm.style.maxWidth = '100%';
+                
+                this.html_content = "<!doctype html> <html style='margin:0px; padding:0px;'> <head> <title>-</title> </head> <body id=docbody onclick='parent.AdGlareImageBanner_595021.fireClick();' style='margin:0px; padding:0px; animation-delay:100ms;' > "+this.settings.zoneHTML+" "+((this.settings.allowClose?"<img id=img_close_"+this.settings.zID+" onmousedown='parent.AdGlareImageBanner_595021.close();' style='cursor:pointer; z-index:2147483647; position:absolute; top:0px; right:0px; height:28px; width:28px;' src='https://cdn.alkst.co/t53540310/inventory/close_button.png'>":""))+" "+((this.settings.verificationCode!=''?decodeURIComponent(atob(this.settings.verificationCode)):""))+" <scri"+"pt> </scr"+"ipt> </body> </html>";
+                
+                AdGlare.appendToContainer('zone'+targetzID,ifrm);
+                AdGlare.writeToIframe(AdGlareImageBanner_595021.ifrm_id,AdGlareImageBanner_595021.html_content);
+                this.observeObj = document.getElementById(ifrm.id);
+                
+                try {
+                    this.iFrameResize();
+                    window.addEventListener('resize', this.iFrameResize, false);
+                    if(this.settings.click.autoClickTracking===true) this.addClickListener();
+                } catch(e) {};
+            }
+            
+            if('IntersectionObserver' in window && document.visibilityState) {
+                var vistimer = null;
+                var vistimer_n = 0;
+                AdGlare.queueData(this.settings.viewability.vbURLBase,this.settings.viewability.token_measurable);
+                var observer = new IntersectionObserver(function(e){
+                    if(e[0].intersectionRatio>=0.5) {
+                        if(document.visibilityState=='visible') {
+                            vistimer = window.setInterval(function(){
+                                if(++vistimer_n==10) {
+                                    AdGlare.queueData(AdGlareImageBanner_595021.settings.viewability.vbURLBase,AdGlareImageBanner_595021.settings.viewability.token_viewable);
+                                }
+                                if(vistimer_n>=10) {
+                                    window.clearInterval(vistimer);
+                                    observer.unobserve(e[0].target);
+                                }
+                            },100);
+                        }
+                    } else {
+                        window.clearInterval(vistimer);
+                    }
+                }, {threshold: [ 0.5 ]});
+                observer.observe(this.observeObj);
+            }
+                
+            AdGlare.loadAdGlareCallback(this.settings.callbackData);
+            if(this.settings.freqcaps) {
+                for(var i=0; i<this.settings.freqcaps.length; i++) {
+                    var c = this.settings.freqcaps[i];
+                    AdGlare.increaseCap(c['cID'],c['sec'],c['max'],c['pos']);
+                }
+            }
+            if(this.settings.autoRefresh.interval > 0  && !this.settings.isSync) {
+                AdGlare.refreshZone(this.settings.autoRefresh.loc,this.settings.zID,this.settings.autoRefresh.interval,this.settings.autoRefresh.max);
+            } else {
+                AdGlare.stopRefreshZone(this.settings.zID);
+            }
+            
+            
+            
+        },
+        fireImpression: function() {
+            AdGlare.queueData(this.settings.impression.impURLBase,this.settings.impression.impURLData);
+            for(var i=0; i<this.settings.impression.impressionPixels.length; i++) {
+                var a = this.settings.impression.impressionPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+        },
+        fireClick: function() {
+            var t = AdGlareImageBanner_595021;
+            if(t._clickFired===true) return;
+            t._clickFired = true;
+            AdGlare.loadPixel(t.settings.click.clickURLBase,'img',t.settings.click.clickURLData);
+            for(var i=0; i<t.settings.click.clickPixels.length; i++) {
+                var a = t.settings.click.clickPixels[i];
+                AdGlare.loadPixel(a.url, a.elem);
+            }
+            clearTimeout(AdGlareImageBanner_595021._clickListenerTimer);
+            if(t.settings.verificationCodeClick!='') {
+                window.setTimeout(function(){
+                    var t = AdGlareImageBanner_595021;
+                    var s = document.createElement('SPAN');
+                    s.style.display = 'none';
+                    s.id = 'span_verificationcode_'+t.settings.zID;
+                    document.getElementById('zone'+t.settings.zID).appendChild(s);
+                    AdGlare.addMixedScript(document.getElementById('span_verificationcode_'+t.settings.zID), decodeURIComponent(atob(t.settings.verificationCodeClick)));
+                },100);
+            }
+        },
+        addClickListener: function() {
+            var el = document.getElementById('zone'+AdGlareImageBanner_595021.settings.zID);
+            el.addEventListener('click', AdGlareImageBanner_595021.fireClick, false);
+            window.setTimeout(function() {
+                var f = function() {
+                    //Firefox sends the activeElement *before* the click: use a timeout
+                    window.setTimeout(function() {
+                        var e = document.activeElement;
+                        if(e && e.tagName=='IFRAME' && e.id==AdGlareImageBanner_595021.ifrm_id && document.visibilityState=='visible'){
+                            AdGlareImageBanner_595021.fireClick();
+                        }
+                    },10);
+                };
+                AdGlareImageBanner_595021._clickListenerTimer = window.setInterval(f,1000);
+                window.addEventListener('blur', f, false);
+            },3000);
+        },
+        iFrameResize: function() {
+            
+            if(AdGlareImageBanner_595021.settings.framed==1) {
+                var _overflow = document.body.style.overflow;
+                document.body.style.overflow = 'hidden';
+            }
+            var el = document.getElementById(AdGlareImageBanner_595021.ifrm_id);
+            if(!el) return;
+            var rect = el.getClientRects();
+            if(!rect[0]) return;
+            var el_w = parseFloat(rect[0].width);
+            if(el_w==0) return;
+            var maxh = Math.round(el_w / AdGlareImageBanner_595021.settings.width * AdGlareImageBanner_595021.settings.height*100)/100;
+            if(maxh==0) return;
+            el.style.maxHeight = maxh+'px';
+            if(AdGlareImageBanner_595021.settings.framed==1) {
+                document.body.style.overflow = _overflow;
+            }
+        },
+        
+        
+    }
+AdGlareImageBanner_595021.init(AdGlareSettings_595021);
