@@ -3,7 +3,7 @@
     "title": "Logo",
     "props":{
         "blockClass":"header__top--logo",
-        "url": "assets/img/header-logo.svg",
+        "url": "assets/img/alkosto-logo.svg",
         "href": "/",
         "width": 230
     }

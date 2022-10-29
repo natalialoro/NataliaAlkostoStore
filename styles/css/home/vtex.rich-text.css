@@ -1,0 +1,44 @@
+.paragraph--home_section-one-departmentName{
+    font-size: 14px;
+    color: #004691;
+    margin-top: 5px;
+}
+.paragraph--home_section-one-departmentName-ofertas{
+    color: #eb5b25;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.strong--home__section--three--title-text,
+.strong--home__section--four--title-text,
+.strong--home__section--five--title-text,
+.strong--home__section--six--title-text,
+.strong--home__section--seven--title-text,
+.strong--home__section--eight--title-text,
+.strong--home__section--nine--title-text,
+.strong--home__section--ten--title-text{
+    font-size: 16px;
+    padding: 0 8px 4px;
+    border-bottom: solid 3px #eb5b25;
+    color: #004691;
+    width: fit-content;
+    margin: 0 auto;
+    position: relative;
+    top: -2px;
+}
+.container--home__section--three--title-text,
+.container--home__section--four--title-text,
+.container--home__section--five--title-text,
+.container--home__section--six--title-text,
+.container--home__section--seven--title-text,
+.container--home__section--eight--title-text,
+.container--home__section--nine--title-text,
+.container--home__section--ten--title-text{
+    text-align: center;
+    border-bottom: solid 1px #e0e0e0;
+    height: 25px;
+    margin-bottom: 20px;
+    margin-top: 32px;
+}
+.container--home__section--three--title-text{
+    background: #f5f5f5;
+}

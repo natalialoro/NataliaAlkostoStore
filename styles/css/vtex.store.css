@@ -4,3 +4,7 @@
     --secondary-color    : #e56a54;
     
   }
+  .body {
+    font-size: 14/11em;
+    font-family: Arial,sans-serif;
+}
