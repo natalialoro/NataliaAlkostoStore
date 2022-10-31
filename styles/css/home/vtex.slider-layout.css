@@ -12,13 +12,42 @@
     padding: 10px;
     height: 15px;
 }
+.caretIcon--home__slider--phone{
+    color:  #eb5b25;
+    filter: drop-shadow(rgba(128, 128, 128, 0.39) 2px 2px 2px);
+    background: white;
+    box-shadow: 10px 5px 4px transparent;
+    border-radius: 50%;
+    width: 15px;
+    padding: 10px;
+    height: 15px;
+    margin-bottom: 40px;
+    margin-bottom: -163px;
+}
 .paginationDotsContainer--home__slider{
     transform: translateY(30px);
     margin-bottom: 40px;
     
 }
+.paginationDotsContainer--home__slider--phone{
+    margin-bottom: -98px;
+}
 .paginationDot--home__slider--isActive{
     background-color: #eb5b25;
 }
-
+.paginationDot--home__slider--phone--isActive{
+    background-color: #eb5b25;
+}
+.sliderLayoutContainer--home__slider--phone::-webkit-scrollbar-track{ 
+    background-clip: padding-box;
+}
+.sliderTrackContainer--home__slider--phone{
+    overflow: visible;
+} 
+.sliderLayoutContainer--home__slider--phone{
+    overflow: auto;
+} 
+.sliderTrack--home__slider--phone{
+    width: 470px;
+}
 

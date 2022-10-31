@@ -22,7 +22,8 @@
           "flex-layout.col#section__homeappliances--image16"
         ],
         "props": {
-          "blockClass": "home__section--seven"
+          "blockClass": "home__section--seven",
+          "preserveLayoutOnMobile": true
           
           
         }

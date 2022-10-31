@@ -23,7 +23,8 @@
           "flex-layout.col#section__learn-more--image23"
         ],
         "props": {
-          "blockClass": "home__section--nine"
+          "blockClass": "home__section--nine",
+          "preserveLayoutOnMobile": true
           
           
         }
@@ -59,7 +60,7 @@
         "props": {
           "src": "assets/img/section9.1.jpg",
           "title": "Colchones",
-          "blockClass": "home__image",
+          "blockClass": "home__image--more",
           "link": {
             "url": "/"
           }
@@ -70,7 +71,7 @@
         "props": {
         "src": "assets/img/section9.2.jpg",
         "title": "Cajas Organizadoras",
-        "blockClass": "home__image",
+        "blockClass": "home__image--more",
             "link": {
               "url": "/"
             }
@@ -81,7 +82,7 @@
             "props": {
               "src": "assets/img/section9.3.jpg",
               "title": "Llantas",
-              "blockClass": "home__image",
+              "blockClass": "home__image--more",
               "link": {
                 "url": "/"
             }
@@ -92,7 +93,7 @@
             "props": {
               "src": "assets/img/section9.4.jpg",
               "title": "Juegos de mesa",
-              "blockClass": "home__image",
+              "blockClass": "home__image--more",
               "link": {
                 "url": "/"
             }

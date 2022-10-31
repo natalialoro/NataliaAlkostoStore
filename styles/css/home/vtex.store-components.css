@@ -6,6 +6,15 @@
     box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 16%);
     cursor: pointer;
 }
+.imageElement--home__section--one-department-img-phone{   
+    width: 65px;
+    height: auto;
+    border-radius: 50%;
+    background: white;
+    padding: 5px;
+    box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 16%);
+    cursor: pointer;
+}
 .imageElement--home__section--one-department-img-ofertas{
     padding: 10px;
     width: 76px;
@@ -14,9 +23,42 @@
     border: solid 2px #eb5b25;
     background:#fdeee9
 }
+.imageElement--home__section--one-department-img-ofertas-phone{
+    padding: 5px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    border: solid 2px #eb5b25;
+    background:white 
+}
 .imageElement--home__image--banner-one{
-    margin-left: 100px;
+    margin-left: 27px;
+}
+.imageElement--home__image--banner-two{
+    max-width: 100%;
+    margin-top: 35px;
+    margin-left: 27px;
 }
 .imageElementLink--home__image-top-offers{
     width: 300px;
 }
+.imageElement--home__image-top-offers{
+    width: 310px;
+    margin-left: 10px; 
+    padding-bottom: 15px;
+}
+.imageElement--home__image{
+    width: 420px;
+    margin-left: 16px
+}
+.imageElement--home__image--more{
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+.imageElementLink--home__section__banks--image{
+    padding-left: 90px;
+}
+.imageElement--home__slider--image-phone{
+    width: 100%;
+}
+

@@ -22,7 +22,8 @@
           "flex-layout.col#section__cellphones--image7"
         ],
         "props": {
-          "blockClass": "home__section--cellphones"  
+          "blockClass": "home__section--cellphones",
+          "preserveLayoutOnMobile": true
         }
       },
     "flex-layout.col#section__cellphones--image5":{
@@ -48,7 +49,6 @@
         "props": {
           "src": "assets/img/image4.1.jpg",
           "blockClass": "home__image",
-          "maxWidth": 500,
           "link": {
             "url": "/"
           }
@@ -59,7 +59,6 @@
         "props": {
         "src": "assets/img/section4.2.jpg",
         "blockClass": "home__image",
-        "maxWidth": 500,
             "link": {
               "url": "/"
             }
@@ -70,7 +69,6 @@
             "props": {
               "src": "assets/img/section4.3.jpg",
               "blockClass": "home__image",
-              "maxWidth": 500,
               "link": {
                 "url": "/"
             }

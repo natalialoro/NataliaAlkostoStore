@@ -1,0 +1,29 @@
+{
+    "header-row#header__top--mobile":{
+      "children":[
+        "logo#header__top--logo-mobile",
+        "search-bar#header__search--mobile"
+      ],
+      "props":{
+        "blockClass":"hearder__mobile"
+      }
+    },
+    "logo#header__top--logo-mobile":{
+      "title": "Logo",
+      "props":{
+        "blockClass":"header__top--logo-mobile",
+        "url": "assets/img/alkosto-logo.svg",
+        "href": "/"
+      }
+    },
+    "search-bar#header__search--mobile":{
+    
+      "props": {
+        "openAutocompleteOnFocus": true,
+        "placeholder": "¿Qué buscas hoy?",
+        "maxWidth": 400,
+        "blockClass":"header__search--mobile"
+      }
+    }
+  
+  }

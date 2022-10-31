@@ -22,7 +22,8 @@
           "flex-layout.col#section__tv--image13"
         ],
         "props": {
-          "blockClass": "home__section--six"
+          "blockClass": "home__section--six",
+          "preserveLayoutOnMobile": true
           
           
         }

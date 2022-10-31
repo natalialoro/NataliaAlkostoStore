@@ -1,0 +1,26 @@
+{
+    "responsive-layout.phone#home__phone":{
+        "title": "Resolución Teléfono",
+        "children":[
+            "flex-layout.row#home__section-one-phone",
+            "flex-layout.row#home__section--two-title-phone",
+            "flex-layout.row#home__section--two-phone","flex-layout.row#home__banner--one",
+            "flex-layout.row#home__section--cellphones--title-four",
+            "slider-layout#home__section--cellphones-phone",
+            "flex-layout.row#home__section--computers--title-five",
+            "slider-layout#home__section--computers-phone",
+            "flex-layout.row#home__section--tv--title-six",
+            "slider-layout#home__section--tv-phone",
+            "flex-layout.row#home__section--homeappliances--title-seven",
+            "slider-layout#home__section--home-phone",
+            "flex-layout.row#home__section--videogames--title-eight",
+            "slider-layout#home__section--videogames-phone",
+            "flex-layout.row#home__section--learn-more--title-nine",
+            "slider-layout#home__section--more-phone",
+            "modal-trigger#home__modal--children",
+            "modal-trigger#home__modal--event"
+
+        ]
+          
+}
+}

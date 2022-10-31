@@ -36,6 +36,7 @@
         ],
         "props": {            
             "blockClass": "home__section--banner--two",
+            "preserveLayoutOnMobile": true,
             "colsizing": "auto"     
             
         }
@@ -187,7 +188,7 @@
         "props": {
           "src": "assets/img/baner3.jpg",
           "title": "B2B Commerce",
-          "blockClass": "home__image",
+          "blockClass": "home__image--banner-two",
           "link": {
             "url": "/",
             "newTab": true,

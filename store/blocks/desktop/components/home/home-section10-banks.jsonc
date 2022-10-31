@@ -4,7 +4,8 @@
          "rich-text#home__section--banks--title"
       ],
       "props":{
-        "blockClass": "home__section--banks--title-ten"
+        "blockClass": "home__section--banks--title-ten",
+        "preserveLayoutOnMobile": true
        }
     },  
     "rich-text#home__section--banks--title":{
@@ -31,6 +32,7 @@
       ],
       "props":{
         "blockClass": "home__section__banks--image-text"
+        
       }
     },
     "image#section__banks--image24":{
@@ -45,12 +47,16 @@
     },
     "rich-text#section__banks--image24-text1":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"**Tarjeta Alkosto Mastercard**",
         "blockClass":"section__banks--text1"
       }
     },
     "rich-text#section__banks--image24-text2":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"Conoce las ofertas",
         "blockClass":"section__banks--text2"
       }
@@ -77,12 +83,16 @@
     },
     "rich-text#section__banks--image25-text1":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"**Tarjeta de Crédito Fácil Codensa**",
         "blockClass":"section__banks--text1"
       }
     },
     "rich-text#section__banks--image25-text2":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"Conoce las ofertas",
         "blockClass":"section__banks--text2"
       }
@@ -101,7 +111,7 @@
       "title": "Banco-Davivienda",
       "props": {
           "src": "assets/img/BANCOS-HOME-DAVIVIENDA.png",
-          "blockClass": "home__section__ten--image",
+          "blockClass": "home__section__banks--image",
           "link":{
               "url": "/"
           }
@@ -109,12 +119,16 @@
     },
     "rich-text#section__banks--image26-text1":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"**Tarjeta de Crédito Davivienda**",
         "blockClass":"section__banks--text1"
       }
     },
     "rich-text#section__banks--image26-text2":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"Conoce las ofertas",
         "blockClass":"section__banks--text2"
       }
@@ -141,12 +155,16 @@
     },
     "rich-text#section__banks--image27-text1":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"**Solicita aquí tu**",
         "blockClass":"section__banks--text1"
       }
     },
     "rich-text#section__banks--image27-text2":{
       "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
         "text":"Krédito en 20 Minutos",
         "blockClass":"section__banks--text2"
       }

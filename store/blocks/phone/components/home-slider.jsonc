@@ -1,0 +1,131 @@
+{
+  "flex-layout.row#home__section-one-phone":{
+    "title":"Slider Telefono",
+    "children":[
+      "slider-layout#home__slider--children-phone"
+
+    ]
+},
+"slider-layout#home__slider--children-phone":{
+  "props":{
+    "infinite": true,
+      "blockClass": "home__slider--phone",
+      "autoplay":{
+        "timeout": 3000,
+        "stopOnHover": true
+      }
+    },
+  "children":[
+    "image#home__slider--one-phone",
+    "image#home__slider--two-phone",
+    "image#home__slider--three-phone",
+    "image#home__slider--four-phone",
+    "image#home__slider--five-phone",
+    "image#home__slider--six-phone"
+  ]
+},
+"image#home__slider--one-phone":{
+  "props":{
+    "src":"assets/img/main-slide-1.jpg",
+    "blockClass": "home__slider--image-phone"
+  
+  }
+},
+"image#home__slider--two-phone":{
+  "props":{
+    "src":"assets/img/main-slide-2.jpg",
+    "blockClass": "home__slider--image-phone"
+  }
+},
+"image#home__slider--three-phone":{
+  "props":{
+    "src":"assets/img/main-slide-3.jpg",
+    "blockClass": "home__slider--image-phone"
+  }
+},
+"image#home__slider--four-phone":{
+  "props":{
+    "src":"assets/img/main-slide-4.jpg",
+    "blockClass": "home__slider--image-phone"
+  }
+},
+"image#home__slider--five-phone":{
+  "props":{
+    "src":"assets/img/main-slide-5.jpg",
+    "blockClass": "home__slider--image-phone"
+  }
+},
+"image#home__slider--six-phone":{
+  "props":{
+    "src":"assets/img/main-slide-6.jpg",
+    "blockClass": "home__slider--image-phone"
+  }
+},
+
+"slider-layout#home__section--cellphones-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image5", "image#home__container--image6", "image#home__container--image6"]
+},
+"slider-layout#home__section--computers-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image8","image#home__container--image9", "image#home__container--image10"]
+},
+"slider-layout#home__section--tv-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image11", "image#home__container--image12", "image#home__container--image13"]
+},
+"slider-layout#home__section--home-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image14", "image#home__container--image15", "image#home__container--image16"]
+},
+"slider-layout#home__section--videogames-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image17", "image#home__container--image18", "image#home__container--image19"]
+},
+"slider-layout#home__section--more-phone": {
+  "props": {
+    "itemsPerPage": {
+      "phone": 1
+    },
+    "infinite": true,
+    "showNavigationArrows": "desktopOnly",
+    "blockClass": "home__slider--phone"
+  },
+  "children": ["image#home__container--image20", "image#home__container--image21", "image#home__container--image22"]
+}
+}
