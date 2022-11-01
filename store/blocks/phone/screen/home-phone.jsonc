@@ -4,7 +4,8 @@
         "children":[
             "flex-layout.row#home__section-one-phone",
             "flex-layout.row#home__section--two-title-phone",
-            "flex-layout.row#home__section--two-phone","flex-layout.row#home__banner--one",
+            "flex-layout.row#home__section--two-phone",
+            "flex-layout.row#home__banner--one-phone",
             "flex-layout.row#home__section--cellphones--title-four",
             "slider-layout#home__section--cellphones-phone",
             "flex-layout.row#home__section--computers--title-five",

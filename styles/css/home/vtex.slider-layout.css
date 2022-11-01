@@ -12,7 +12,7 @@
     padding: 10px;
     height: 15px;
 }
-.caretIcon--home__slider--phone{
+.caretIcon--home__slider-one--phone{
     color:  #eb5b25;
     filter: drop-shadow(rgba(128, 128, 128, 0.39) 2px 2px 2px);
     background: white;
@@ -29,25 +29,31 @@
     margin-bottom: 40px;
     
 }
-.paginationDotsContainer--home__slider--phone{
+.paginationDotsContainer--home__slider-one--phone{
     margin-bottom: -98px;
 }
 .paginationDot--home__slider--isActive{
     background-color: #eb5b25;
 }
-.paginationDot--home__slider--phone--isActive{
+.paginationDot--home__slider-one--phone--isActive{
     background-color: #eb5b25;
 }
-.sliderLayoutContainer--home__slider--phone::-webkit-scrollbar-track{ 
+.paginationDotsContainer--home__slider-section--phone{
+    display: none;
+}
+.sliderLayoutContainer--home__slider-section--phone::-webkit-scrollbar-track{ 
     background-clip: padding-box;
 }
-.sliderTrackContainer--home__slider--phone{
+.sliderTrackContainer--home__slider-section--phone{
     overflow: visible;
 } 
-.sliderLayoutContainer--home__slider--phone{
+.sliderLayoutContainer--home__slider-section--phone{
     overflow: auto;
 } 
-.sliderTrack--home__slider--phone{
-    width: 470px;
+.sliderTrack--home__slider-section--phone{
+    width: 400px;
+}
+.sliderTrack--home__slider-section--phone{
+    padding: 15px 75px 10px 75px;
 }
 
