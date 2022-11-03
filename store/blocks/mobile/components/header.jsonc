@@ -36,7 +36,9 @@
     },
     "drawer#header__middle":{
       "children":[
-        
       ]
+        "maxWidth": 400,
+        "blockClass":"header__search--mobile"
+      }
     }
   }
