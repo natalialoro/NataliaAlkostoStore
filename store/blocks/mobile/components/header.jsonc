@@ -21,6 +21,22 @@
       "props": {
         "openAutocompleteOnFocus": true,
         "placeholder": "¿Qué buscas hoy?",
+        "maxWidth": 390,
+        "blockClass":"header__search--mobile"
+      }
+    },
+    "header-row#header__middle--mobile":{
+      "children":[
+        "drawer#header__middle"
+      ],
+      "title":"header-middle-mobile",
+      "props":{
+        "blockClass":"hearder__middle-mobile"
+      }
+    },
+    "drawer#header__middle":{
+      "children":[
+      ]
         "maxWidth": 400,
         "blockClass":"header__search--mobile"
       }
