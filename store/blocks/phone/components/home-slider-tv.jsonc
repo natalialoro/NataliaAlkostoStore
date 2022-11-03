@@ -1,0 +1,47 @@
+{
+    "slider-layout#home__section--tv-phone": {
+        "title": "section-tv-phone",
+        "props": {
+          "itemsPerPage": {
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "blockClass": "home__slider-section--phone"
+        },
+        "children": ["image#home__container--image11-phone", "image#home__container--image12-phone", "image#home__container--image13-phone"]
+      },
+      "image#home__container--image11-phone":{
+        "title": "Samsung",
+        "props": {
+          "src": "assets/img/section6.1.jpg",
+          "title": "Samsung",
+          "blockClass": "home__image-phone",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image12-phone":{
+        "title": "Lg",
+        "props": {
+        "src": "assets/img/section6.2.jpg",
+        "title": "Lg",
+        "blockClass": "home__image-phone",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image13-phone":{
+            "title": "Tcl",
+            "props": {
+              "src": "assets/img/section6.3.jpg",
+              "title": "Tcl",
+              "blockClass": "home__image-phone",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

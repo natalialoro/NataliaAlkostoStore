@@ -1,0 +1,70 @@
+{ 
+  "flex-layout.row#home__section--topoffers-title-phone":{
+    "title": "title-topoffers-phone",
+    "children":["rich-text#home__section--topoffers--title"],
+    "props":{
+        "blockClass": "home__section--cellphones--title-four"
+        }
+      },
+    "rich-text#home__section--topoffers--title":{
+      "title": "topoffers-title-phone",
+      "props":{
+        "text": "**Ofertas Destacadas**",
+        "textPosition": "CENTER",
+        "blockClass": "home__section--four--title-text"
+        }
+      }, 
+  "slider-layout#home__section--offers-phone": {
+    "title": "slider-offers-phone",
+    "props": {
+      "itemsPerPage": {
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "home__slider-section--phone"
+    },
+    "children": ["image#home__container--image1-phone", "image#home__container--image2-phone","image#home__container--image3-phone","image#home__container--image4-phone"]
+  },
+    "image#home__container--image1-phone":{
+        "title": "Portátil",
+        "props": {
+          "src": "assets/img/image3.1.jpg",
+          "blockClass":"home__image-top-offers-phone",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image2-phone":{
+        "title": "Galaxy",
+        "props": {
+            "src": "assets/img/section3.2.jpg",
+            "blockClass":"home__image-top-offers-phone",
+            "link": {
+              "url": "/"
+            }
+            }
+        },
+    "image#home__container--image3-phone":{
+        "title": "Lavadora",
+        "props": {
+            "src": "assets/img/image3.3.jpg",
+            "blockClass":"home__image-top-offers-phone",
+            "link": {
+                "url": "/"
+            }
+            }
+        },
+    "image#home__container--image4-phone":{
+        "title": "TV",
+        "props": {
+            "src": "assets/img/image3.4.jpg",
+            "blockClass":"home__image-top-offers-phone",
+                "link": {
+                  "url": "/"
+            }
+            }
+        
+        }
+}

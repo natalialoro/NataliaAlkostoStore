@@ -8,4 +8,19 @@
     text-decoration: none;
     color: white;
 }
+.paragraph--minicart-text{
+    font-size: 14px;
+    color: white;
+    margin-top: 3px;
+    margin-left: 17px;
+}
+.paragraph--text__login1{
+    font-size: 14px;
+    color: white;
+    margin-top: -15px;
+
+}
+.wrapper--header__top--text{
+    margin-left: 10px;
+}
 

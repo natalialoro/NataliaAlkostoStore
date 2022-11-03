@@ -1,0 +1,257 @@
+{
+    "header-layout.desktop":{
+      "title": "Header Desktop",
+      "children":[
+        "header-row#header__top--desktop",
+        "header-row#header__middle--desktop",
+        "header-row#header__menu"
+      ]
+    } 
+  }
+
+
+
+/*{
+"header":{
+   "title": "Header",
+   "blocks":[
+     "header-layout.desktop",
+     "header-layout.mobile"
+   ]
+  },
+  "header.full":{
+   "title": "Header",
+   "blocks":[
+    "header-layout.desktop",
+    "header-layout.mobile"
+   ]
+  },
+"header-layout.desktop":{
+ "title": "Header Desktop",
+ "children":[
+  
+   "header-row#header__top",
+   "header-row#header__middle",
+   "header-row#header__menu"
+
+ ]
+},
+ "header-row#header__top":{
+    "title": "Header__top",
+    "children":[
+      "header-spacer",
+      "vtex.menu@2.x:menu#header__top"
+    ],
+    "props":{
+      "sticky":true,
+        "blockClass": "header__desktop--top"
+    }
+  },
+  "vtex.menu@2.x:menu#header__top":{
+    "children": [
+      "menu-item#header__venta",
+      "menu-item#header__servicio",
+      "menu-item#header__pedido",
+      "menu-item#header__tiendas",
+      "menu-item#header__catalogo",
+      "menu-item#header__ayuda"
+      
+    ],
+    "props":{
+      "orientation": "horizontal",
+      "blockClass": "container__header--top"
+    }
+  },
+  "header-row#header__middle":{
+    "children":[
+      "logo#header__top--logo",
+      "search-bar#header__search",
+      "login",
+      "minicart.v2#header__minicart"
+      
+    ],
+     "props":{
+      "sticky":true,
+      "blockClass": "Header__middle"
+    }
+  },
+   "header-row#header__menu":{
+      "title": "Header__menu",
+      "children":[
+        "vtex.menu@2.x:menu#header__menu"
+      ],
+      "props":{
+        "sticky":true,
+        "blockClass": "header__desktop--menu"
+      }
+    },
+  "vtex.menu@2.x:menu#header__menu":{
+    "children": [
+      "menu-item#department__celphones--one",
+      "menu-item#department__computers--two",
+      "menu-item#department__home-appliances--three",
+      "menu-item#department__tv--four",
+      "menu-item#department__accesories--five",
+      "menu-item#department__videogame--six",
+      "menu-item#department__audio--seven",
+      "menu-item#department__camera--eight",
+      "menu-item#department__smart-house--nine",
+      "menu-item#department__home--ten",
+      "menu-item#department__sports--eleven"
+      
+    ],
+    "props":{
+      "orientation": "horizontal",
+      "blockClass": "container__header--menu"
+    }
+   
+   }*/
+
+
+
+   /*
+   "header":{
+    "title": "Header",
+    "blocks":[
+      "header-layout.desktop",
+      "header-layout.mobile"
+    ]
+   },
+   "header.full":{
+    "title": "Header",
+    "blocks":[
+     "header-layout.desktop",
+     "header-layout.mobile"
+    ]
+   },
+ "header-layout.desktop":{
+  "title": "Header Desktop",
+  "children":[
+
+    "header-row#header__top&middle-desktop",
+    "header-row#header__menu"
+  ]
+ },
+
+ "header-row#header__top&middle-desktop": {
+  "children": [
+    "stack-layout#header__top&middle-desktop"
+  ],
+  "props":{
+    "sticky":true,
+    "blockClass": "header__top&middle-desktop"
+  }
+},
+"stack-layout#header__top&middle-desktop": {
+  "children": [
+    "flex-layout.row#header__top&middle-desktop",
+    "flex-layout.row#header__top--logo"
+  ],
+  "props": {
+    "blockClass": "stack__header__top--middle-desktop"
+  }
+},
+"flex-layout.row#header__top&middle-desktop": {
+  "children": [
+    "flex-layout.col#header__top-menu&middle-menu-desktop"
+  ],
+  "props": {
+    "blockClass": "header__top-desktop"
+  }
+},
+"flex-layout.col#header__top-menu&middle-menu-desktop": {
+  "children": [
+    "flex-layout.row#header__top--menu",
+    "flex-layout.row#header__middle--menu"
+  ],
+  "props": {
+    "blockClass": "header__top-menu&middle-menu-desktop"
+  }
+},
+"flex-layout.row#header__top--menu": {
+  "children": [
+
+    "vtex.menu@2.x:menu#header__top"
+  ],
+  "props": {
+    "blockClass": "header__top--menu",
+    "colSizing": "auto"
+  }
+},
+"vtex.menu@2.x:menu#header__top":{
+  "children": [
+    "header-spacer",
+    "header-spacer",
+    "menu-item#header__venta",
+    "menu-item#header__servicio",
+    "menu-item#header__pedido",
+    "menu-item#header__tiendas",
+    "menu-item#header__catalogo",
+    "menu-item#header__ayuda"
+    
+  ],
+  "props":{
+    "orientation": "horizontal",
+    "blockClass": "container__header--top"
+  }
+},
+"flex-layout.row#header__middle--menu": {
+  "children": [
+    "search-bar#header__search",
+    "login",
+    "minicart.v2#header__minicart"
+  ],
+  "props": {
+    "blockClass": "header__middle--menu",
+    "colSizing": "auto"
+  }
+},
+"flex-layout.row#header__top--logo": {
+  "children": [
+    "logo#header__top--logo"
+  ],
+  "props": {
+    "blockClass": "header__top--logo",
+    "colSizing": "auto"
+  }
+},
+    "header-row#header__menu":{
+       "title": "Header__menu",
+       "children":[
+         "vtex.menu@2.x:menu#header__menu"
+       ],
+       "props":{
+         "sticky":true,
+         "blockClass": "header__desktop--menu"
+       }
+     }
+  }*/
+
+
+
+
+
+
+
+   
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ 

@@ -3,8 +3,8 @@
         "title": "Header-top",
         "children":[   
           "header-spacer", 
-          /*
-          "header-row#header__top--hiperofertas",*/
+          /*"header-row#header__top--hiperofertas",*/
+          "header-row#header__hiperofertas--desktop",
           "rich-text#venta",
           "rich-text#servicio",
           "rich-text#pedido",
@@ -18,41 +18,83 @@
         }
     },
     "rich-text#venta":{
+        "title": "venta",
         "props":{
             "text": "[Venta: (601) 7468001](/)",
             "blockClass":"header__top--text"
         }
     }, 
     "rich-text#servicio":{
+        "title": "servicio",
         "props":{
             "text": "[Servicio: (601) 407 3033](/)",
             "blockClass":"header__top--text" 
         }
     },
     "rich-text#pedido":{
+        "title": "pedido",
         "props":{
             "text": "[Sigue tu pedido](/)",
             "blockClass":"header__top--text"     
         }
     },
     "rich-text#tiendas":{
+        "title": "tiendas",
         "props":{
             "text":"[Nuestras tiendas](/)",
             "blockClass":"header__top--text"   
         }
     },
     "rich-text#catalogo":{
+        "title": "catalogo",
         "props":{
             "text":"[Catálogo](/)",
             "blockClass":"header__top--text"
         }
     },
     "rich-text#ayuda":{
+        "title": "ayuda",
         "props":{
             "text": "[Ayuda](/)",
             "blockClass":"header__top--text"
         }
+    },
+    "header-row#header__hiperofertas--desktop": {
+      "children": [
+        "flex-layout.row#header__bottom-hiperofertas"
+      ],
+      "props": {
+        "blockClass": "header__hiperofertas--desktop"
+      }
+    },
+    "flex-layout.row#header__bottom-hiperofertas": {
+      "children": [
+        "image#hiperofertas",
+        "link#hiperofertas"
+      ],
+      "props": {
+        "colSizing": "auto",
+        "colGap": 5
+      }
+    },
+    "image#hiperofertas": {
+      "props": {
+        "src": "assets/icons/ofertas-web.png",
+        "width": 20,
+        "blockClass":"header__hiperofertas"
+      }
+    },
+    "link#hiperofertas": {
+      "props": {
+        "href": "/",
+        "label": "Hiperofertas",
+        "blockClass": "link__hiperofertas"
+      }
     }
+
+
+
+
     /*
     "header-row#header__top--hiperofertas":{
       "children":[
