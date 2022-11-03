@@ -14,6 +14,11 @@
     color: #004691;
     background-color: #fff;
 } 
+.link--link__hiperofertas{
+    text-decoration: none;
+    color: #fff;
+    margin-left: -20px;   
+}
 /*
 .link--header__hiperofertas{
     text-decoration: none;
