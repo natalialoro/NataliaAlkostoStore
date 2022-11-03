@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--topoffers--title-three":{
+    "title": "title-three",
     "children":[
       "rich-text#home__section--topoffers--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--topoffers--title":{
+    "title": "topoffers--title",
     "props":{
       "text": "**Ofertas destacadas**",
       "textPosition": "CENTER",
@@ -15,7 +17,7 @@
     }
   },  
   "flex-layout.row#home__section--topoffers-images":{
-      "title": "Ofertas-destacadas",
+      "title": "topoffers-images",
       "children":[
         "flex-layout.col#section__topoffers--image1",
         "flex-layout.col#section__topoffers--image2",
@@ -28,21 +30,25 @@
       }
     },
     "flex-layout.col#section__topoffers--image1":{
+      "title": "topoffers--image1",
       "children": [
         "image#home__container--image1"
       ]
     },
     "flex-layout.col#section__topoffers--image2":{
+      "title": "topoffers--image2",
       "children": [ 
         "image#home__container--image2" 
       ]
     },
     "flex-layout.col#section__topoffers--image3":{
+      "title": "topoffers--image3",
       "children": [ 
         "image#home__container--image3"
       ]
     },
     "flex-layout.col#section__topoffers--image4":{
+      "title": "topoffers--image4",
       "children": [
         "image#home__container--image4"
       ]
@@ -87,10 +93,7 @@
                 "url": "/"
               }
             }
-      
-          }
-
-           
+          }       
 }
         
       

@@ -1,6 +1,6 @@
 {
     "flex-layout.row#home__section--one":{
-        "title":"slider",
+        "title":"slider-departamentos",
         "children":[
            "slider-layout#home__slider--children",
            "flex-layout.row#home__section--one-department"

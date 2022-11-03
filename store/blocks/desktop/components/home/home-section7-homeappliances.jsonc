@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--homeappliances--title-seven":{
+    "title": "title-seven",
     "children":[
       "rich-text#home__section--homeappliances--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--homeappliances--title":{
+    "title": "homeappliances--title",
     "props":{
       "text": "**Electrodomésticos**",
       "textPosition": "CENTER",
@@ -23,31 +25,27 @@
         ],
         "props": {
           "blockClass": "home__section--seven",
-          "preserveLayoutOnMobile": true
-          
-          
+          "preserveLayoutOnMobile": true 
         }
-    
       },
     "flex-layout.col#section__homeappliances--image14":{
+        "title": "homeappliances--image14",
         "children": [
           "image#home__container--image14"
         ]
       },
     "flex-layout.col#section__homeappliances--image15":{
-        "children": [
-          
+        "title": "homeappliances--image15",
+        "children": [ 
           "image#home__container--image15"
-          
         ]
       },
     "flex-layout.col#section__homeappliances--image16":{
+        "title": "homeappliances--image16",
         "children": [
-          
           "image#home__container--image16"
         ]
       },
-  
     "image#home__container--image14":{
         "title": "Lavadora-secadora",
         "props": {

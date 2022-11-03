@@ -1,0 +1,44 @@
+{
+    "slider-layout#home__section--cellphones-phone": {
+    "title": "section-cellphones-phone",
+    "props": {
+      "itemsPerPage": {
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "home__slider-section--phone"
+    },
+    "children": ["image#home__container--image5-phone", "image#home__container--image6-phone", "image#home__container--image7-phone"]
+  },
+  "image#home__container--image5-phone":{
+    "title": "Portátil",
+    "props": {
+      "src": "assets/img/image4.1.jpg",
+      "blockClass": "home__image-phone",
+      "link": {
+        "url": "/"
+      }
+    }
+    },
+"image#home__container--image6-phone":{
+    "title": "Galaxy",
+    "props": {
+    "src": "assets/img/section4.2.jpg",
+    "blockClass": "home__image-phone",
+        "link": {
+          "url": "/"
+        }
+    }
+    },
+"image#home__container--image7-phone":{
+        "title": "Lavadora",
+        "props": {
+          "src": "assets/img/section4.3.jpg",
+          "blockClass": "home__image-phone",
+          "link": {
+            "url": "/"
+        }
+    }
+    }
+}

@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--computers--title-five":{
+    "title": "title-five",
     "children":[
       "rich-text#home__section--computers--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--computers--title":{
+    "title": "computers--title",
     "props":{
       "text": "**Computadores**",
       "textPosition": "CENTER",
@@ -23,31 +25,27 @@
         ],
         "props": {
           "blockClass": "home__section--computers",
-          "preserveLayoutOnMobile": true
-          
-          
+          "preserveLayoutOnMobile": true  
         }
-    
       },
     "flex-layout.col#section__computers--image8":{
+        "title": "computers--image8",
         "children": [
           "image#home__container--image8"
         ]
       },
     "flex-layout.col#section__computers--image9":{
+      "title": "computers--image9",
         "children": [
-          
           "image#home__container--image9"
-          
         ]
       },
     "flex-layout.col#section__computers--image10":{
+      "title": "computers--image10",
         "children": [
-          
           "image#home__container--image10"
         ]
       },
-  
     "image#home__container--image8":{
         "title": "Portátil-hp",
         "props": {

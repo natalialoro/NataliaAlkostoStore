@@ -128,3 +128,28 @@ margin-right: 20px;
     margin: 0;
     text-align: center;
 }
+.paragraph--section__banks--text1-phone{
+    font-size: 16px;
+    color: #444444;
+    margin-bottom: 0;
+    margin-top: 16px;
+    font-family: inherit;
+}
+.paragraph--section__banks--text1-phone{
+    margin: 0px;
+    line-height: 1;
+    text-align: center;
+}
+.paragraph--section__banks--text1-phone:hover{
+    text-decoration: underline;
+    text-decoration-color: #EB5B25;
+}
+.paragraph--section__banks--text2-phone{
+    font-size: 15px;
+    color: #EB5B25;
+    text-decoration: underline;
+    font-weight: normal;
+    margin: 0;
+    text-align: center;
+}
+

@@ -1,6 +1,6 @@
 {
   "responsive-layout.desktop#home__desktop":{
-        "title": "Resolución Escritorio",
+        "title": "responsive-desktop",
         "children":[
           "flex-layout.row#home__section--one",
           "flex-layout.row#home__banner--one",

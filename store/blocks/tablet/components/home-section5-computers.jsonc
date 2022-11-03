@@ -1,0 +1,82 @@
+{
+  "flex-layout.row#home__section--computers--title-five":{
+    "title": "title-five",
+    "children":[
+      "rich-text#home__section--computers--title"
+    ],
+    "props":{
+      "blockClass": "home__section--computers--title-five"
+    }
+  },
+  "rich-text#home__section--computers--title":{
+    "title": "computers--title",
+    "props":{
+      "text": "**Computadores**",
+      "textPosition": "CENTER",
+      "blockClass": "home__section--five--title-text"
+    }
+  },  
+    "flex-layout.row#home__section--computers-tablet":{
+        "title": "Computadores-tablet",
+        "children":[
+          "flex-layout.col#section__computers--image8-tablet",
+          "flex-layout.col#section__computers--image9-tablet",
+          "flex-layout.col#section__computers--image10-tablet"
+        ],
+        "props": {
+          "blockClass": "home__section--computers-tablet",
+          "preserveLayoutOnMobile": true  
+        }
+      },
+    "flex-layout.col#section__computers--image8-tablet":{
+        "title": "computers--image8-tablet",
+        "children": [
+          "image#home__container--image8-tablet"
+        ]
+      },
+    "flex-layout.col#section__computers--image9-tablet":{
+      "title": "computers--image9-tablet",
+        "children": [
+          "image#home__container--image9-tablet"
+        ]
+      },
+    "flex-layout.col#section__computers--image10-tablet":{
+      "title": "computers--image10-tablet",
+        "children": [
+          "image#home__container--image10-tablet"
+        ]
+      },
+    "image#home__container--image8-tablet":{
+        "title": "Portátil-hp",
+        "props": {
+          "src": "assets/img/section5.1.jpg",
+          "title": "Portátil hp",
+          "blockClass": "home__image-tablet",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image9-tablet":{
+        "title": "Portátil-Asus",
+        "props": {
+        "src": "assets/img/section5.2.jpg",
+        "title": "Portátil Asus",
+        "blockClass": "home__image-tablet",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image10-tablet":{
+            "title": "Portátil-Asus2",
+            "props": {
+              "src": "assets/img/section5.3.jpg",
+              "title": "Portátil Asus",
+              "blockClass": "home__image-tablet",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

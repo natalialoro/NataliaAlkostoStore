@@ -1,26 +1,31 @@
 {
     "modal-trigger#home__modal--children":{
+    "title": "modal--children",
     "children":[
       "rich-text#home__modal--trigger",
       "modal-layout#home__modal--layout"
     ]
   },
   "rich-text#home__modal--trigger":{
+    "title": "modal--trigger",
     "props":{
       "text":"Términos y condiciones"
     }
   },
   "modal-layout#home__modal--layout":{
+    "title": "modal--layout",
     "children":[
       "rich-text#home__modal--content"
     ]
   },
   "rich-text#home__modal--content":{
+    "title": "modal--content",
     "props":{
       "text": "#Términos y Condiciones\n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lobortis nunc. Maecenas sed sollicitudin orci. Curabitur lectus tellus, blandit auctor dapibus sed, sodales vel velit. Pellentesque placerat neque vel purus hendrerit gravida. Sed a convallis erat, sed elementum augue. Etiam tristique non ex in euismod. Maecenas ut eros ut arcu venenatis molestie fringilla a nisl. Vestibulum neque ante, vulputate sed dictum ut, mollis vitae eros. Proin eget turpis eu tortor mattis congue eget id justo. Donec quis arcu nec orci viverra semper. Vestibulum et mattis urna, eget rutrum nisl. Phasellus vitae lacus non nibh efficitur lacinia. Cras rhoncus ex."
     }
   },
   "modal-trigger#home__modal--event":{
+    "title": "modal--event",
     "children":[
       "modal-layout#home__modal--event"
     ],
@@ -30,17 +35,20 @@
     }
   },
   "modal-layout#home__modal--event":{
+    "title": "modal--event",
     "children":[
       "modal-header#home__modal--event",
       "rich-text#home__modal--event-content"
     ]
   },
   "rich-text#home__modal--event-content":{
+    "title": "event-content",
     "props":{
       "text": "Evento de DOM Loaded"
     }
   },
   "modal-header#home__modal--event":{
+    "title": "home-modal-event",
     "props":{
       "showCloseButton":true
     }

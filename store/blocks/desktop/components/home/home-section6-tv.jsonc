@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--tv--title-six":{
+    "title": "title-six",
     "children":[
       "rich-text#home__section--tv--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--tv--title":{
+    "title": "tv--title",
     "props":{
       "text": "**Televisores**",
       "textPosition": "CENTER",
@@ -23,31 +25,27 @@
         ],
         "props": {
           "blockClass": "home__section--six",
-          "preserveLayoutOnMobile": true
-          
-          
+          "preserveLayoutOnMobile": true 
         }
-    
       },
     "flex-layout.col#section__tv--image11":{
+        "title": "tv--image11",
         "children": [
           "image#home__container--image11"
         ]
       },
     "flex-layout.col#section__tv--image12":{
+        "title": "tv--image12",
         "children": [
-          
           "image#home__container--image12"
-          
         ]
       },
     "flex-layout.col#section__tv--image13":{
-        "children": [
-          
+        "title": "tv--image13",
+        "children": [   
           "image#home__container--image13"
         ]
-      },
-  
+      },  
     "image#home__container--image11":{
         "title": "Samsung",
         "props": {

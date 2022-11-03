@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--videogames--title-eight":{
+    "title": "title-eight",
     "children":[
       "rich-text#home__section--videogames--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--videogames--title":{
+    "title": "videogames--title",
     "props":{
       "text": "**Videojuegos y mas**",
       "textPosition": "CENTER",
@@ -24,30 +26,26 @@
         "props": {
           "blockClass": "home__section--eight",
           "preserveLayoutOnMobile": true
-          
-          
         }
-    
       },
     "flex-layout.col#section__videogames--image17":{
+        "title": "videogames--image17",
         "children": [
           "image#home__container--image17"
         ]
       },
-    "flex-layout.col#section__videogames--image18":{
+    "flex-layout.col#section__videogames--image18":{  
+        "title": "videogames--image18",
         "children": [
-          
-          "image#home__container--image18"
-          
+          "image#home__container--image18" 
         ]
       },
     "flex-layout.col#section__videogames--image19":{
+        "title": "videogames--image19",
         "children": [
-          
           "image#home__container--image19"
         ]
       },
-  
     "image#home__container--image17":{
         "title": "Reloj",
         "props": {

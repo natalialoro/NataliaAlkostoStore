@@ -1,0 +1,58 @@
+{
+    "slider-layout#home__section--more-phone": {
+        "title": "section-more-phone",
+        "props": {
+          "itemsPerPage": {
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "blockClass": "home__slider-section--phone"
+        },
+        "children": ["image#home__container--image20-phone", "image#home__container--image21-phone", "image#home__container--image22-phone","image#home__container--image23-phone"]
+      },
+    "image#home__container--image20-phone":{
+        "title": "Colchones",
+        "props": {
+          "src": "assets/img/section9.1.jpg",
+          "title": "Colchones",
+          "blockClass": "home__image--more-phone",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image21-phone":{
+        "title": "Cajas",
+        "props": {
+        "src": "assets/img/section9.2.jpg",
+        "title": "Cajas Organizadoras",
+        "blockClass": "home__image--more-phone",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image22-phone":{
+        "title": "Llantas",
+        "props": {
+            "src": "assets/img/section9.3.jpg",
+            "title": "Llantas",
+            "blockClass": "home__image--more-phone",
+            "link": {
+                "url": "/"
+            }
+        }
+        },
+    "image#home__container--image23-phone":{
+        "title": "Juegos-de-mesa",
+        "props": {
+            "src": "assets/img/section9.4.jpg",
+            "title": "Juegos de mesa",
+            "blockClass": "home__image--more-phone",
+            "link": {
+                "url": "/"
+            }
+        }
+        }
+}

@@ -1,0 +1,200 @@
+{
+    "slider-layout#home__section--banks":{
+        "title": "Slider-banks-phone",
+        "props":{
+            "itemsPerPage": {
+                "phone": 1
+            },
+            "showPaginationDots":"never",
+            "showNavigationArrows": "never",
+            "infinite": true,
+            "blockClass": "home__slider-section--phone"       
+        },
+        "children":[ 
+            "flex-layout.row#section__banks--image24-phone",
+            "flex-layout.row#section__banks--image25-phone",
+            "flex-layout.row#section__banks--image26-phone",
+            "flex-layout.row#section__banks--image27-phone"
+        ] 
+      },
+      "flex-layout.row#section__banks--image24-phone":{
+      "title": "banks-image24-phone",
+      "children": [
+          "flex-layout.col#section__banks--image24-phone"
+      ]
+      }, 
+      "flex-layout.row#section__banks--image25-phone":{
+        "title": "banks-image25-phone",
+        "children": [
+            "flex-layout.col#section__banks--image25-phone" 
+        ]
+      }, 
+      "flex-layout.row#section__banks--image26-phone":{
+        "title": "banks-image26-phone",
+        "children": [    
+            "flex-layout.col#section__banks--image26-phone"
+        ]
+      }, 
+      "flex-layout.row#section__banks--image27-phone":{
+        "title": "banks-image27-phone",
+        "children": [
+            "flex-layout.col#section__banks--image27-phone" 
+        ]
+      }, 
+      "flex-layout.col#section__banks--image24-phone":{
+        "title": "banks-image24-text-phone",
+        "children":[
+            "image#section__banks--image24-phone",
+            "rich-text#section__banks--image24-text1-phone",
+            "rich-text#section__banks--image24-text2-phone"
+        ],
+        "props":{
+          "blockClass":"home__section__banks--image-text"
+        }
+      },
+      "image#section__banks--image24-phone":{
+        "title": "Beneficios con bancos",
+        "props": {
+            "src": "assets/img/BANCOS-HOME-TCA.png",
+            "blockClass": "home__section__banks--image-phone",
+            "link":{
+                "url": "/"
+            }
+        }
+      },
+      "rich-text#section__banks--image24-text1-phone":{
+        "title": "banks--image24-text1",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"**Tarjeta Alkosto Mastercard**",
+          "blockClass":"section__banks--text1-phone"
+        }
+      },
+      "rich-text#section__banks--image24-text2-phone":{
+        "title": "banks--image24-text2",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"Conoce las ofertas",
+          "blockClass":"section__banks--text2-phone"
+        }
+      },
+      "flex-layout.col#section__banks--image25-phone":{
+        "title": "banks-image25-text-phone",
+        "children":[
+            "image#section__banks--image25-phone",
+            "rich-text#section__banks--image25-text1-phone",
+            "rich-text#section__banks--image25-text2-phone"
+        ],
+        "props":{
+          "blockClass":"home__section__banks--image-text"
+        }
+      },
+      "image#section__banks--image25-phone":{
+        "title": "Banco-Codensa",
+        "props": {
+            "src": "assets/img/BANCOS-HOME-CODENSA.png",
+            "blockClass": "home__section__banks--image-phone",
+            "link":{
+                "url": "/"
+            }
+        }
+      },
+      "rich-text#section__banks--image25-text1-phone":{
+        "title": "banks--image25-text1",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"**Tarjeta de Crédito Fácil Codensa**",
+          "blockClass":"section__banks--text1-phone"
+        }
+      },
+      "rich-text#section__banks--image25-text2-phone":{
+        "title": "banks--image25-text2",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"Conoce las ofertas",
+          "blockClass":"section__banks--text2-phone"
+        }
+      },
+      "flex-layout.col#section__banks--image26-phone":{
+        "title": "banks-image26-text-phone",
+        "children":[
+            "image#section__banks--image26-phone",
+            "rich-text#section__banks--image26-text1-phone",
+            "rich-text#section__banks--image26-text2-phone"
+        ],
+        "props":{
+          "blockClass":"home__section__banks--image-text"
+        }
+      },
+      "image#section__banks--image26-phone":{
+        "title": "Banco-Davivienda",
+        "props": {
+            "src": "assets/img/BANCOS-HOME-DAVIVIENDA.png",
+            "blockClass": "home__section__banks--image-phone",
+            "link":{
+                "url": "/"
+            }
+        }
+      },
+      "rich-text#section__banks--image26-text1-phone":{
+        "title": "banks--image26-text1",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"**Tarjeta de Crédito Davivienda**",
+          "blockClass":"section__banks--text1-phone"
+        }
+      },
+      "rich-text#section__banks--image26-text2-phone":{
+        "title": "banks--image26-texto2",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"Conoce las ofertas",
+          "blockClass":"section__banks--text2-phone"
+        }
+      },
+      "flex-layout.col#section__banks--image27-phone":{
+        "title": "banks-image27-text-phone",
+        "children":[
+            "image#section__banks--image27-phone",
+            "rich-text#section__banks--image27-text1-phone",
+            "rich-text#section__banks--image27-text2-phone"
+        ],
+        "props":{
+          "blockClass":"home__section__banks--image-text"
+        }
+      },
+      "image#section__banks--image27-phone":{
+        "title": "Kredito",
+        "props": {
+            "src": "assets/img/BANCOS-HOME-KREDITO-20MIN.png",
+            "blockClass": "home__section__banks--image-phone",
+            "link":{
+                "url": "/"
+            }
+        }
+      },
+      "rich-text#section__banks--image27-text1-phone":{
+        "title": "banks--image27-text1",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"**Solicita aquí tu**",
+          "blockClass":"section__banks--text1-phone"
+        }
+      },
+      "rich-text#section__banks--image27-text2-phone":{
+        "title": "banks--image27-text2",
+        "props":{
+          "textAlignment": "CENTER",
+          "textPosition": "CENTER",
+          "text":"Krédito en 20 Minutos",
+          "blockClass":"section__banks--text2-phone"
+        }
+      }
+}

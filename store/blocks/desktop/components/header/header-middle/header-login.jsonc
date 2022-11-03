@@ -1,36 +1,94 @@
 {
     "flex-layout.row#login__section--header":{
+        "title": "row-login-section-header",
         "children":[
-            "flex-layout.col#login__section--header"    
+            "modal-trigger#header__login"  
         ],
         "props":{
             "blockClass":"container__login__logo--header"
         }
     },
-    "flex-layout.col#login__section--header":{
-        "children":[     
-            "login",
-            "link#login"
-        ],
-        "props":{
-            "blockClass":"container__login__logo--header"
-        }
-    },
-    "login":{
-        "props": {
-            "emailAndPasswordTitle": "LOG-IN",
-            "accessCodeTitle": "Acess Code LOG-IN",
-            "emailPlaceholder": "e-mail",
-            "passwordPlaceholder": "password",
-            "showPasswordVerificationIntoTooltip": true,
-            "showIconProfile": true
-        }
-    },  
-    "link#login": {
-        "props": {
-            "href": "/",
-            "label": "Mi cuenta",
-            "blockClass":"link__login"
-        }
+    "modal-trigger#header__login":{
+    "title": "modal-header-login",
+    "children": [
+      "flex-layout.row#login",
+      "modal-layout#header__middle--login-content"
+    ],
+    "props":{
+        "blockClass":"modal-trigger"
     }
+  },
+  "flex-layout.row#login": {
+    "title": "row-login",
+    "children": [
+        "flex-layout.col#login"
+    ],
+    "props":{
+        "blockClass":"row__login"
+    }
+  },
+  "flex-layout.col#login":{
+    "title": "col-login",
+    "children": [
+        "image#login__icon", 
+        "rich-text#login"
+    ],
+    "props":{
+        "blockClass":"col__login"
+    }
+  },
+  "image#login__icon": {
+    "title": "login-icon",
+    "props": {
+      "src": "assets/icons/user4.svg",
+      "width": 40,
+      "blockClass":"image__login-icon"
+  
+    }
+  },
+  "rich-text#login": {
+    "title": "text-login",
+    "props": {
+      "text": "Mi cuenta",
+      "blockClass": "text__login1"
+    }
+  },
+  "modal-layout#header__middle--login-content": {
+    "title": "middle--login-content",
+    "children": [
+        "flex-layout.row#header__middle--login-content"
+    ],
+    "props":{
+        "blockClass":"modal__content"
+    }
+  },
+  "flex-layout.row#header__middle--login-content": {
+    "children": [
+        "login",
+        "rich-text#home__modal--login-content"
+    ],
+    "props":{
+        "blockClass":"modal__row"
+    }
+  },
+  "rich-text#home__modal--login-content":{
+    "title": "event-content",
+    "props":{
+      "text": "Mi perfil",
+      "props":{
+        "blockClass":"text__modal"
+    }
+    }
+  },
+  "login":{
+    "props": {
+        "emailAndPasswordTitle": "LOG-IN",
+        "accessCodeTitle": "Acess Code LOG-IN",
+        "emailPlaceholder": "e-mail",
+        "passwordPlaceholder": "password",
+        "showPasswordVerificationIntoTooltip": true,
+        "showIconProfile": true
+    }
+}
+  
 }

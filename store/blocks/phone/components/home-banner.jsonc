@@ -9,6 +9,7 @@
         }
       },
       "flex-layout.col#section__two--image-phone":{
+        "title": "image-phone",
         "children": [
           "image#home__container--image-phone"
         ]

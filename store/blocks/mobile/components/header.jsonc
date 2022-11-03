@@ -4,12 +4,13 @@
         "logo#header__top--logo-mobile",
         "search-bar#header__search--mobile"
       ],
+      "title":"header-top-mobile",
       "props":{
         "blockClass":"hearder__mobile"
       }
     },
     "logo#header__top--logo-mobile":{
-      "title": "Logo",
+      "title": "Logo-mobile",
       "props":{
         "blockClass":"header__top--logo-mobile",
         "url": "assets/img/alkosto-logo.svg",
@@ -17,7 +18,6 @@
       }
     },
     "search-bar#header__search--mobile":{
-    
       "props": {
         "openAutocompleteOnFocus": true,
         "placeholder": "¿Qué buscas hoy?",
@@ -25,5 +25,4 @@
         "blockClass":"header__search--mobile"
       }
     }
-  
   }

@@ -1,5 +1,6 @@
 {
   "flex-layout.row#home__section--learn-more--title-nine":{
+    "title": "title-nine",
     "children":[
       "rich-text#home__section--learn-more--title"
     ],
@@ -8,6 +9,7 @@
     }
   },
   "rich-text#home__section--learn-more--title":{
+    "title": "more--title",
     "props":{
       "text": "**Conoce más**",
       "textPosition": "CENTER",
@@ -25,36 +27,32 @@
         "props": {
           "blockClass": "home__section--nine",
           "preserveLayoutOnMobile": true
-          
-          
         }
-    
       },
     "flex-layout.col#section__learn-more--image20":{
+        "title": "more--image20",
         "children": [
           "image#home__container--image20"
         ]
       },
     "flex-layout.col#section__learn-more--image21":{
+        "title": "more--image21",
         "children": [
-          
           "image#home__container--image21"
-          
         ]
       },
     "flex-layout.col#section__learn-more--image22":{
+        "title": "more--image22",
         "children": [
-          
           "image#home__container--image22"
         ]
       },
       "flex-layout.col#section__learn-more--image23":{
+        "title": "more--image23",
         "children": [
-          
           "image#home__container--image23"
         ]
       },
-  
     "image#home__container--image20":{
         "title": "Colchones",
         "props": {

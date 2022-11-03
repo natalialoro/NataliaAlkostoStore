@@ -1,6 +1,6 @@
 {
     "flex-layout.row#home__banner--one":{
-        "title": "home__banner--one",
+        "title": "banner-uno",
         "children":[
           "flex-layout.col#section__two--image"
         ],
@@ -9,6 +9,7 @@
         }
       },
       "flex-layout.col#section__two--image":{
+        "title": "imagen-banner",
         "children": [
           "image#home__container--image"
         ]
@@ -27,7 +28,7 @@
           }
         },
     "flex-layout.row#home__section--banner--two":{
-        "title":"home__banner--two",
+        "title":"banner-dos",
         "children":[
             "flex-layout.row#home__section--banner--one-1",
             "flex-layout.row#home__section--banner--one-2",
@@ -47,29 +48,34 @@
             "flex-layout.col#home__section--banner--one-1-img",
             "flex-layout.col#home__section--banner--one-1-text"
         ],
+        "title": "banner-imagen-texto1",
         "props": {   
             "colsizing": "auto",
             "blockClass": "container__banner--img" 
         }        
     },
     "flex-layout.col#home__section--banner--one-1-img":{
+        "title": "imagen1-banner2",
         "children":[
             "image#home__section--banner--one-1"
         ]
     },
     "image#home__section--banner--one-1":{
+        "title": "imagen-envio",
         "props": {
             "src": "assets/img/envio.svg",
             "blockClass": "banner__one--img"
         }
     },
     "flex-layout.col#home__section--banner--one-1-text":{
+        "title": "texto-envio",
         "children":[
             "rich-text#home__section--banner--one-1"
         ]
     },
 
     "rich-text#home__section--banner--one-1":{
+        "title": "envio-gratis",
         "props":{
             "text":"Envío Gratis a 600 municipios",
             "blockClass":"home__section--banner--one-1-text"
@@ -80,34 +86,40 @@
             "flex-layout.col#home__section--banner--one-2-img",
             "flex-layout.col#home__section--banner--one-2-text"
         ],
+        "title": "banner-imagen-texto2",
         "props": {   
             "colsizing": "auto",
             "blockClass": "container__banner--img" 
         }        
     },
     "flex-layout.col#home__section--banner--one-2-img":{
+        "title": "imagen2-banner",
         "children":[
             "image#home__section--banner--one-2"
         ]
     },
     "flex-layout.col#home__section--banner--one-2-text":{
+        "title": "texto2-banner",
         "children":[
             "rich-text#home__section--banner--one-2"
         ]
     },
     "image#home__section--banner--one-2":{
+        "title": "imagen-gana-50",
         "props": {
             "src": "assets/img/gana-50.svg",
             "blockClass": "banner__one--img"
         }
     },
     "rich-text#home__section--banner--one-2":{
+        "title": "gana-50",
         "props":{
             "text":"Gana la mitad de tu compra",
             "blockClass":"home__section--banner--one-1-text"
         }
     },
     "flex-layout.row#home__section--banner--one-3":{
+        "title": "banner-imagen-texto3",
         "children":[
             "flex-layout.col#home__section--banner--one-3-img",
             "flex-layout.col#home__section--banner--one-3-text"
@@ -118,28 +130,33 @@
         }  
     },
     "flex-layout.col#home__section--banner--one-3-img":{
+        "title": "imagen3-banner",
         "children":[
             "image#home__section--banner--one-3"
         ]
     },
     "flex-layout.col#home__section--banner--one-3-text":{
+        "title": "texto3-banner",
         "children":[
             "rich-text#home__section--banner--one-3"
         ]
     },
     "image#home__section--banner--one-3":{
+        "title": "imagen-tienda",
         "props": {
             "src": "assets/img/tienda.svg",
             "blockClass": "banner__one--img"
         }
     },
     "rich-text#home__section--banner--one-3":{
+        "title": "compra-linea",
         "props":{
             "text":"Compra en línea y recoge en tienda",
             "blockClass":"home__section--banner--one-1-text"
         }
     },
     "flex-layout.row#home__section--banner--one-4":{
+        "title": "banner-imagen-texto4",
         "children":[
             "flex-layout.col#home__section--banner--one-4-img",
             "flex-layout.col#home__section--banner--one-4-text"           
@@ -150,27 +167,31 @@
         }  
     },
     "flex-layout.col#home__section--banner--one-4-img":{
+        "title": "imagen4-banner",
         "children":["image#home__section--banner--one-4"]
     },
     "flex-layout.col#home__section--banner--one-4-text":{
+        "title": "texto4-banner",
         "children":[
             "rich-text#home__section--banner--one-4"
         ]
     },
     "image#home__section--banner--one-4":{
+        "title": "imagen-calendario",
         "props": {
             "src": "assets/img/calendario.svg",
             "blockClass": "banner__one--img"
         }
     },
     "rich-text#home__section--banner--one-4":{
+        "title": "tiempo-cambios",
         "props":{
             "text":"Tiempos de cambios y devoluciones",
             "blockClass":"home__section--banner--one-1-text"
         }
     },
     "flex-layout.row#home__banner--three":{
-        "title": "home__banner--three",
+        "title": "banner-tres",
         "children":[
           "flex-layout.col#banner__three--image"
         ],
@@ -179,12 +200,13 @@
         }
       },
       "flex-layout.col#banner__three--image":{
+        "title": "imagen-banner3",
         "children": [
           "image#home__container--baner3"
         ]
       },
       "image#home__container--baner3":{
-        "title": "Nexen-llantas",
+        "title": "elíptica",
         "props": {
           "src": "assets/img/baner3.jpg",
           "title": "B2B Commerce",
