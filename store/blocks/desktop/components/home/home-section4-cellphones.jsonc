@@ -1,0 +1,82 @@
+{ 
+    "flex-layout.row#home__section--cellphones--title-four":{
+      "title": "title-four",
+      "children":[
+        "rich-text#home__section--cellphones--title"
+      ],
+      "props":{
+        "blockClass": "home__section--cellphones--title-four"
+      }
+    },
+    "rich-text#home__section--cellphones--title":{
+      "title": "cellphones--title",
+      "props":{
+        "text": "**Celulares**",
+        "textPosition": "CENTER",
+        "blockClass": "home__section--four--title-text"
+      }
+    },  
+    "flex-layout.row#home__section--cellphones":{
+        "title": "section--cellphones",
+        "children":[
+          "flex-layout.col#section__cellphones--image5",
+          "flex-layout.col#section__cellphones--image6",
+          "flex-layout.col#section__cellphones--image7"
+        ],
+        "props": {
+          "blockClass": "home__section--cellphones",
+          "preserveLayoutOnMobile": true
+        }
+      },
+    "flex-layout.col#section__cellphones--image5":{
+        "title": "cellphones--image5",
+        "children": [
+          "image#home__container--image5"
+        ]
+      },
+    "flex-layout.col#section__cellphones--image6":{
+        "title": "cellphones--image6",
+        "children": [
+          
+          "image#home__container--image6"  
+        ]
+      },
+    "flex-layout.col#section__cellphones--image7":{
+        "title": "cellphones--image7",
+        "children": [
+          
+          "image#home__container--image7"
+        ]
+      },
+  
+    "image#home__container--image5":{
+        "title": "Portátil",
+        "props": {
+          "src": "assets/img/image4.1.jpg",
+          "blockClass": "home__image",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image6":{
+        "title": "Galaxy",
+        "props": {
+        "src": "assets/img/section4.2.jpg",
+        "blockClass": "home__image",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image7":{
+            "title": "Lavadora",
+            "props": {
+              "src": "assets/img/section4.3.jpg",
+              "blockClass": "home__image",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

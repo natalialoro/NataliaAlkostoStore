@@ -1,0 +1,82 @@
+{
+  "flex-layout.row#home__section--tv--title-six":{
+    "title": "title-six",
+    "children":[
+      "rich-text#home__section--tv--title"
+    ],
+    "props":{
+      "blockClass": "home__section--tv--title-six"
+    }
+  },
+  "rich-text#home__section--tv--title":{
+    "title": "tv--title",
+    "props":{
+      "text": "**Televisores**",
+      "textPosition": "CENTER",
+      "blockClass": "home__section--six--title-text"
+    }
+  },  
+    "flex-layout.row#home__section--tv-tablet":{
+        "title": "Televisores",
+        "children":[
+          "flex-layout.col#section__tv--image11-tablet",
+          "flex-layout.col#section__tv--image12-tablet",
+          "flex-layout.col#section__tv--image13-tablet"
+        ],
+        "props": {
+          "blockClass": "home__section--six-tablet",
+          "preserveLayoutOnMobile": true 
+        }
+      },
+    "flex-layout.col#section__tv--image11-tablet":{
+        "title": "tv--image11",
+        "children": [
+          "image#home__container--image11-tablet"
+        ]
+      },
+    "flex-layout.col#section__tv--image12-tablet":{
+        "title": "tv--image12",
+        "children": [
+          "image#home__container--image12-tablet"
+        ]
+      },
+    "flex-layout.col#section__tv--image13-tablet":{
+        "title": "tv--image13",
+        "children": [   
+          "image#home__container--image13-tablet"
+        ]
+      },  
+    "image#home__container--image11-tablet":{
+        "title": "Samsung",
+        "props": {
+          "src": "assets/img/section6.1.jpg",
+          "title": "Samsung",
+          "blockClass": "home__image-tablet",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image12-tablet":{
+        "title": "Lg",
+        "props": {
+        "src": "assets/img/section6.2.jpg",
+        "title": "Lg",
+        "blockClass": "home__image-tablet",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image13-tablet":{
+            "title": "Tcl",
+            "props": {
+              "src": "assets/img/section6.3.jpg",
+              "title": "Tcl",
+              "blockClass": "home__image-tablet",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

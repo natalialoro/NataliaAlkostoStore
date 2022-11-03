@@ -36,6 +36,19 @@
     transform: translateX(16px);
     display: flex;
 }
+.imageElement--image__login-icon{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+.imageElement--image-icon-menu{
+    border-left: 1px solid white;
+    margin-left: -16px;
+    padding-left: 32px;
+}
+
+
+
 
 
 

@@ -1,0 +1,47 @@
+{
+    "slider-layout#home__section--home-phone": {
+        "title": "section-home-phone",
+        "props": {
+          "itemsPerPage": {
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "blockClass": "home__slider-section--phone"
+        },
+        "children": ["image#home__container--image14-phone", "image#home__container--image15-phone", "image#home__container--image16-phone"]
+      },
+      "image#home__container--image14-phone":{
+        "title": "Lavadora-secadora",
+        "props": {
+          "src": "assets/img/section7.1.jpg",
+          "title": "Lavadora secadora",
+          "blockClass": "home__image-phone",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image15-phone":{
+        "title": "Nevera-Lg",
+        "props": {
+        "src": "assets/img/section7.2.jpg",
+        "title": "Nevera Lg",
+        "blockClass": "home__image-phone",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image16-phone":{
+            "title": "Freidora",
+            "props": {
+              "src": "assets/img/section7.3.jpg",
+              "title": "Freidora de Aire",
+              "blockClass": "home__image-phone",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

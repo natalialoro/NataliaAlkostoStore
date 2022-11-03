@@ -1,0 +1,47 @@
+{
+    "slider-layout#home__section--computers-phone": {
+    "title": "section-computers-phone",
+    "props": {
+      "itemsPerPage": {
+        "phone": 1
+      },
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "home__slider-section--phone"
+    },
+    "children": ["image#home__container--image8-phone","image#home__container--image9-phone", "image#home__container--image10-phone"]
+  },
+  "image#home__container--image8-phone":{
+    "title": "Portátil-hp",
+    "props": {
+      "src": "assets/img/section5.1.jpg",
+      "title": "Portátil hp",
+      "blockClass": "home__image-phone",
+      "link": {
+        "url": "/"
+      }
+    }
+    },
+"image#home__container--image9-phone":{
+    "title": "Portátil-Asus",
+    "props": {
+    "src": "assets/img/section5.2.jpg",
+    "title": "Portátil Asus",
+    "blockClass": "home__image-phone",
+        "link": {
+          "url": "/"
+        }
+    }
+    },
+"image#home__container--image10-phone":{
+        "title": "Portátil-Asus2",
+        "props": {
+          "src": "assets/img/section5.3.jpg",
+          "title": "Portátil Asus",
+          "blockClass": "home__image-phone",
+          "link": {
+            "url": "/"
+        }
+    }
+    }
+}

@@ -1,0 +1,78 @@
+{
+  "flex-layout.row#home__section-one-tablet":{
+    "title":"Slider tablet",
+    "children":[
+      "slider-layout#home__slider--children-tablet"
+    ]
+},
+"slider-layout#home__slider--children-tablet":{
+    "title": "slider-children-tablet",
+    "props":{
+      "infinite": true,
+      "blockClass": "home__slider-one--tablet",
+      "itemsPerPage":{
+        "mobile": 1
+      },
+      "autoplay":{
+        "timeout": 3000,
+        "stopOnHover": true
+      }
+    },
+  "children":[
+    "image#home__slider--one-tablet",
+    "image#home__slider--two-tablet",
+    "image#home__slider--three-tablet",
+    "image#home__slider--four-tablet",
+    "image#home__slider--five-tablet",
+    "image#home__slider--six-tablet"
+  ]
+},
+"image#home__slider--one-tablet":{
+  "title": "slider-one-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-1.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+},
+"image#home__slider--two-tablet":{
+  "title": "slider-two-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-2.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+},
+"image#home__slider--three-tablet":{
+  "title": "slider-three-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-3.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+},
+"image#home__slider--four-tablet":{
+  "title": "slider-four-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-4.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+},
+"image#home__slider--five-tablet":{
+  "title": "slider-five-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-5.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+},
+"image#home__slider--six-tablet":{
+  "title": "slider-six-tablet",
+  "props":{
+    "maxWidth": 500,
+    "src":"assets/img/main-slide-6.jpg",
+    "blockClass": "home__slider--image-tablet"
+  }
+}
+}
