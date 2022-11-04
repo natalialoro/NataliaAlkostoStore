@@ -1,0 +1,30 @@
+{
+    "responsive-layout.tablet#home__tablet":{
+        "title": "responsive-tablet",
+        "children":[
+          "flex-layout.row#home__section-one-tablet",
+          "flex-layout.row#home__section--two-title-tablet",
+          "flex-layout.row#home__section--two-tablet",
+          "flex-layout.row#home__section--topoffers--title-three",
+          "flex-layout.row#home__section--topoffers-images-tablet",
+          "flex-layout.row#home__section--cellphones--title-four",
+          "flex-layout.row#home__section--cellphones-tablet",
+          "flex-layout.row#home__section--computers--title-five",
+          "flex-layout.row#home__section--computers-tablet",
+          "flex-layout.row#home__section--tv--title-six",
+          "flex-layout.row#home__section--tv-tablet",
+          "flex-layout.row#home__section--videogames--title-eight",
+          "flex-layout.row#home__section--videogames-tablet",
+          "flex-layout.row#home__section--learn-more--title-nine",
+          "flex-layout.row#home__section--learn-more-tablet",
+          "flex-layout.row#home__banner--three",
+          "flex-layout.row#home__section--banks--title-ten",
+          "flex-layout.row#home__section--banks-tablet",
+          "modal-trigger#home__modal--children",
+          "modal-trigger#home__modal--event"
+        ]
+      }   
+           
+        
+          
+}

@@ -1,0 +1,47 @@
+{
+    "slider-layout#home__section--videogames-phone": {
+        "title": "section-videogames-phone",
+        "props": {
+          "itemsPerPage": {
+            "phone": 1
+          },
+          "infinite": true,
+          "showNavigationArrows": "desktopOnly",
+          "blockClass": "home__slider-section--phone"
+        },
+        "children": ["image#home__container--image17-phone", "image#home__container--image18-phone", "image#home__container--image19-phone"]
+      },
+      "image#home__container--image17-phone":{
+        "title": "Reloj",
+        "props": {
+          "src": "assets/img/section8.1.jpg",
+          "title": "Reloj",
+          "blockClass": "home__image-phone",
+          "link": {
+            "url": "/"
+          }
+        }
+        },
+    "image#home__container--image18-phone":{
+        "title": "Xbox",
+        "props": {
+        "src": "assets/img/section8.2.jpg",
+        "title": "Xbox",
+        "blockClass": "home__image-phone",
+            "link": {
+              "url": "/"
+            }
+        }
+        },
+    "image#home__container--image19-phone":{
+            "title": "Audifonos",
+            "props": {
+              "src": "assets/img/section8.3.jpg",
+              "title": "Audifonos",
+              "blockClass": "home__image-phone",
+              "link": {
+                "url": "/"
+            }
+        }
+        }
+}

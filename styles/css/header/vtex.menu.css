@@ -1,32 +1,39 @@
 .styledLinkContent--department-name{
-    color: #004691;
+    color: #004798;
     padding: 10px 9px 10px 7px; 
     font-size: 14px;
     
 }
-.styledLinkContent--department-name:hover{
-    background-color: #004691; 
-    color: white;
-    transition: background-color .5s;
-}
 .styledLinkContainer--department-name{
     padding: 0px 10px 0px 10px;
-    margin: 0px;
-    
+    margin-right: -6px;
+    margin-left: -4px; 
+}
+.styledLinkContainer--department-name:hover{
+    background-color: #004798; 
+    color: white;
+    transition: background-color .5s;
+    padding: 0px 10px 0px 10px;
+    margin-right: -6px;
+    margin-left: -4px;
+}
+.styledLinkContent--department-name:hover{
+    color: white;
 }
 .menuContainer--container__header--menu{
     height: 37px;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-bottom: 35px;
 }
 .menuItem--department-name::after{
     content: "";
     display: block;
-    border-right: 1px solid #004691;
+    border-right: 1px solid #004798;
     height: 8px;
     transform: translateY(-22px);
 }
 .styledLinkContent--title__categories{
-    color:#004691;
+    color:#004798;
   
 }
 .menuItem--title__categories{

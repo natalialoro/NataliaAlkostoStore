@@ -5,7 +5,7 @@
       "logo#header__top--logo",
       "search-bar#header__search",
       "flex-layout.row#login__section--header",
-      "flex-layout.row#minicart__section--header"
+      "minicart.v2"
       
     ],
      "props":{

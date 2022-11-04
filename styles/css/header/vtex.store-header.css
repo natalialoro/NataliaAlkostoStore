@@ -1,18 +1,20 @@
 .headerRowContentContainer--header__desktop--menu{
-    border-top: solid 3px #EB5B25;
     background:white;
     
 }
 .headerRowContainer--Header__middle--desktop {
     justify-content: center;
     padding-left: 180px;
-    background: #004691;
-    border-bottom: 2px solid #EB5B25;
+    background: #004798;
+    border-bottom: 4px solid #EB5B25;
 }
 .headerRowContainer--Header__top--desktop{
     align-items: self-start;
     justify-content: center;
-    background: #004691;
+    background: #004798;
+}
+.headerRowContentContainer--hearder__mobile{
+    background: #004798;
 }
 .headerRowContentContainer--Header__top{  
     height: 43px;
@@ -20,7 +22,21 @@
 .headerStickyRow--hearder__mobile{
     width: 100%;
 }
-
+.headerRowContentContainer--header__hiperofertas--desktop{
+    background:#c4d4e7;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    
+}
+.headerRowBackground--header__hiperofertas--desktop{
+    background: #004691;
+}
+.headerRowContainer--header__hiperofertas--desktop{
+    margin-right: 7px;
+    margin-left: 4px;
+}
 
 
 

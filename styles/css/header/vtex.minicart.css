@@ -1,0 +1,6 @@
+.minicartIconContainer::before{
+    content: "";
+    display: block;
+    border-left: 1px solid white; 
+}
+

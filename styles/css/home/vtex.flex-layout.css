@@ -1,0 +1,82 @@
+.flexRowContent--home__section--one-slider-departments{
+    background-color: white;
+    color: white;
+    margin-left: 15px;
+}
+.flexColChild--home__section--one-col-departments{
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+}
+.flexRow--home__section--two-departments-tablet{
+    display: flex;
+    justify-content: center;
+}
+.flexRowContent--home__section--topoffers-images{
+    background: #f5f5f5;
+    padding-left: 16px; 
+    padding-right: 16px;
+}
+.flexRowContent--home__section--topoffers--title-three{
+    background: #f5f5f5;
+    margin-top: 30px;
+    margin-left: -30px; 
+    margin-right: -10px;
+}
+.flexRow--home__section--topoffers--title-three{
+    margin-left: 11px;
+    margin-right: -60px;
+}
+.flexRow--home__section--banner--two{
+    background: #ebebeb;
+}
+.flexRow--home__section--banner--two{
+    background: #EBEBEB;
+    padding: 0 42px 0 60px;
+}
+.flexRowContent--container__banner--img{
+    width: 100px;
+} 
+.flexRow--home__section--two, 
+.flexRow--home__section--four,
+.flexRow--home__section--five,
+.flexRow--home__section--three,
+.flexRow--home__section--six,
+.flexRow--home__section--seven,
+.flexRow--home__section--eight,
+.flexRow--home__section--nine{
+    padding-left: 16px; 
+    padding-right: 16px;
+}
+.flexRow--home__section--banner--two{
+    margin-right: 5px;
+}
+.flexRowContent--home__section--two-departments-phone{
+    background-color: #f5f5f5;
+    padding-top: 30px;
+    margin-top: 0px;
+    border-top: solid 1px #e0e0e0;
+}
+.flexColChild--home__section--departments-images{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.flexColChild--home__section--departments-images-phone{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.container--home__section--three--title-text{
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.flexRow--home__section--six::-webkit-scrollbar-track{
+    background-clip: padding-box;
+}
+.flexRow--home__section--topoffers-images-tablet{
+    background: #f5f5f5;
+    padding-left: 16px; 
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-bottom: 64px;
+}

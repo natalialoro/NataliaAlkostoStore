@@ -1,0 +1,33 @@
+{
+  "responsive-layout.desktop#home__desktop":{
+        "title": "responsive-desktop",
+        "children":[
+          "flex-layout.row#home__section--one",
+          "flex-layout.row#home__banner--one",
+          "rich-text#home__section--search--title",
+          "search-result-layout.customQuery#home__search",
+          "flex-layout.row#home__section--topoffers--title-three",
+          "flex-layout.row#home__section--topoffers-images",
+          "flex-layout.row#home__section--banner--two",
+          "flex-layout.row#home__section--cellphones--title-four",
+          "flex-layout.row#home__section--cellphones",
+          "flex-layout.row#home__section--computers--title-five",
+          "flex-layout.row#home__section--computers",
+          "flex-layout.row#home__section--tv--title-six",
+          "flex-layout.row#home__section--tv",
+          "flex-layout.row#home__section--homeappliances--title-seven",
+          "flex-layout.row#home__section--homeappliances",
+          "flex-layout.row#home__section--videogames--title-eight",
+          "flex-layout.row#home__section--videogames",
+          "flex-layout.row#home__section--learn-more--title-nine",
+          "flex-layout.row#home__section--learn-more",
+          "flex-layout.row#home__banner--three",
+          "flex-layout.row#home__section--banks--title-ten",
+          "flex-layout.row#home__section--banks",
+          "modal-trigger#home__modal--children",
+          "modal-trigger#home__modal--event"
+        ]
+      }
+}
+  
+   

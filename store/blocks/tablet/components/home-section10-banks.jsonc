@@ -1,0 +1,185 @@
+{
+    "flex-layout.row#home__section--banks--title-ten":{ 
+      "title": "title-ten",
+      "children":[
+         "rich-text#home__section--banks--title"
+      ],
+      "props":{
+        "blockClass": "home__section--banks--title-ten",
+        "preserveLayoutOnMobile": true
+       }
+    },  
+    "rich-text#home__section--banks--title":{
+      "title": "banks--title",
+      "props":{
+        "text": "**Beneficios con bancos**",
+        "textPosition": "CENTER",
+        "blockClass": "home__section--ten--title-text"
+      }
+    },
+    "flex-layout.row#home__section--banks-tablet":{
+      "title": "Bancos-tablet",
+      "children":[
+        "flex-layout.col#section__banks--image24-tablet",
+        "flex-layout.col#section__banks--image25-tablet",
+        "flex-layout.col#section__banks--image26-tablet",
+        "flex-layout.col#section__banks--image27-tablet"
+      ]
+    }, 
+    "flex-layout.col#section__banks--image24-tablet":{
+      "title": "banks--image24-tablet",
+      "children":[
+        "image#section__banks--image24-tablet",
+        "rich-text#section__banks--image24-text1",
+        "rich-text#section__banks--image24-text2"
+      ],
+      "props":{
+        "blockClass": "home__section__banks--image-text"
+      }
+    },
+    "image#section__banks--image24-tablet":{
+      "title": "Beneficios con bancos-tablet",
+      "props": {
+          "src": "assets/img/BANCOS-HOME-TCA.png",
+          "blockClass": "home__section__banks--image-tablet",
+          "link":{
+              "url": "/"
+          }
+      }
+    },
+    "rich-text#section__banks--image24-text1":{
+      "title": "banks--image24-text1",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"**Tarjeta Alkosto Mastercard**",
+        "blockClass":"section__banks--text1"
+      }
+    },
+    "rich-text#section__banks--image24-text2":{
+      "title": "banks--image24-text2",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"Conoce las ofertas",
+        "blockClass":"section__banks--text2"
+      }
+    },
+    "flex-layout.col#section__banks--image25-tablet":{
+      "title": "banks--image25-tablet",
+      "children":[
+        "image#section__banks--image25-tablet",
+        "rich-text#section__banks--image25-text1",
+        "rich-text#section__banks--image25-text2"
+      ],
+      "props":{
+        "blockClass": "home__section__banks--image-text"
+      }
+    },
+    "image#section__banks--image25-tablet":{
+      "title": "Banco-Codensa-tablet",
+      "props": {
+          "src": "assets/img/BANCOS-HOME-CODENSA.png",
+          "blockClass": "home__section__banks--image-tablet",
+          "link":{
+              "url": "/"
+          }
+      }
+    },
+    "rich-text#section__banks--image25-text1":{
+      "title": "banks--image25-text1",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"**Tarjeta de Crédito Fácil Codensa**",
+        "blockClass":"section__banks--text1"
+      }
+    },
+    "rich-text#section__banks--image25-text2":{
+      "title": "banks--image25-text2",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"Conoce las ofertas",
+        "blockClass":"section__banks--text2"
+      }
+    },
+    "flex-layout.col#section__banks--image26-tablet":{
+      "title": "banks--image26-tablet",
+      "children":[
+        "image#section__banks--image26-tablet",
+        "rich-text#section__banks--image26-text1",
+        "rich-text#section__banks--image26-text2"
+      ],
+      "props":{
+        "blockClass": "home__section__banks--image-text"
+      }
+    },
+    "image#section__banks--image26-tablet":{
+      "title": "Banco-Davivienda-tablet",
+      "props": {
+          "src": "assets/img/BANCOS-HOME-DAVIVIENDA.png",
+          "blockClass": "home__section__banks--image-tablet",
+          "link":{
+              "url": "/"
+          }
+      }
+    },
+    "rich-text#section__banks--image26-text1":{
+      "title": "banks--image26-text1",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"**Tarjeta de Crédito Davivienda**",
+        "blockClass":"section__banks--text1"
+      }
+    },
+    "rich-text#section__banks--image26-text2":{
+      "title": "banks--image26-texto2",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"Conoce las ofertas",
+        "blockClass":"section__banks--text2"
+      }
+    },
+    "flex-layout.col#section__banks--image27-tablet":{
+      "title": "banks--image27-tablet",
+      "children":[
+        "image#section__banks--image27-tablet",
+        "rich-text#section__banks--image27-text1",
+        "rich-text#section__banks--image27-text2"
+      ],
+      "props":{
+        "blockClass": "home__section__banks--image-text"
+      }
+    },    
+    "image#section__banks--image27-tablet":{
+      "title": "Kredito-tablet",
+      "props": {
+          "src": "assets/img/BANCOS-HOME-KREDITO-20MIN.png",
+          "blockClass": "home__section__banks--image-tablet",
+          "link":{
+              "url": "/"
+          }
+      }
+    },
+    "rich-text#section__banks--image27-text1":{
+      "title": "banks--image27-text1",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"**Solicita aquí tu**",
+        "blockClass":"section__banks--text1"
+      }
+    },
+    "rich-text#section__banks--image27-text2":{
+      "title": "banks--image27-text2",
+      "props":{
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":"Krédito en 20 Minutos",
+        "blockClass":"section__banks--text2"
+      }
+    }
+  }
