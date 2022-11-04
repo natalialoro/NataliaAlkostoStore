@@ -78,7 +78,7 @@
     },
     "flex-layout.col#category__celphones--one":{
       "children":[
-        "menu-item#category__celphones--one",
+        "flex-layout.row#category__cellphone",
         "rich-text#category__celphones--one-title1",
         "rich-text#category__celphones--one-description1",
         "rich-text#category__celphones--one-title2",
@@ -95,13 +95,27 @@
         "colSizing":"auto"
       } 
     },
+    "flex-layout.row#category__cellphone": {
+      "title": "image-icon-cellphones",
+      "children": [
+        "image#icon__cellphone",
+        "menu-item#category__celphones--one"
+      ]
+    },
+    "image#icon__cellphone": {
+      "props": {
+        "src": "assets/img/img-alkosto/icono-cel.png",
+        "width": 20,
+        "blockClass":"icon__cellphone"
+      }
+    },
     "menu-item#category__celphones--one":{
       "props":{
         "id": "category-celphones-one",
         "type": "custom",
         "blockClass":"title__categories",
         "itemProps": {
-          "href": "/catalogo",
+          "href": "/",
           "noFollow": true,
           "tagTitle": "Celulares",
           "text": "Celulares"
@@ -238,7 +252,7 @@
         "type": "custom",
         "blockClass":"title__categories",
         "itemProps": {
-          "href": "/catalogo",
+          "href": "/",
           "noFollow": true,
           "tagTitle": "Smartwatch",
           "text": "Smartwatch"

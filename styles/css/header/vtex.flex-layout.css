@@ -17,6 +17,7 @@
     margin-bottom: 10px;
 }
 .flexRow--container__login__logo--header{
+    padding-left: 80px;
     margin-left: 20px;
 }
 .flexRowContent--modal__row{

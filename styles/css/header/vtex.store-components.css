@@ -7,6 +7,10 @@
     color: #004691;
     font-size: 14px;
 }
+.searchBarContainer{
+    margin-top: -23px;
+}
+
 .searchBarIcon--header__search--search{
     color: white;
     background-color: #EB5B25;
@@ -16,6 +20,10 @@
 .logoImage--header__top--logo-mobile{
     height: 48px;
     margin-left: -13px;
+    padding-right: 69px;
+}
+.logoContainer--header__top--logo{
+    margin-right: 50px;
 }
 .searchBarInnerContainer--header__search--mobile{
     width: 90%;
@@ -43,13 +51,15 @@
     margin-left: -16px;
     padding-left: 32px;
 }
-.input__suffix{
-    padding: 4px;
-}
 .autoCompleteOuterContainer--header__search--mobile{
     padding-left: 7px;
     font-size: 10px;
     
+}
+.stretchChildrenWidth {
+    width: 35px;
+    margin-right: -14px;
+    margin-left: -9px;
 }
 /*.logoImage--header__top--logo{ 
     position: absolute;
