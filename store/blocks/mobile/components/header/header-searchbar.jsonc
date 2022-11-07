@@ -1,0 +1,10 @@
+{
+    "search-bar#header__search--mobile":{
+        "props": {
+          "openAutocompleteOnFocus": true,
+          "placeholder": "¿Qué buscas hoy?",
+          "maxWidth": 390,
+          "blockClass":"header__search--mobile"
+        }
+    }
+}

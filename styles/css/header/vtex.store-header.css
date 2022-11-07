@@ -39,6 +39,18 @@
     margin-right: 7px;
     margin-left: 4px;
 }
+.headerRowContentContainer--hearder__middle-mobile{
+    background: #f8f8f8;
+    margin-top: -3px;
+    padding-left: 23px;
+    border-top: 4px solid #EB5B25;
+    margin-bottom: 29px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.headerRowContainer--hearder__middle-mobile{
+    justify-content: center;
+}
+
 
 
 

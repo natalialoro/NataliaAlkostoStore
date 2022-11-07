@@ -1,5 +1,10 @@
-.body{
-    margin: 0;
+.flexCol--container-icon-login :global(.vtex-button):hover,
+.flexCol--container-minicart :global(.vtex-button):hover {
+ 
+    background-color: none !important;
+    background: none !important;
+    border: none !important;
+    
 }
 .flexRowContent--container__minicart__logo--header{
     margin-bottom: 10px;
@@ -23,5 +28,49 @@
 .flexRowContent--modal__row{
     padding-right: 11px;
 }
+.flexRowContent--drawer__text{
+    color: #5083b8;
+}
+.flexRow--container__category--celulares-desktop{
+    border-bottom: solid 2px #eb5b25; 
+    width: 220px;
+    margin-right: 50px;
+}
+.flexRow--container__category--accesorios-desktop{
+    border-bottom: solid 2px #eb5b25;  
+    width: 220px;
+    margin-right: 50px;
+}
+.flexRow--container__category--smartwatch-desktop{
+    border-bottom: solid 2px #eb5b25; 
+    width: 220px;
+    margin-right: 50px;
+}
+.flexRow--container__category--tabletas-desktop{
+    border-bottom: solid 2px #eb5b25;   
+    width: 220px;
+    margin-right: 50px;
+}
+.flexRow--container__category--mas-desktop{
+    border-bottom: solid 2px #eb5b25; 
+    width: 220px;
+    margin-right: 50px;
+}
+.flexRowContent--container__category--celulares-desktop,
+.flexRowContent--container__category--accesorios-desktop,
+.flexRowContent--container__category--smartwatch-desktop,
+.flexRowContent--container__category--tabletas-desktop,
+.flexRowContent--container__category--mas-desktop{
+    margin-bottom: -7px;
+}
+.flexRow--category__container-row-celphones--one{
+    margin-left: 23px;
+}
 
- 
+/*
+@media(max-width:425px){
+    .flexRow--container__login__logo--header{
+        padding-left: 0px; 
+        margin-left: 0px;
+    }*/
+

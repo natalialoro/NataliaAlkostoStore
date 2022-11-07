@@ -23,5 +23,124 @@
 .wrapper--header__top--text{
     margin-left: 7px;
 }
+.paragraph--text__icon--mobile{
+    font-size: 14px;
+    color: #5083b8;
+    margin-top: -4px;
+    padding-bottom: 5px;
+    margin-bottom: -7px;
+}
+.paragraph--drawer__icon--mobile{
+    color: #5083b8;
+    font-size: 14px;
+    margin-top: -15px;
+    margin-right: -8px;
+    margin-left: -14px;
+    margin-bottom: -6px;
+}
+.paragraph--text__login--mobile{
+    color: #5083b8;
+    font-size: 14px;
+    margin-top: -4px;
+    margin-right: -16px;
+    margin-left: 31px;
+    margin-bottom: -12px;
+}
+.paragraph--text__minicart--mobile{
+    color: #5083b8;
+    font-size: 14px;
+    margin-top: -4px;
+    margin-right: -8px;
+    margin-left: 2px;
+    margin-bottom: -29px;
+}
+.paragraph--text__celphones--title{
+    color: #eb5b25;
+    font-size: 14px;
+    margin-top: 32px;
+}
+.paragraph--text__celphones--three--title1{
+    color: #eb5b25;
+    font-size: 14px;
+    margin-top: -26px;
+}
+.paragraph--text__celphones--description{
+    margin-top: -14px;
+    margin-bottom: 11px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--two-description1{
+    margin-top: -37px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--two-description2{
+    margin-top: -60px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--three-description1{
+    margin-top: -6px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--three-description2{
+    margin-top: -63px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--three--title2{
+    color: #eb5b25;
+    font-size: 14px;
+    margin-top: -60px;
+}
+.paragraph--text__celphones--three-description3{
+    margin-top: -92px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--four-description1{
+    margin-top: -37px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--four--title1{
+    color: #eb5b25;
+    font-size: 14px;
+    margin-top: -68px;
 
+}
+.paragraph--text__celphones--four-description2{
+    margin-top: -133px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.paragraph--text__celphones--five-description1{
+    margin-top: -126px;
+    margin-bottom: -4px;
+    margin-left: 9px;
+    font-size: 12px;
+}
+.wrapper--text__celphones--title{
+    margin-top: -29px;
+}
+@media(min-width:768px){
+    .paragraph--drawer__icon--mobile{
+        color: #5083b8;
+        font-size: 14px;
+        margin-top: 33px;
+        margin-right: -69px;
+        margin-left: -34px;
+        margin-bottom: -6px;
+    
+    }
+}
 
