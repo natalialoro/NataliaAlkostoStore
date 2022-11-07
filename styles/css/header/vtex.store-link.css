@@ -16,11 +16,8 @@
 } 
 .link--link__hiperofertas{
     text-decoration: none;
-    color: #fff;
+    color: #004691;
+    font-size: 14px;
+    margin-right: 3px;
     margin-left: -20px;
 }
-/*
-.link--header__hiperofertas{
-    text-decoration: none;
-    color: #004691;
-}*/

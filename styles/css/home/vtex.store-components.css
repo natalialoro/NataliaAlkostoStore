@@ -99,6 +99,9 @@
     width: 170px;
     height: 159px;
 }
+.discountContainer{
+    width: 100px;
+}
 
 @media screen and (max-width: 768px){
     .imageElement--home__image--banner-two{
