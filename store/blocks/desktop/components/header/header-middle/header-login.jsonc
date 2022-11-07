@@ -68,7 +68,8 @@
     "props":{
         "blockClass":"modal__row"
     }
-  },
+  }
+  /*
   "login":{
     "props": {
         "emailAndPasswordTitle": "LOG-IN",
@@ -78,5 +79,5 @@
         "showPasswordVerificationIntoTooltip": true,
         "showIconProfile": false
     }
-  } 
+  } */
 }

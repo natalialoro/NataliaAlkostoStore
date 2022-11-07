@@ -132,6 +132,11 @@
 .wrapper--text__celphones--title{
     margin-top: -29px;
 }
+.paragraph--header__text--category-mobile{
+    font-size: 11px;
+    margin-left: 22px;
+    margin-top: 0px;
+}
 @media(min-width:768px){
     .paragraph--drawer__icon--mobile{
         color: #5083b8;
@@ -140,7 +145,12 @@
         margin-right: -69px;
         margin-left: -34px;
         margin-bottom: -6px;
-    
+    }
+    .paragraph--header__text--category-mobile{
+        font-size: 12px;
+        margin-left: 63px;
+        margin-top: 0px;
     }
 }
+
 

@@ -49,14 +49,14 @@
     },
     "vtex.menu@2.x:submenu#department__celphones--one":{
       "children":[
-       "menu#department__celphones--one"
+       "vtex.menu@2.x:menu#department__celphones--one"
       ],
       "props":{
         "blockClass": "category-container",
         "onMountBehavior": "open"        
       }
     },
-    "menu#department__celphones--one":{
+    "vtex.menu@2.x:menu#department__celphones--one":{
       "children":[
         "flex-layout.row#department__celphones--one"      
       ],
@@ -438,7 +438,7 @@
     },
     "vtex.menu@2.x:submenu#department__computers--one":{
       "children":[
-       "menu#department__celphones--one"
+        "vtex.menu@2.x:menu#department__celphones--one"
       ],
       "props":{
         "blockClass": "category-container--computers",
@@ -461,7 +461,7 @@
   },    
   "vtex.menu@2.x:submenu#department__home-appliances--one":{
     "children":[
-      "menu#department__celphones--one"
+      "vtex.menu@2.x:menu#department__celphones--one"
     ],
     "props":{
       "blockClass": "category-container--homeAppliances",
@@ -484,7 +484,7 @@
 },
 "vtex.menu@2.x:submenu#department__tv--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--tv",
@@ -507,7 +507,7 @@
 },
 "vtex.menu@2.x:submenu#department__accesories--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--accessories",
@@ -530,7 +530,7 @@
 },
 "vtex.menu@2.x:submenu#department__videogame--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--videogames",
@@ -553,7 +553,7 @@
 },
 "vtex.menu@2.x:submenu#department__audio--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--audio",
@@ -576,7 +576,7 @@
 },
 "vtex.menu@2.x:submenu#department__camera--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--cameras",
@@ -599,7 +599,7 @@
 },
 "vtex.menu@2.x:submenu#department__smart-house--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--homeintelligent",
@@ -622,7 +622,7 @@
 },
 "vtex.menu@2.x:submenu#department__home--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--home",
@@ -645,7 +645,7 @@
   },
   "vtex.menu@2.x:submenu#department__sports--one":{
     "children":[
-      "menu#department__celphones--one"
+      "vtex.menu@2.x:menu#department__celphones--one"
     ],
     "props":{
       "blockClass": "category-container--sports",
@@ -668,7 +668,7 @@
 },
 "vtex.menu@2.x:submenu#department__tires--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--tires",
@@ -691,7 +691,7 @@
 },
 "vtex.menu@2.x:submenu#department__toys--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--toys",
@@ -714,7 +714,7 @@
 },
 "vtex.menu@2.x:submenu#department__pins--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--netflix",
@@ -737,7 +737,7 @@
 },
 "vtex.menu@2.x:submenu#department__others--one":{
   "children":[
-    "menu#department__celphones--one"
+    "vtex.menu@2.x:menu#department__celphones--one"
   ],
   "props":{
     "blockClass": "category-container--others",

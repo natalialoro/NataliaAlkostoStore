@@ -80,6 +80,24 @@
     margin-right: 63px;
     margin-left: -21px;
 }
+.imageElement--header__category--image{
+    padding: 10px;
+    width: 27px;
+    height: 30px;
+    margin-left: 32px;
+    border-radius: 50%;
+    background: #fff6e0;
+}
+@media(min-width:768px){
+    .imageElement--header__category--image{
+        padding: 10px;
+        width: 35px;
+        height: 37px;
+        margin-left: 70px;
+        border-radius: 50%;
+        background: #fff6e0;
+    }
+}
 
 /*.logoImage--header__top--logo{ 
     position: absolute;

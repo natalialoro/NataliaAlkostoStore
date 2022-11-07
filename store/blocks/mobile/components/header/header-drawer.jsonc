@@ -18,6 +18,8 @@
       },
     "drawer#header__middle":{
         "children":[
+            //"flex-layout.row#header__category--title-mobile",
+            "flex-layout.row#header__category--menu"
         ],
         "props":{
         "blockClass":"drawer__header--middle"
