@@ -2,5 +2,14 @@
     content: "";
     display: block;
     border-left: 1px solid white; 
+    background-color: none;
 }
+.openIconContainer{
+    
+    background-color: none;
+}
+.minicartQuantityBadgeDefault{
+    margin-right: 13px;
+}
+
 

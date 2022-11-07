@@ -1,0 +1,10 @@
+{
+    "logo#header__top--logo-mobile":{
+        "title": "Logo-mobile",
+        "props":{
+          "blockClass":"header__top--logo-mobile",
+          "url": "assets/img/alkosto-logo.svg",
+          "href": "/"
+        }
+    }
+}

@@ -7,7 +7,6 @@
           "header-row#header__hiperofertas--desktop",
           "rich-text#venta",
           "rich-text#servicio",
-          "rich-text#pedido",
           "rich-text#tiendas",
           "rich-text#catalogo",
           "rich-text#ayuda"
@@ -29,13 +28,6 @@
         "props":{
             "text": "[Servicio: (601) 407 3033](/)",
             "blockClass":"header__top--text" 
-        }
-    },
-    "rich-text#pedido":{
-        "title": "pedido",
-        "props":{
-            "text": "[Sigue tu pedido](/)",
-            "blockClass":"header__top--text"     
         }
     },
     "rich-text#tiendas":{

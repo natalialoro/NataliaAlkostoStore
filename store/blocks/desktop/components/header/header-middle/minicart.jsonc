@@ -4,7 +4,8 @@
       "MinicartIcon": "flex-layout.row#icon-text",
       "varation": "popup",
       "itemCountMode": "total",
-      "quantityDisplay": "always"
+      "quantityDisplay": "always",
+      "openOnHover":false
     },
     "children": ["minicart-base-content"]
   },

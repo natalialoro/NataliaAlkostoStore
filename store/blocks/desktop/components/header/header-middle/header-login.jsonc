@@ -1,11 +1,11 @@
 {
-    "flex-layout.row#login__section--header":{
-        "title": "row-login-section-header",
-        "children":[
-            "modal-trigger#header__login"  
+  "flex-layout.row#login__section--header":{
+      "title": "row-login-section-header",
+      "children":[
+          "modal-trigger#header__login"  
         ],
-        "props":{
-            "blockClass":"container__login__logo--header"
+      "props":{
+          "blockClass":"container__login__logo--header"
         }
     },
     "modal-trigger#header__login":{
@@ -43,7 +43,6 @@
       "src": "assets/icons/user4.svg",
       "width": 40,
       "blockClass":"image__login-icon"
-  
     }
   },
   "rich-text#login": {
@@ -64,22 +63,13 @@
   },
   "flex-layout.row#header__middle--login-content": {
     "children": [
-        "login",
-        "rich-text#home__modal--login-content"
+        "login-content"
     ],
     "props":{
         "blockClass":"modal__row"
     }
-  },
-  "rich-text#home__modal--login-content":{
-    "title": "event-content",
-    "props":{
-      "text": "Mi perfil",
-      "props":{
-        "blockClass":"text__modal"
-    }
-    }
-  },
+  }
+  /*
   "login":{
     "props": {
         "emailAndPasswordTitle": "LOG-IN",
@@ -87,8 +77,7 @@
         "emailPlaceholder": "e-mail",
         "passwordPlaceholder": "password",
         "showPasswordVerificationIntoTooltip": true,
-        "showIconProfile": true
+        "showIconProfile": false
     }
-}
-  
+  } */
 }

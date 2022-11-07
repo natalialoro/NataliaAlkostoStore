@@ -1,0 +1,82 @@
+{
+    "flex-layout.row#login__section--header-mobile":{
+        "title": "row-login-section-header-mobile",
+        "children":[
+            "modal-trigger#header__login-mobile"  
+          ],
+        "props":{
+            "blockClass":"container__login__logo--header-mobile"
+          }
+      },
+      "modal-trigger#header__login-mobile":{
+      "title": "modal-header-login-mobile",
+      "children": [
+        "flex-layout.row#login-mobile",
+        "modal-layout#header__middle--login-content-mobile"
+      ],
+      "props":{
+          "blockClass":"modal-trigger-mobile"
+      }
+    },
+    "flex-layout.row#login-mobile": {
+      "title": "row-login-mobile",
+      "children": [
+          "flex-layout.col#login-mobile"
+      ],
+      "props":{
+          "blockClass":"row__login-mobile"
+      }
+    },
+    "flex-layout.col#login-mobile":{
+      "title": "col-login-mobile",
+      "children": [
+          "image#login__icon-mobile", 
+          "rich-text#login-mobile"
+      ],
+      "props":{
+          "blockClass":"col__login-mobile"
+      }
+    },
+    "image#login__icon-mobile": {
+      "title": "login-icon-mobile",
+      "props": {
+        "src": "assets/icons/user2.svg",
+        "blockClass":"image__login--mobile",
+        "width": 26
+      }
+    },
+    "rich-text#login-mobile": {
+      "title": "text-login-mobile",
+      "props": {
+        "text": "Mi cuenta",
+        "blockClass": "text__login--mobile"
+      }
+    },
+    "modal-layout#header__middle--login-content-mobile": {
+      "title": "middle--login-content-mobile",
+      "children": [
+          "flex-layout.row#header__middle--login-content-mobile"
+      ],
+      "props":{
+          "blockClass":"modal__content-mobile"
+      }
+    },
+    "flex-layout.row#header__middle--login-content-mobile": {
+      "children": [
+          "login-content"
+      ],
+      "props":{
+          "blockClass":"modal__row-mobile"
+      }
+    },
+    "login":{
+      "props": {
+          "emailAndPasswordTitle": "LOG-IN",
+          "accessCodeTitle": "Acess Code LOG-IN",
+          "emailPlaceholder": "e-mail",
+          "passwordPlaceholder": "password",
+          "showPasswordVerificationIntoTooltip": true,
+          "showIconProfile": false
+      }
+    } 
+  }

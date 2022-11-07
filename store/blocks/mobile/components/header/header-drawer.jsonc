@@ -1,0 +1,28 @@
+{
+    "flex-layout.row#drawer": {
+        "title": "row-drawer",
+        "children": [
+            "drawer#header__middle",
+            "rich-text#drawer-mobile"
+        ],
+        "props": {
+            "blockClass": "drawer__text"
+        }
+    },
+    "rich-text#drawer-mobile": {
+        "title": "text-login-mobile",
+        "props": {
+          "text": "Categorias",
+          "blockClass": "drawer__icon--mobile"
+        }
+      },
+    "drawer#header__middle":{
+        "children":[
+            //"flex-layout.row#header__category--title-mobile",
+            "flex-layout.row#header__category--menu"
+        ],
+        "props":{
+        "blockClass":"drawer__header--middle"
+        }
+    }
+}
