@@ -12,7 +12,7 @@
         "children": ["image#home__container--image14-phone", "image#home__container--image15-phone", "image#home__container--image16-phone"]
       },
       "image#home__container--image14-phone":{
-        "title": "Lavadora-secadora",
+        "title": "image14-phone",
         "props": {
           "src": "assets/img/section7.1.jpg",
           "title": "Lavadora secadora",
@@ -23,7 +23,7 @@
         }
         },
     "image#home__container--image15-phone":{
-        "title": "Nevera-Lg",
+        "title": "image15-phone",
         "props": {
         "src": "assets/img/section7.2.jpg",
         "title": "Nevera Lg",
@@ -34,7 +34,7 @@
         }
         },
     "image#home__container--image16-phone":{
-            "title": "Freidora",
+            "title": "image16-phone",
             "props": {
               "src": "assets/img/section7.3.jpg",
               "title": "Freidora de Aire",

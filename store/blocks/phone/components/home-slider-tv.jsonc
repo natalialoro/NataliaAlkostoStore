@@ -12,7 +12,7 @@
         "children": ["image#home__container--image11-phone", "image#home__container--image12-phone", "image#home__container--image13-phone"]
       },
       "image#home__container--image11-phone":{
-        "title": "Samsung",
+        "title": "image11-phone",
         "props": {
           "src": "assets/img/section6.1.jpg",
           "title": "Samsung",
@@ -23,7 +23,7 @@
         }
         },
     "image#home__container--image12-phone":{
-        "title": "Lg",
+        "title": "image12-phone",
         "props": {
         "src": "assets/img/section6.2.jpg",
         "title": "Lg",
@@ -34,7 +34,7 @@
         }
         },
     "image#home__container--image13-phone":{
-            "title": "Tcl",
+            "title":"image13-phone",
             "props": {
               "src": "assets/img/section6.3.jpg",
               "title": "Tcl",

@@ -12,7 +12,7 @@
         "children": ["image#home__container--image20-phone", "image#home__container--image21-phone", "image#home__container--image22-phone","image#home__container--image23-phone"]
       },
     "image#home__container--image20-phone":{
-        "title": "Colchones",
+        "title": "image20-phone",
         "props": {
           "src": "assets/img/section9.1.jpg",
           "title": "Colchones",
@@ -23,7 +23,7 @@
         }
         },
     "image#home__container--image21-phone":{
-        "title": "Cajas",
+        "title": "image21-phone",
         "props": {
         "src": "assets/img/section9.2.jpg",
         "title": "Cajas Organizadoras",
@@ -34,7 +34,7 @@
         }
         },
     "image#home__container--image22-phone":{
-        "title": "Llantas",
+        "title": "image22-phone",
         "props": {
             "src": "assets/img/section9.3.jpg",
             "title": "Llantas",
@@ -45,7 +45,7 @@
         }
         },
     "image#home__container--image23-phone":{
-        "title": "Juegos-de-mesa",
+        "title": "image23-phone",
         "props": {
             "src": "assets/img/section9.4.jpg",
             "title": "Juegos de mesa",

@@ -62,13 +62,15 @@
       }
     },
     "flex-layout.row#header__middle--login-content-mobile": {
+      "title": "login-content-mobile",
       "children": [
           "login-content"
       ],
       "props":{
           "blockClass":"modal__row-mobile"
       }
-    },
+    }
+    /*
     "login":{
       "props": {
           "emailAndPasswordTitle": "LOG-IN",
@@ -78,5 +80,5 @@
           "showPasswordVerificationIntoTooltip": true,
           "showIconProfile": false
       }
-    } 
+    } */
   }
