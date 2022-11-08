@@ -12,7 +12,7 @@
         "children": ["image#home__container--image17-phone", "image#home__container--image18-phone", "image#home__container--image19-phone"]
       },
       "image#home__container--image17-phone":{
-        "title": "Reloj",
+        "title": "image17-phone",
         "props": {
           "src": "assets/img/section8.1.jpg",
           "title": "Reloj",
@@ -23,7 +23,7 @@
         }
         },
     "image#home__container--image18-phone":{
-        "title": "Xbox",
+        "title": "image18-phone",
         "props": {
         "src": "assets/img/section8.2.jpg",
         "title": "Xbox",
@@ -34,14 +34,14 @@
         }
         },
     "image#home__container--image19-phone":{
-            "title": "Audifonos",
+            "title":"image19-phone",
             "props": {
               "src": "assets/img/section8.3.jpg",
               "title": "Audifonos",
               "blockClass": "home__image-phone",
               "link": {
                 "url": "/"
-            }
-        }
-        }
+      }
+    }
+  }
 }

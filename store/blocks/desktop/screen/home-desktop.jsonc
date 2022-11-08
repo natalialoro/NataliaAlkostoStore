@@ -5,7 +5,7 @@
           "flex-layout.row#home__section--one",
           "flex-layout.row#home__banner--one",
           "rich-text#home__section--search--title",
-          "search-result-layout.customQuery#home__search",
+          //"search-result-layout.customQuery#home__search"
           "flex-layout.row#home__section--topoffers--title-three",
           "flex-layout.row#home__section--topoffers-images",
           "flex-layout.row#home__section--banner--two",

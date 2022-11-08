@@ -6,9 +6,15 @@
 .flexColChild--home__section--one-col-departments{
     display: flex;
     justify-content: center;
-    padding-right: 10px;
+    margin-left: 33px;
+    width: 71px;
+}
+.flexRow--home__section--one-slider-departments{
+    width: 100%;
+    width: 1323px;
 }
 .flexRow--home__section--two-departments-tablet{
+    width: 100%;
     display: flex;
     justify-content: center;
 }
