@@ -53,7 +53,7 @@
         }
       },
       "image#section__banks--image24-phone":{
-        "title": "Beneficios con bancos",
+        "title": "image24-phone",
         "props": {
             "src": "assets/img/BANCOS-HOME-TCA.png",
             "blockClass": "home__section__banks--image-phone",
@@ -92,7 +92,7 @@
         }
       },
       "image#section__banks--image25-phone":{
-        "title": "Banco-Codensa",
+        "title": "image25-phone",
         "props": {
             "src": "assets/img/BANCOS-HOME-CODENSA.png",
             "blockClass": "home__section__banks--image-phone",
@@ -131,7 +131,7 @@
         }
       },
       "image#section__banks--image26-phone":{
-        "title": "Banco-Davivienda",
+        "title": "image26-phone",
         "props": {
             "src": "assets/img/BANCOS-HOME-DAVIVIENDA.png",
             "blockClass": "home__section__banks--image-phone",
@@ -170,7 +170,7 @@
         }
       },
       "image#section__banks--image27-phone":{
-        "title": "Kredito",
+        "title":"image27-phone",
         "props": {
             "src": "assets/img/BANCOS-HOME-KREDITO-20MIN.png",
             "blockClass": "home__section__banks--image-phone",

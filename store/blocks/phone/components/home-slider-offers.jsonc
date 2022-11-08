@@ -27,7 +27,7 @@
     "children": ["image#home__container--image1-phone", "image#home__container--image2-phone","image#home__container--image3-phone","image#home__container--image4-phone"]
   },
     "image#home__container--image1-phone":{
-        "title": "Portátil",
+        "title": "image1-phone",
         "props": {
           "src": "assets/img/image3.1.jpg",
           "blockClass":"home__image-top-offers-phone",
@@ -37,7 +37,7 @@
         }
         },
     "image#home__container--image2-phone":{
-        "title": "Galaxy",
+        "title": "image2-phone",
         "props": {
             "src": "assets/img/section3.2.jpg",
             "blockClass":"home__image-top-offers-phone",
@@ -47,7 +47,7 @@
             }
         },
     "image#home__container--image3-phone":{
-        "title": "Lavadora",
+        "title": "image3-phone",
         "props": {
             "src": "assets/img/image3.3.jpg",
             "blockClass":"home__image-top-offers-phone",
@@ -57,7 +57,7 @@
             }
         },
     "image#home__container--image4-phone":{
-        "title": "TV",
+        "title": "image4-phone",
         "props": {
             "src": "assets/img/image3.4.jpg",
             "blockClass":"home__image-top-offers-phone",

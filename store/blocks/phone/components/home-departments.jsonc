@@ -28,19 +28,19 @@
       "flex-layout.col#home__section--two-department-one-phone":{
         "title": "department-one",
         "children":[
-            "image#home__section--one-department-celulares-phone",
+            "image#home__section--one-department-cellphones-phone",
             "rich-text#department-one-1-phone",
             "image#home__section--one-department-electro-phone", 
             "rich-text#department-four-1-phone", 
-            "image#home__section--one-department-videojuegos-phone",
+            "image#home__section--one-department-videogames-phone",
             "rich-text#department-two-2-phone",
             "image#home__section--one-department-tablets-phone",
             "rich-text#department-five-2-phone", 
-            "image#home__section--one-department-hogar-phone",
+            "image#home__section--one-department-home-phone",
             "rich-text#department-three-3-phone",
-            "image#home__section--one-department-colchones-phone",
+            "image#home__section--one-department-mattresses-phone",
             "rich-text#department-one-4-phone",
-            "image#home__section--one-department-llantas-phone",
+            "image#home__section--one-department-tires-phone",
             "rich-text#department-four-4-phone"
         ],
         "props":{
@@ -50,20 +50,20 @@
       "flex-layout.col#home__section--two-department-two-phone":{
         "title": "department-two",
         "children":[
-            "image#home__section--one-department-computadores-phone", 
+            "image#home__section--one-department-computers-phone", 
             "rich-text#department-two-1-phone",
-            "image#home__section--one-department-electro-menor-phone",
+            "image#home__section--one-department-electro-less-phone",
             "rich-text#department-five-1-phone", 
-            "image#home__section--one-department-accesorios-phone",
+            "image#home__section--one-department-accessories-phone",
             "rich-text#department-three-2-phone",
-            "image#home__section--one-department-pines-phone",
+            "image#home__section--one-department-pins-phone",
             "rich-text#department-one-3-phone",
-            "image#home__section--one-department-juguetes-phone",
+            "image#home__section--one-department-toys-phone",
             "rich-text#department-four-3-phone",
-            "image#home__section--one-department-muebles-phone",
+            "image#home__section--one-department-furniture-phone",
             "rich-text#department-two-4-phone",
-            "image#home__section--one-department-mascotas",
-            "rich-text#department-two-mascotas" 
+            "image#home__section--one-department-pets",
+            "rich-text#department-two-pets" 
         ],
         "props":{
             "blockClass":"home__section--departments-images-phone"
@@ -72,19 +72,19 @@
       "flex-layout.col#home__section--two-department-three-phone":{
         "title": "department-three",
         "children":[     
-            "image#home__section--one-department-televisores-phone",
+            "image#home__section--one-department-tv-phone",
             "rich-text#department-three-1-phone",
             "image#home__section--one-department-audio-phone",
             "rich-text#department-one-2-phone",
             "image#home__section--one-department-smartwatch-phone",
             "rich-text#department-four-2-phone",
-            "image#home__section--one-department-impresoras-phone",
+            "image#home__section--one-department-printers-phone",
             "rich-text#department-two-3-phone",
-            "image#home__section--one-department-navidad-phone",
+            "image#home__section--one-department-christmas-phone",
             "rich-text#department-five-3-phone",
-            "image#home__section--one-department-deportes-phone",
+            "image#home__section--one-department-sports-phone",
             "rich-text#department-three-4-phone",
-            "image#home__section--one-department-ofertas-phone",
+            "image#home__section--one-department-offers-phone",
             "rich-text#department-five-4-phone"
             
         ],
@@ -92,8 +92,8 @@
             "blockClass":"home__section--departments-images-phone"
         }
       },
-    "image#home__section--one-department-mascotas":{
-        "title": "department-mascotas-image",
+    "image#home__section--one-department-pets":{
+        "title": "department-pets-image",
         "props": {
         "src": "assets/img/mascotas.png",
         "blockClass":"home__section--one-department-img-phone" ,
@@ -102,8 +102,8 @@
         }
     }
   },
-    "rich-text#department-two-mascotas":{
-        "title": "department-mascotas-text",
+    "rich-text#department-two-pets":{
+        "title": "department-pets-text",
         "props":{
         "text":"Mascotas",
         "textAlignment": "CENTER",
@@ -111,8 +111,8 @@
         "blockClass":"home_section-one-departmentName-phone"      
     }
 },
-"image#home__section--one-department-celulares-phone":{
-  "title": "department-celulares-image",
+"image#home__section--one-department-cellphones-phone":{
+  "title": "department-cellphones-image",
   "props": {
   "src": "assets/img/celulares.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -131,8 +131,8 @@
   }
   }
 },
-"image#home__section--one-department-pines-phone":{
-  "title": "department-pines-image",
+"image#home__section--one-department-pins-phone":{
+  "title": "department-pins-image",
   "props": {
   "src": "assets/img/pines.png",
   "blockClass":"home__section--one-department-img-phone",
@@ -141,8 +141,8 @@
   }
   }
 },
-"image#home__section--one-department-colchones-phone":{
-  "title": "department-colchones-image",
+"image#home__section--one-department-mattresses-phone":{
+  "title": "department-mattresses-image",
   "props": {
   "src": "assets/img/colchones.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -151,8 +151,8 @@
   }
   }
 },
-"image#home__section--one-department-computadores-phone":{
-  "title": "department-computadores-image",
+"image#home__section--one-department-computers-phone":{
+  "title": "department-computers-image",
   "props": {
   "src": "assets/img/computadores.png",
   "blockClass":"home__section--one-department-img-phone",
@@ -161,8 +161,8 @@
   }
   } 
 }, 
-"image#home__section--one-department-videojuegos-phone":{
-  "title": "department-videojuegos-image",
+"image#home__section--one-department-videogames-phone":{
+  "title": "department-videogames-image",
   "props": {
   "src": "assets/img/videojuegos.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -171,8 +171,8 @@
   }
   }
 }, 
-"image#home__section--one-department-impresoras-phone":{
-  "title": "department-impresoras-image",
+"image#home__section--one-department-printers-phone":{
+  "title": "department-printers-image",
   "props": {
   "src": "assets/img/impresoras.png",
   "blockClass":"home__section--one-department-img-phone",
@@ -181,8 +181,8 @@
   }
   }
 },
-"image#home__section--one-department-muebles-phone":{
-  "title": "department-muebles-image",
+"image#home__section--one-department-furniture-phone":{
+  "title": "department-furniture-image",
   "props": {
   "src": "assets/img/mueble.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -191,8 +191,8 @@
   }
   }
 },
-"image#home__section--one-department-televisores-phone":{
-  "title": "department-televisores-image",
+"image#home__section--one-department-tv-phone":{
+  "title": "department-tv-image",
   "props": {
   "src": "assets/img/televisores.png",
   "blockClass":"home__section--one-department-img-phone",
@@ -201,8 +201,8 @@
   }
   }
 },
-"image#home__section--one-department-accesorios-phone":{
-  "title": "department-accesorios-image",
+"image#home__section--one-department-accessories-phone":{
+  "title": "department-accessories-image",
   "props": {
   "src": "assets/img/accesorios.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -211,8 +211,8 @@
   }
   }
 },
-"image#home__section--one-department-hogar-phone":{
-  "title": "department-hogar-image",
+"image#home__section--one-department-home-phone":{
+  "title": "department-home-image",
   "props": {
   "src": "assets/img/hogar.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -221,8 +221,8 @@
   }
   }
 },
-"image#home__section--one-department-deportes-phone":{
-  "title": "department-deportes-image",
+"image#home__section--one-department-sports-phone":{
+  "title": "department-sports-image",
   "props": {
   "src": "assets/img/deportes.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -251,8 +251,8 @@
   }
   }
 },
-"image#home__section--one-department-juguetes-phone":{
-  "title": "department-juguetes-image",
+"image#home__section--one-department-toys-phone":{
+  "title": "department-toys-image",
   "props": {
   "src": "assets/img/juguetes.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -261,8 +261,8 @@
   }
   }
 },
-"image#home__section--one-department-llantas-phone":{
-  "title": "department-llantas-image",
+"image#home__section--one-department-tires-phone":{
+  "title": "department-tires-image",
   "props": {
   "src": "assets/img/llanta.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -271,8 +271,8 @@
   }
   }
 },
-"image#home__section--one-department-electro-menor-phone":{
-  "title": "department-Electromenor-image",
+"image#home__section--one-department-electro-less-phone":{
+  "title": "department-electro-less-image",
   "props": {
   "src": "assets/img/electro-menores.jpg",
   "blockClass":"home__section--one-department-img-phone",
@@ -291,8 +291,8 @@
   }
   }
 },
-"image#home__section--one-department-navidad-phone":{
-  "title": "department-navidad-image",
+"image#home__section--one-department-christmas-phone":{
+  "title": "department-christmas-image",
   "props": {
   "src": "assets/img/navidad.png",
   "blockClass":"home__section--one-department-img-phone",
@@ -301,8 +301,8 @@
   }
   }
 },
-"image#home__section--one-department-ofertas-phone":{
-  "title": "department-navidad-image",
+"image#home__section--one-department-offers-phone":{
+  "title": "department-offers-image",
   "props": {
   "src": "assets/icons/icono-oferta.svg",
   "blockClass":"home__section--one-department-img-ofertas-phone",

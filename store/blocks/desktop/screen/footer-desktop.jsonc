@@ -1,10 +1,7 @@
 {
-     "footer-layout.desktop": { 
-      "children": [
-        "flex-layout.row#footer__container--contacto"
-      ],
-      "props":{
-        "blockClass": "footer__container"
-      }
-    }
+  "footer": {
+      "blocks": [
+        "footer-layout.desktop"
+      ]
+  }
 }

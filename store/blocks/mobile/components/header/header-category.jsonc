@@ -6,12 +6,12 @@
         ]
       },*/
       "flex-layout.row#header__category--menu":{
+        "title": "header-category--menu",
         "children":[
           "flex-layout.col#header__category--row1",
           "flex-layout.col#header__category--row2",
           "flex-layout.col#header__category--row3"
         ],
-        "title": "header-category--menu",
         "props":{
             "blockClass":"header__category--menu",
             "preserveLayoutOnMobile": true
@@ -28,16 +28,16 @@
       "flex-layout.col#header__category--row1":{
         "title": "category-one",
         "children":[
-            "image#header__section--one-category-celulares-mobile",
-            "rich-text#category-celulares-mobile",
+            "image#header__section--one-category-cellphones-mobile",
+            "rich-text#category-cellphones-mobile",
             "image#header__section--one-category-tv-mobile", 
             "rich-text#category-tv-mobile",
             "image#header__section--one-category-audio-mobile",
             "rich-text#category-audio-mobile",
-            "image#header__section--one-category-hogar-mobile",
-            "rich-text#category-hogar-mobile",
-            "image#header__section--one-category-juguetes-mobile",
-            "rich-text#category-juguetes-mobile"
+            "image#header__section--one-category-home-mobile",
+            "rich-text#category-home-mobile",
+            "image#header__section--one-category-toys-mobile",
+            "rich-text#category-toys-mobile"
         ],
         "props":{
             "blockClass":"header__category--images-text-mobile"
@@ -46,16 +46,16 @@
       "flex-layout.col#header__category--row2":{
         "title": "category-two",
         "children":[
-            "image#header__section--one-category-computadores-mobile", 
-            "rich-text#category-computadores-mobile",
-            "image#header__section--one-category-accesorios-mobile",
-            "rich-text#category-accesorios-mobile",
-            "image#header__section--one-category-camaras-mobile",
-            "rich-text#category-camaras-mobile",
-            "image#header__section--one-category-deportes-mobile",
-            "rich-text#category-deportes-mobile",
-            "image#header__section--one-category-pines-mobile",
-            "rich-text#category-pines-mobile"
+            "image#header__section--one-category-computers-mobile", 
+            "rich-text#category-computers-mobile",
+            "image#header__section--one-category-accessories-mobile",
+            "rich-text#category-accessories-mobile",
+            "image#header__section--one-category-cameras-mobile",
+            "rich-text#category-cameras-mobile",
+            "image#header__section--one-category-sports-mobile",
+            "rich-text#category-sports-mobile",
+            "image#header__section--one-category-pins-mobile",
+            "rich-text#category-pins-mobile"
         ],
         "props":{
             "blockClass":"header__category--images-text-mobile"
@@ -66,21 +66,21 @@
         "children":[     
             "image#header__section--one-category-electro-mobile", 
             "rich-text#category-electro-mobile",
-            "image#header__section--one-category-videojuegos-mobile", 
-            "rich-text#category-videojuegos-mobile",
-            "image#header__section--one-category-casa-inteligente-mobile",
-            "rich-text#category-casa-inteligente-mobile",
-            "image#header__section--one-category-llantas-mobile",
-            "rich-text#category-llantas-mobile",
-            "image#header__section--one-category-otros-mobile",
-            "rich-text#category-otros-mobile" 
+            "image#header__section--one-category-videogames-mobile", 
+            "rich-text#category-videogames-mobile",
+            "image#header__section--one-category-smart-house-mobile",
+            "rich-text#category-smart-house-mobile",
+            "image#header__section--one-category-tires-mobile",
+            "rich-text#category-tires-mobile",
+            "image#header__section--one-category-others-mobile",
+            "rich-text#category-others-mobile" 
         ],
         "props":{
             "blockClass":"header__category--images-text-mobile"
         }
       },
-      "image#header__section--one-category-celulares-mobile":{
-        "title": "imagen-impresoras",
+      "image#header__section--one-category-cellphones-mobile":{
+        "title": "image-printers",
         "props": {
         "src": "assets/img/img-alkosto/icono-cel.png",
         "blockClass":"header__category--image",
@@ -90,7 +90,7 @@
         }
     },
     "image#header__section--one-category-tv-mobile":{
-        "title": "imagen-impresoras",
+        "title": "image-tv",
         "props": {
         "src": "assets/img/img-alkosto/tv.png",
         "blockClass":"header__category--image",
@@ -100,7 +100,7 @@
         }
     },
     "image#header__section--one-category-audio-mobile":{
-        "title": "imagen-impresoras",
+        "title": "image-audio",
         "props": {
         "src": "assets/img/img-alkosto/audio.png",
         "blockClass":"header__category--image",
@@ -109,8 +109,8 @@
             }
         }
     },
-    "image#header__section--one-category-hogar-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-home-mobile":{
+        "title": "image-home",
         "props": {
         "src": "assets/img/img-alkosto/hogar.png",
         "blockClass":"header__category--image",
@@ -119,8 +119,8 @@
             }
         }
     },
-    "image#header__section--one-category-juguetes-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-toys-mobile":{
+        "title": "image-toys",
         "props": {
         "src": "assets/img/img-alkosto/juguetes.png",
         "blockClass":"header__category--image",
@@ -129,8 +129,8 @@
             }
         }
     },
-    "image#header__section--one-category-computadores-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-computers-mobile":{
+        "title": "image-computers",
         "props": {
         "src":  "assets/img/img-alkosto/computadores.png",
         "blockClass":"header__category--image",
@@ -139,8 +139,8 @@
             }
         }
     },
-    "image#header__section--one-category-accesorios-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-accessories-mobile":{
+        "title": "image-accessories",
         "props": {
         "src":  "assets/img/img-alkosto/smartwatch.png",
         "blockClass":"header__category--image",
@@ -149,8 +149,8 @@
             }
         }
     },
-    "image#header__section--one-category-camaras-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-cameras-mobile":{
+        "title": "image-cameras",
         "props": {
         "src":  "assets/img/img-alkosto/camaras.png",
         "blockClass":"header__category--image",
@@ -159,8 +159,8 @@
             }
         }
     },
-    "image#header__section--one-category-deportes-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-sports-mobile":{
+        "title": "image-sports",
         "props": {
         "src":  "assets/img/img-alkosto/deportes.png",
         "blockClass":"header__category--image",
@@ -169,8 +169,8 @@
             }
         }
     },
-    "image#header__section--one-category-pines-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-pins-mobile":{
+        "title": "image-pins",
         "props": {
         "src":  "assets/img/img-alkosto/pines.png",
         "blockClass":"header__category--image",
@@ -180,7 +180,7 @@
         }
     },
     "image#header__section--one-category-electro-mobile":{
-        "title": "imagen-impresoras",
+        "title": "image-electro",
         "props": {
         "src":  "assets/img/img-alkosto/electro.png",
         "blockClass":"header__category--image",
@@ -189,8 +189,8 @@
             }
         }
     },
-    "image#header__section--one-category-videojuegos-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-videogames-mobile":{
+        "title": "image-videogames",
         "props": {
         "src": "assets/img/img-alkosto/videojuegos.png",
         "blockClass":"header__category--image",
@@ -199,8 +199,8 @@
             }
         }
     },
-    "image#header__section--one-category-casa-inteligente-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-smart-house-mobile":{
+        "title": "image-smart-home",
         "props": {
         "src": "assets/img/img-alkosto/casa-inteligente.png",
         "blockClass":"header__category--image",
@@ -209,8 +209,8 @@
             }
         }
     },
-    "image#header__section--one-category-llantas-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-tires-mobile":{
+        "title": "image-tires",
         "props": {
         "src": "assets/img/img-alkosto/llantas.png",
         "blockClass":"header__category--image",
@@ -219,8 +219,8 @@
             }
         }
     },
-    "image#header__section--one-category-otros-mobile":{
-        "title": "imagen-impresoras",
+    "image#header__section--one-category-others-mobile":{
+        "title": "image-others",
         "props": {
         "src": "assets/img/img-alkosto/otros.png",
         "blockClass":"header__category--image",
@@ -229,8 +229,8 @@
             }
         }
     },
-    "rich-text#category-celulares-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-cellphones-mobile": {
+        "title": "text-cellphones-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -239,7 +239,7 @@
         }
       },
     "rich-text#category-tv-mobile": {
-        "title": "text-category-mobile",
+        "title": "text-tv-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -248,7 +248,7 @@
         }
       },
     "rich-text#category-audio-mobile": {
-        "title": "text-category-mobile",
+        "title": "text-audio-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -256,8 +256,8 @@
             "blockClass": "header__text--category-mobile"
         }
       },
-    "rich-text#category-hogar-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-home-mobile": {
+        "title": "text-home-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -265,8 +265,8 @@
             "blockClass": "header__text--category-mobile"
         }
       },
-    "rich-text#category-juguetes-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-toys-mobile": {
+        "title": "text-toys-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -274,8 +274,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-computadores-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-computers-mobile": {
+        "title": "text-computers-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -283,8 +283,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-accesorios-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-accessories-mobile": {
+        "title": "text-accessories-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -292,8 +292,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-camaras-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-cameras-mobile": {
+        "title": "text-cameras-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -301,8 +301,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-deportes-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-sports-mobile": {
+        "title": "text-sports-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -310,8 +310,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-pines-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-pins-mobile": {
+        "title": "text-pins-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -320,7 +320,7 @@
         }
     },
     "rich-text#category-electro-mobile": {
-        "title": "text-category-mobile",
+        "title": "text-electro-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -328,8 +328,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-videojuegos-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-videogames-mobile": {
+        "title": "text-videogames-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -337,8 +337,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-casa-inteligente-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-smart-house-mobile": {
+        "title": "text-smart-house-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -346,8 +346,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-llantas-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-tires-mobile": {
+        "title": "text-tires-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -355,8 +355,8 @@
             "blockClass": "header__text--category-mobile"
         }
     },
-    "rich-text#category-otros-mobile": {
-        "title": "text-category-mobile",
+    "rich-text#category-others-mobile": {
+        "title": "text-others-phone",
         "props": {
             "textAlignment": "CENTER",
             "textPosition": "CENTER",
@@ -364,6 +364,4 @@
             "blockClass": "header__text--category-mobile"
         }
     }
-    
-    
 }
