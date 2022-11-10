@@ -1,6 +1,6 @@
 {
-
-    "search-result-layout.customQuery#home__search": {
+  "search-result-layout.customQuery#home__search": {
+        "title":"home__search",
         "blocks": [
           "search-result-layout.desktop#home__search--desktop",
           "search-result-layout.mobile#home__search--mobile",
@@ -14,9 +14,11 @@
         }
       },
       "search-result-layout.desktop#home__search--desktop": {
+        "title":"home__search--desktop",
         "children": ["flex-layout.row#home__results"]
       },
       "search-result-layout.mobile#home__search--mobile": {
+        "title":"home__search--mobile",
         "children": ["rich-text#home__section--search--title"]
       },
       "rich-text#home__section--search--title":{
@@ -36,6 +38,7 @@
         "children": ["search-content#home__results--search"]
       },
       "search-content#home__results--search": {
+        "title": "home__results--search",
         "blocks": ["gallery", "not-found"]
       },
       "gallery": {

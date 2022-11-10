@@ -38,10 +38,9 @@
 }
 .headerRowContentContainer--hearder__middle-mobile{
     background: #f8f8f8;
-    margin-top: 386px;
     padding-left: 23px;
+    position: sticky;
     box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.2);
-    /*box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);*/
 }
 .headerRowContentContainer--hearder__mobile{
     background: #004798;

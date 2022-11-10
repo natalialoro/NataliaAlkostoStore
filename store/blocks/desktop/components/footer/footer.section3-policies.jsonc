@@ -1,0 +1,93 @@
+{
+    "disclosure-layout#tyc":{
+        "title": "Disclosure-tyc",
+        "children":[
+          "disclosure-trigger#tyc",
+          "disclosure-content#tyc"
+        ]
+      },
+      "disclosure-trigger#tyc":{
+        "title": "Disclosure-tyc",
+        "children":[
+          "rich-text#tyc"
+        ]
+      },
+      "rich-text#tyc":{
+        "title": "text-tyc",
+        "props":{
+          "text": "Términos y Condiciones Ofertas de Medios de pago",
+          "blockClass": "disclosure-policies-text"
+        }
+      }, 
+      "disclosure-content#tyc":{
+        "children":[
+        "rich-text#policies__content",
+        "flex-layout.row#policies__content2",
+        "rich-text#policies__content3",
+        "rich-text#policies__content4"     
+        ]
+      },  
+      "rich-text#policies__content":{
+        "props":{
+          "text":"Legal: Máximo 3 unidades por cliente con cualquier medio de pago (Para consolas máximo 1 unidad por referencia)",
+          "blockClass":"policies__content-text"
+        }
+      },
+      "flex-layout.row#policies__content2":{
+        "children":[
+          "flex-layout.col#policies__content2--image",
+          "flex-layout.col#policies__content2--text"
+        ],
+        "props":{
+          "colSizing":"auto",
+          "blockClass":"policies__content2"
+        }
+      },
+      "flex-layout.col#policies__content2--image":{
+        "children":[
+          "image#footer__container--policies"
+        ],
+        "props":{
+          "blockClass":"policies__content2--image"
+        }
+      },
+      "flex-layout.col#policies__content2--text":{
+        "children":[
+          "rich-text#policies__content2"
+        ],
+        "props":{
+          "blockClass":"policies__content2--text"
+        }
+      }, 
+      "rich-text#policies__content2":{
+        "props":{
+          "text":"Legal Tarjeta Alkosto: Ofertas válidas del 16 al 23 de septiembre de 2022. La vigencia puede variar de acuerdo al producto seleccionado. Descuento válido al pagar el valor total de la compra con Tarjetas de Crédito Alkosto. Para compras online sólo aplica con Tarjeta Alkosto MasterCard. No acumulable con otras ofertas de Tarjetas de Crédito Alkosto. Máximo 3 unidades por cliente. El seguro incluido en las ofertas de celulares es válido por el mes de septiembre de 2022 y es otorgado por SEGUROS GENERALES SURAMERICANA S.A., TUYA no asume ninguna obligación referente al contrato del seguro mencionado. Aplica para celulares libres y referencias seleccionadas marca Samsung, Huawei, Apple, Motorola, Lenovo, L.G., Asus, Alcatel, ZTE, Blu, Kalley, Nokia, Xiaomi, Vivo. Aplican condiciones del contrato de seguro. Oferta válida en almacenes Alkosto, Ktronix, www.alkosto.com, www.ktronix.com, excepto Nariño. Los intereses se liquidarán con la tasa vigente en el momento de la utilización. Tasa vigente del 1 al 30 de septiembre del 2022: 35,12004% E.A. Consulta tarifas en www.tarjetaalkosto.com.co/tarifas. Aprobación sujeta a análisis de Riesgo por Tuya S.A. Tarjeta de Crédito Alkosto y Tarjeta Alkosto Mastercard emitidas por Compañía de Financiamiento TUYA S.A.",
+          "blockClass":"policies__content-text-2"
+        }
+      },
+      "rich-text#policies__content3":{
+        "props":{
+          "text":"Legal bancos: Oferta válida entre el 16 al 23 de septiembre 2022, pagando con Tarjetas de Crédito Fácil Codensa y Tarjeta de Crédito Fácil Codensa MasterCard, aplica en los almacenes Alkosto, Ktronix, Alkomprar a nivel nacional y en www.alkosto.com, www.ktronix.com, www.alkomprar.com (No aplica en los almacenes del Departamento de Nariño). El descuento es directo en el precio y se hace efectivo en los puntos de pago, para las compras realizadas por Internet el descuento se verá reflejado en el momento de seleccionar el medio de pago Tarjetas Crédito según corresponda la oferta. Para productos en oferta máximo tres unidades por referencia, en consolas máximo una unidad por tarjetahabiente. La disponibilidad de los productos depende del inventario que maneje cada almacén. No canjeable por efectivo, no acumulable con otras ofertas. Para aplicar al descuento se debe pagar la totalidad de la compra con las tarjetas de crédito mencionadas, según corresponda la oferta. Para compras por internet no aplican las ofertas de los productos que sean combos o Kasados. La calidad, idoneidad, seguridad y garantía de los productos y servicios ofrecidos son responsabilidad exclusiva del establecimiento de comercio. Consulte puntos de venta, términos y condiciones en www.alkosto.com y www.ktronix.com. Los Productos y Servicios Financieros son ofrecidos por cada banco, quien liquidará las cuotas de acuerdo con la tasa que determine. Crédito Fácil Codensa: es un producto financiado por Multibanca Colpatria del Grupo Scotiabank, La tasa aplicada será la vigente el día de la compra, consúltelas en www.creditofacilcodensa.com/herramientas-globales/tasas-y-tarifas. Aprobación sujeta a políticas de la entidad. Scotiabank Colpatria actúa únicamente como financiador. Financia Scotiabank Colpatria establecimiento bancario vigilado por la Superintendencia financiera de Colombia. Los productos aquí descritos son ofrecidos por Alkosto, Ktronix y Alkomprar, por lo tanto, son ellos los responsables de la oferta, la venta, la entrega, el funcionamiento y la garantía de los mismos. Imágenes de referencia, el tamaño de las fotos no necesariamente representa el tamaño real del producto. La información de precio, unidades, características y detalle del producto se encuentra publicada en cada una de las referencias. Aplica únicamente para tarjetas de crédito emitidas en Colombia. Para ofertas de beneficio de 0% de interés, por favor consultar en los siguientes enlaces de acuerdo con la entidad.",
+          "blockClass":"policies__content-text-3"
+        }
+      },
+      "rich-text#policies__content4":{
+        "props":{
+          "text":"✧Davivienda 0% de intereses y Plan 0es3 (bine 459321) en productos Apple consulte en: www.ktronix.com/medios-pago/davivienda/plan-0es3-0interes/c/plan-0es3-0interes\r\n✧Davivienda iPhone for Life en productos Apple consulte en: www.ktronix.com/marcas/apple/iphone-for-life/c/iphoneforlife\r\n✧Tarjeta de crédito Alkosto consulte en: www.alkosto.com – www.tarjetaalkosto.com.co\r\n✧Davivienda 0% de interés, celular VIVO referencia X80 pro. Vigencia entre el 6 julio de 2022 hasta el día 31 diciembre de 2022 consulte en:www.ktronix.com/marcas/vivo/nuevo-celular-vivo-x80/c/nuevo-celular-vivo-x80",    
+          "blockClass":"policies__content-text-4"
+        }
+    },
+    "image#footer__container--policies":{
+      "title": "Image policies",
+      "props": {
+          "src": "assets/img/Logo-tuya.png",
+          "title:": "Img policies",
+          "blockClass": "footer__image--policies",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+    }      
+}

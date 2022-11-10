@@ -1,4 +1,5 @@
 {
+  /*
     "modal-trigger#home__modal--children":{
     "title": "modal--children",
     "children":[
@@ -52,5 +53,5 @@
     "props":{
       "showCloseButton":true
     }
-  }
+  }*/
 }

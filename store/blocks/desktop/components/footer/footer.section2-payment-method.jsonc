@@ -1,0 +1,138 @@
+{
+    "flex-layout.row#footer__container--payment-method-text":{
+        "title": "container--payment-method-tex",
+        "children":[
+          "rich-text#footer__container--payment-method-text"
+        ],
+        "props":{
+          "blockClass": "footer__container--mediosdepago"
+        }
+      },
+    "flex-layout.row#footer__container--payment-method":{
+        "title": "container--payment-method",
+        "children":[      
+          "flex-layout.row#footer__container--payment-method-img"
+        ]
+      },
+    "rich-text#footer__container--payment-method-text":{
+        "title": "payment-method-text",
+        "props":{
+          "text": "Medios de pago aceptados",
+          "textPosition": "LEFT",
+          "blockClass":"footer__container--mediosdepago-text"
+        }
+      },
+    "flex-layout.row#footer__container--payment-method-img":{
+        "title": "container--payment-method-img",
+        "children":[
+          "image#footer__container--payment-method-img1",
+          "image#footer__container--payment-method-img2",
+          "image#footer__container--payment-method-img3",
+          "image#footer__container--payment-method-img4",
+          "image#footer__container--payment-method-img5",
+          "image#footer__container--payment-method-img6",
+          "image#footer__container--payment-method-img7",
+          "image#footer__container--payment-method-img8",
+          "image#footer__container--payment-method-img9",
+          "image#footer__container--payment-method-img10",
+          "image#footer__container--payment-method-img11",
+          "image#footer__container--payment-method-img12",
+          "image#footer__container--payment-method-img13"
+    
+        ],
+        "props":{
+          "blockClass": "footer__container--mediosdepago-img"
+        }
+      },
+    "image#footer__container--payment-method-img1":{
+        "title": "payment-method-img1",
+        "props": {
+            "src": "assets/img/VISA.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img2":{
+        "title": "payment-method-img2",
+        "props": {
+            "src": "assets/img/DINNERS-CLUB.svg",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      }, 
+    "image#footer__container--payment-method-img3":{
+        "title": "payment-method-img3",
+        "props": {
+            "src": "assets/img/mastercard-icon.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img4":{
+        "title": "payment-method-img4",
+        "props": {
+            "src": "assets/img/amex-card-icon.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img5":{
+        "title": "payment-method-img5",
+        "props": {
+            "src": "assets/img/bancolombia-boton-icon.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img6":{
+        "title": "payment-method-img6",
+        "props": {
+            "src": "assets/img/pse-icon.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img7":{
+        "title": "payment-method-img7",
+        "props": {
+            "src": "assets/img/TARJETA-ALKOSTO.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img8":{
+        "title": "payment-method-img8",
+        "props": {
+            "src": "assets/img/EFECTY.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img9":{
+        "title": "payment-method-img9",
+        "props": {
+            "src": "assets/img/CODENSA.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img10":{
+        "title": "payment-method-img10",
+        "props": {
+            "src": "assets/img/credito20min-icon.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img11":{
+        "title": "payment-method-img11",
+        "props": {
+            "src": "assets/img/DAVIVIENDA.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img12":{
+        "title": "payment-method-img12",
+        "props": {
+            "src": "assets/img/BANCOLOMBIA.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+      },
+    "image#footer__container--payment-method-img13":{
+        "title": "payment-method-img13",
+        "props": {
+            "src": "assets/img/BANCO-BOGOTA.png",
+            "blockClass": "footer__container--mediosdepago-card"
+        }
+    }
+}

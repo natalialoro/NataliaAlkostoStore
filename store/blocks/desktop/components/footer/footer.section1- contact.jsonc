@@ -1,0 +1,154 @@
+{
+    "flex-layout.row#footer__container--contact":{
+        "title": "footer-container--contact",
+        "children":[
+          "flex-layout.col#footer__container--contact-col-one",
+          "flex-layout.col#footer__container--contact-col-two",
+          "flex-layout.col#footer__container--contact-col-three"
+        ],
+        "props":{
+          "blockClass": "footer__container--contact"
+        }
+      },
+      "flex-layout.col#footer__container--contact-col-one":{
+          "title": "contact-col-one",
+          "children":[
+          "image#footer__container--contact-col-one",
+          "rich-text#footer__container--contact-col-one",
+          "rich-text#footer__container--business-name-col-one",
+          "rich-text#footer__container--nit-col-one"
+          ],    
+          "props":{
+            "blockClass": "footer__container--contact-col",
+            "colSizing": "auto"
+          }      
+      },
+      "rich-text#footer__container--contact-col-one":{
+        "title": "text-contact-col-one",
+        "props":{
+          "text": "Sobre Nosotros",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto-title"
+        }
+      },
+      "rich-text#footer__container--business-name-col-one":{
+        "title": "text-business-name-col-one",
+        "props":{
+          "text": "**Colombiana de Comercio S.A.**",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto-razonsocial"
+        }
+      },
+      "rich-text#footer__container--nit-col-one":{
+        "title": "container--nit-col-one",
+        "props":{
+          "text": "Nit:890.900.943-1",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto"
+        }
+      },
+      "flex-layout.col#footer__container--contact-col-two":{
+        "title": "container--contact-col-two",
+        "children":[
+          "image#footer__container--contact-col-two",
+          "rich-text#footer__container--contact-col-two",
+          "rich-text#footer__container--email-col-two"
+        ],
+        "props":{
+          "blockClass": "footer__container--contact-col",
+          "colSizing": "auto"
+        }
+      },
+      "rich-text#footer__container--contact-col-two":{
+        "title": "text-contact-col-two",
+        "props":{
+          "text": "Email",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto-title-email"
+        }
+      },
+      "rich-text#footer__container--email-col-two":{
+        "title": "text-email-col-two",
+        "props":{
+          "text": "sugerencias@alkosto.com",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto-email"
+        }
+      },
+      "flex-layout.col#footer__container--contact-col-three":{
+        "title": "contact-col-three",
+        "children":[
+          "image#footer__container--contact-col-three",
+          "rich-text#footer__container--contact-col-three",
+          "rich-text#footer__container--customer-service-col-three",
+          "rich-text#footer__container--telephone-sale-col-three"
+        ],    
+        "props":{
+          "blockClass": "footer__container--contact-col",
+          "colSizing": "auto"
+        }
+      },
+      "rich-text#footer__container--contact-col-three":{
+        "title": "text-contact-col-three",
+        "props":{
+          "text": "Venta telefónica",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto-title"
+        }
+      },
+      "rich-text#footer__container--customer-service-col-three":{
+        "title": "text-contact-col-three",
+        "props":{
+          "text": "Servicio al Cliente:(601) 407 3033",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto"
+        }
+      },
+      "rich-text#footer__container--telephone-sale-col-three":{
+        "title": "telephone-sale-col-three",
+        "props":{
+          "text": "Venta Telefónica:(601) 3649734",
+          "textPosition": "CENTER",
+          "blockClass": "rich-text__footer__container--contacto"
+        }
+    },
+    "image#footer__container--contact-col-one":{
+      "title": "contact-col-one",
+      "props": {
+          "src": "assets/img/about-icon.png",
+          "title:": "Nosotros",
+          "blockClass": "footer__image--nosotros",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+    },
+    "image#footer__container--contact-col-two":{
+      "title": "contact-col-two",
+      "props": {
+          "src": "assets/img/email-icon.png",
+          "title:": "Email",
+          "blockClass": "footer__image--email",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+          }
+      }
+    },
+    "image#footer__container--contact-col-three":{
+      "title": "contact-col-three",
+      "props": {
+          "src": "assets/img/contact-icon.png",
+          "title:": "Venta Telefónica",
+          "blockClass": "footer__image--ventatelefonica",
+          "link":{
+              "url": "#",
+              "newTab": false,
+              "attributeNoFollow": false
+      }
+    }
+  }
+}
