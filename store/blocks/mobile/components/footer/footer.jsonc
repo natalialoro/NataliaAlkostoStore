@@ -10,19 +10,19 @@
       }
     }, 
     "flex-layout.col#footer__container--links-mobile":{
-      "title": "footer-container--links-mobile",
+      "title": "footer-container-links-mobile",
       "children":[
-        "disclosure-layout#contact-company",
-        "disclosure-layout#contact-online-purchases",
-        "disclosure-layout#contact-services",
-        "disclosure-layout#contact-policies"
+        "disclosure-layout#policies",
+        "disclosure-layout#company",
+        "disclosure-layout#online-purchases",
+        "disclosure-layout#services"
       ],
       "props":{
         "blockClass":"col__container--links-mobile"
       }
     },
-    "disclosure-layout#contact-company":{
-      "title": "contact-company",
+    "disclosure-layout#company":{
+      "title": "company",
       "children":[
         "disclosure-trigger#company",
         "disclosure-content#company"
@@ -46,8 +46,8 @@
         "rich-text#footer__container--links-col-one-link7"
       ]
     },
-    "disclosure-layout#contact-online-purchases":{
-      "title": "contact-online-purchases",
+    "disclosure-layout#online-purchases":{
+      "title": "online-purchases",
       "children":[
         "disclosure-trigger#online-purchases",
         "disclosure-content#online-purchases"
@@ -69,8 +69,8 @@
         "rich-text#footer__container--links-col-two-link5"      
       ]
     },
-    "disclosure-layout#contact-services":{
-      "title": "contact-services",
+    "disclosure-layout#services":{
+      "title": "services",
       "children":[
         "disclosure-trigger#services",
         "disclosure-content#services"
@@ -89,20 +89,20 @@
         "rich-text#footer__container--links-col-three-link2"
       ]
     },
-    "disclosure-layout#contact-policies":{
+    "disclosure-layout#policies":{
       "title": "contact-policies",
       "children":[
-        "disclosure-trigger#contact-policies",
-        "disclosure-content#contact-policies"
+        "disclosure-trigger#policies",
+        "disclosure-content#policies"
       ]
     },
-    "disclosure-trigger#contact-policies":{
-      "title": "contact-policies",
+    "disclosure-trigger#policies":{
+      "title": "policies",
       "children":[
         "rich-text#footer__container--col-four-title"
       ]
     },
-    "disclosure-content#contact-policies":{
+    "disclosure-content#policies":{
       "title": "contact-policies",
       "children":[
         "rich-text#footer__container--col-four-link1",

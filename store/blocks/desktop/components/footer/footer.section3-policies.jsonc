@@ -1,25 +1,25 @@
 {
-    "disclosure-layout#policies":{
-        "title": "Disclosure-policies",
+    "disclosure-layout#tyc":{
+        "title": "Disclosure-tyc",
         "children":[
-          "disclosure-trigger#policies",
-          "disclosure-content#policies"
+          "disclosure-trigger#tyc",
+          "disclosure-content#tyc"
         ]
       },
-      "disclosure-trigger#policies":{
-        "title": "Disclosure-policies",
+      "disclosure-trigger#tyc":{
+        "title": "Disclosure-tyc",
         "children":[
-          "rich-text#policies"
+          "rich-text#tyc"
         ]
       },
-      "rich-text#policies":{
-        "title": "text-policies",
+      "rich-text#tyc":{
+        "title": "text-tyc",
         "props":{
           "text": "Términos y Condiciones Ofertas de Medios de pago",
           "blockClass": "disclosure-policies-text"
         }
       }, 
-      "disclosure-content#policies":{
+      "disclosure-content#tyc":{
         "children":[
         "rich-text#policies__content",
         "flex-layout.row#policies__content2",

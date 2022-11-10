@@ -91,6 +91,9 @@
     color: #929292;
     text-decoration: none;
  }
+ .link--links-footer:hover{
+    text-decoration: underline;
+ }
  .paragraph--disclosure-policies-text{
     transform: translateX(-412px)
  }
