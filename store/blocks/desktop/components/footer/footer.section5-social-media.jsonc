@@ -1,0 +1,48 @@
+{
+    "flex-layout.row#footer__container--socialmedia":{
+        "title": "section social media",
+        "children":[
+            "flex-layout.row#footer__container--socialmedia-text-icons"     
+            ],
+        "props":{
+            "blockClass": "footer__container--socialmedia"
+            }
+      },
+    "flex-layout.row#footer__container--socialmedia-text-icons":{
+        "title": "socialmedia-text-icons",
+        "children":[
+            "rich-text#footer__container--socialmedia",
+            "social-networks"
+        ],
+        "props":{
+            "blockClass": "footer__container--socialmedia-text-icons"
+        }
+      }, 
+    "rich-text#footer__container--socialmedia":{
+        "title": "container--socialmedia",
+        "props":{
+            "text": "Síguenos en:",
+            "textColor": "c-on-emphasis",
+             "blockClass":"footer__container--text-socialmedia"
+        }    
+      },
+    "social-networks":{
+        "props":{
+          "socialNetworks":[
+            {
+              "url": "https://www.facebook.com/alkostohiperahorro",
+              "name": "Facebook"
+            },
+            {
+              "url": "https://twitter.com/Alkosto",
+              "name": "Twitter"
+            },
+            {
+              "url": "https://www.youtube.com/user/AlkostoHiperAhorro",
+              "name": "Youtube"
+            }
+          ],
+          "blockClass":"footer__container--icons-socialmedia"
+        }
+    }
+}

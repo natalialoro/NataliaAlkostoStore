@@ -1,0 +1,292 @@
+{
+    "flex-layout.row#footer__container--links":{
+        "title": "Section 3 links",
+        "children":[
+          "flex-layout.col#footer__container--links-col-one",
+          "flex-layout.col#footer__container--links-col-two",
+          "flex-layout.col#footer__container--links-col-three",
+          "flex-layout.col#footer__container--links-col-four"
+        ],
+        "props":{
+          "blockClass": "footer__container--links",
+          "colSizing":"auto"
+        }
+      },
+      "flex-layout.col#footer__container--links-col-one":{
+        "title": "container--links-col-one",
+        "children":[
+          "rich-text#footer__container--links-col-one-title",
+          "rich-text#footer__container--links-col-one-link1",
+          "rich-text#footer__container--links-col-one-link2",
+          "rich-text#footer__container--links-col-one-link3",
+          "rich-text#footer__container--links-col-one-link4",
+          "rich-text#footer__container--links-col-one-link5",
+          "rich-text#footer__container--links-col-one-link6",
+          "rich-text#footer__container--links-col-one-link7",
+          "rich-text#footer__container--links-col-one-link8"
+        ]
+      },
+      "rich-text#footer__container--links-col-one-title":{
+        "title": "links-col-one-title",
+        "props":{
+          "text":"Nuestra Compañía",
+          "blockClass":"links-title"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link1":{
+        "title": "links-col-one-link1",
+        "props":{
+          "text":"[Quiénes somos](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link2":{
+        "title": "links-col-one-link2",
+        "props":{
+          "text":"[Nuestra tiendas](/)",
+          "blockClass":"links-footer"
+        }
+      },  
+      "rich-text#footer__container--links-col-one-link3":{
+        "title": "links-col-one-link3",
+        "props":{
+          "text":"[Contáctenos](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link4":{
+        "title": "links-col-one-link4",
+        "props":{
+          "text":"[Tarjeta de crédito Alkosto](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link5":{
+        "title": "links-col-one-link5",
+        "props":{
+          "text":"[Trabaje con nosotros](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link6":{
+        "title": "links-col-one-link6",
+        "props":{
+          "text":"[Certificados tributarios](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link7":{
+        "title": "links-col-one-link7",
+        "props":{
+          "text":"[Rifas](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-one-link8":{
+        "title": "links-col-one-link8",
+        "props":{
+          "text":"[Fondo de empleados y cooperativas](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "flex-layout.col#footer__container--links-col-two":{
+        "title": "container--links-col-two",
+        "children":[
+        "rich-text#footer__container--links-col-two-title",
+        "rich-text#footer__container--links-col-two-link1",
+        "rich-text#footer__container--links-col-two-link2",
+        "rich-text#footer__container--links-col-two-link3",
+        "rich-text#footer__container--links-col-two-link4",
+        "rich-text#footer__container--links-col-two-link5"
+    
+        ]
+      },
+      "rich-text#footer__container--links-col-two-title":{
+        "title": "links-col-two-title",
+        "props":{
+            "text":"Compras en línea",
+            "blockClass":"links-title"
+        }
+      },
+    "rich-text#footer__container--links-col-two-link1":{
+        "title": "links-col-two-link1",
+        "props":{
+            "text":"[Preguntas frecuentes](/)",
+            "blockClass":"links-footer"
+      }
+      },
+    "rich-text#footer__container--links-col-two-link2":{
+        "title": "links-col-two-link2",
+        "props":{
+            "text":"[Pago seguro](/)",
+            "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-two-link3":{
+      "props":{
+        "text":"[Métodos de envío](/)",
+        "blockClass":"links-footer"
+      }
+      },
+    "rich-text#footer__container--links-col-two-link4":{
+        "title": "links-col-two-link4",
+        "props":{
+            "text":"[Medios de pago](/)",
+            "blockClass":"links-footer"
+      }
+      },
+    "rich-text#footer__container--links-col-two-link5":{
+        "title": "links-col-two-link5",
+        "props":{
+            "text":"[Seguros](/)",
+            "blockClass":"links-footer"
+            }
+      }, 
+      "flex-layout.col#footer__container--links-col-three":{
+        "title": "container--links-col-three",
+        "children":[
+          "rich-text#footer__container--links-col-three-title",
+          "rich-text#footer__container--links-col-three-link1",
+          "rich-text#footer__container--links-col-three-link2",
+          "rich-text#footer__container--links-col-three-link3",
+          "rich-text#footer__container--links-col-three-link4"
+    
+      ]
+      },
+      "rich-text#footer__container--links-col-three-title":{
+        "title": "links-col-three-title",
+        "props":{
+        "text":"Servicios",
+        "blockClass":"links-title"
+        }
+      },
+      "rich-text#footer__container--links-col-three-link1":{
+        "title": "links-col-three-link1",
+        "props":{
+        "text":"[Instalaciones](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-three-link2":{
+        "title": "links-col-three-link2",
+        "props":{
+        "text":"[Garantía extendida](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-three-link3":{
+        "title": "links-col-three-link2",
+        "props":{
+        "text":"[Garantías y centros de servicios técnico](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--links-col-three-link4":{
+        "title": "links-col-three-link2",
+        "props":{
+        "text":"[Instalación de Llantas](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "flex-layout.col#footer__container--links-col-four":{
+        "title": "container--links-col-four",
+        "children":[
+          "rich-text#footer__container--col-four-title",
+          "rich-text#footer__container--col-four-link1",
+          "rich-text#footer__container--col-four-link2",
+          "rich-text#footer__container--col-four-link3",
+          "rich-text#footer__container--col-four-link4",
+          "rich-text#footer__container--col-four-link5",
+          "rich-text#footer__container--col-four-link6",
+          "rich-text#footer__container--col-four-link7",
+          "rich-text#footer__container--col-four-link8",
+          "rich-text#footer__container--col-four-link9",
+          "rich-text#footer__container--col-four-link10",
+          "rich-text#footer__container--col-four-link11"
+          ]
+      },
+      "rich-text#footer__container--col-four-title":{
+        "title": "col-four-title",
+        "props":{
+        "text":"Políticas",
+        "blockClass":"links-title"
+      }
+      },
+      "rich-text#footer__container--col-four-link1":{
+        "title": "col-four-link1",
+        "props":{
+        "text":"[Términos y condiciones del canal digital](/)",
+        "blockClass":"links-footer"
+      }
+      },
+      "rich-text#footer__container--col-four-link2":{
+        "title": "col-four-link2",
+        "props":{
+        "text":"[Términos y condiciones, Somos Hichas del Mundo](/)",
+        "blockClass":"links-footer"
+      }
+      },
+      "rich-text#footer__container--col-four-link3":{
+        "title": "col-four-link3",
+        "props":{
+        "text":"[Contrato de compraventa en línea](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link4":{
+        "title": "col-four-link4",
+        "props":{
+        "text":"[https://www.sic.gov.co](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link5":{
+        "title": "col-four-link5",
+        "props":{
+        "text":"[Politíca de privacidad](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link6":{
+        "title": "col-four-link6",
+        "props":{
+        "text":"[Solicitud tratamiento de datos personales](/)",
+        "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link7":{
+        "title": "col-four-link7",
+        "props":{
+        "text":"[Política de cookies](/)",
+        "blockClass":"links-footer"
+      }
+      },
+      "rich-text#footer__container--col-four-link8":{
+        "title": "col-four-link8",
+        "props":{
+          "text":"[Poltica de cambios y devoluciones](/)",
+          "blockClass":"links-footer"
+      }
+      },
+      "rich-text#footer__container--col-four-link9":{
+        "title": "col-four-link9",
+        "props":{
+          "text":"[Código de ética](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link10":{
+        "title": "col-four-link10",
+        "props":{
+          "text":"[Manual de normas SST para Terceros](/)",
+          "blockClass":"links-footer"
+        }
+      },
+      "rich-text#footer__container--col-four-link11":{
+        "title": "col-four-link11",
+        "props":{
+          "text":"[Línea ética](/)",
+          "blockClass":"links-footer"
+        }
+    }
+}

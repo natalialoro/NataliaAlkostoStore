@@ -3,7 +3,7 @@
     "title": "Header Mobile",
     "children":[
       "header-row#header__top--mobile",
-      "header-row#header__middle--mobile"
+      "header-row#header__middle--mobile"  
     ]
   }
 }
