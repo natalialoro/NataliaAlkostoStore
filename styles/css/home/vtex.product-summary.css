@@ -1,0 +1,19 @@
+.image--home__search-result-image{
+    height: 300px;
+    object-fit: contain;
+    max-height: unset;
+    width: 700px;
+}/*
+.buyButton--home__search-result-button{
+   
+}*/
+.containerNormal--search-page__product-shelf--col-container{
+    width: 400px;
+}
+.imageNormal{
+    width: 177px;
+}
+.galleryItem--normal{
+    margin-right: 288px;
+}
+
