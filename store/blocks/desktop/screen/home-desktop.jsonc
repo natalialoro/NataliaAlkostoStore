@@ -5,6 +5,7 @@
           "flex-layout.row#home__section--one",
           "flex-layout.row#home__banner--one",
           //"slider-layout#home__search",
+          "flex-layout.row#home__gallery--title",
           "search-result-layout.customQuery#home__search",
           "flex-layout.row#home__section--topoffers--title-three",
           "flex-layout.row#home__section--topoffers-images",
