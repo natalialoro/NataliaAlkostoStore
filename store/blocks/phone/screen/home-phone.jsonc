@@ -6,6 +6,7 @@
             "flex-layout.row#home__section--two-title-phone",
             "flex-layout.row#home__section--two-phone",
             "flex-layout.row#home__banner--one-phone",
+            "search-result-layout.customQuery#home__search",
             "flex-layout.row#home__section--topoffers-title-phone",
             "slider-layout#home__section--offers-phone",
             "flex-layout.row#home__section--cellphones--title-four",
@@ -21,9 +22,9 @@
             "flex-layout.row#home__section--learn-more--title-nine",
             "slider-layout#home__section--more-phone",
             "flex-layout.row#home__section--banks--title-ten",
-            "slider-layout#home__section--banks",
-            "modal-trigger#home__modal--children",
-            "modal-trigger#home__modal--event"
+            "slider-layout#home__section--banks"
+            //"modal-trigger#home__modal--children",
+            //"modal-trigger#home__modal--event"
 
         ]
           

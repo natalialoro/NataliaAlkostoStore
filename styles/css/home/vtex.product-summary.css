@@ -1,0 +1,25 @@
+.brandName {
+    color: #000;
+    font-size: .8125rem;  
+}
+.nameContainer {
+    padding: 0px;
+}
+.priceConteiner--product-summary-price {
+    padding: 0;
+}
+.sellingPriceConteiner {
+    padding: 0px;
+}
+.nameContainer {
+    padding: 0px;
+}
+.priceConteiner--product-summary-price {
+    padding: 0;
+}
+.sellingPriceConteiner {
+    padding: 0px;
+}
+.price_listPriceContainer{
+    margin-top: -21px;
+}

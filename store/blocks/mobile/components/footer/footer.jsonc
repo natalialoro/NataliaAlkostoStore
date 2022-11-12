@@ -1,0 +1,121 @@
+{
+    "flex-layout.row#footer__container--links-mobile":{
+      "title": "Section contact - footer mobile",
+      "children":[
+        "flex-layout.col#footer__container--links-mobile"      
+      ],
+      "props":{
+        "blockClass": "footer__container--links",
+        "colSizing":"auto"
+      }
+    }, 
+    "flex-layout.col#footer__container--links-mobile":{
+      "title": "footer-container-links-mobile",
+      "children":[
+        "disclosure-layout#policies",
+        "disclosure-layout#company",
+        "disclosure-layout#online-purchases",
+        "disclosure-layout#services"
+      ],
+      "props":{
+        "blockClass":"col__container--links-mobile"
+      }
+    },
+    "disclosure-layout#company":{
+      "title": "company",
+      "children":[
+        "disclosure-trigger#company",
+        "disclosure-content#company"
+      ]
+    },
+    "disclosure-trigger#company":{
+      "title": "disclosure-trigger-company",
+      "children":[
+        "rich-text#footer__container--links-col-one-title"
+      ]
+    },
+    "disclosure-content#company":{
+      "title": "disclosure-content-company",
+      "children":[
+        "rich-text#footer__container--links-col-one-link1",
+        "rich-text#footer__container--links-col-one-link2",
+        "rich-text#footer__container--links-col-one-link3",
+        "rich-text#footer__container--links-col-one-link4",
+        "rich-text#footer__container--links-col-one-link5",
+        "rich-text#footer__container--links-col-one-link6",
+        "rich-text#footer__container--links-col-one-link7"
+      ]
+    },
+    "disclosure-layout#online-purchases":{
+      "title": "online-purchases",
+      "children":[
+        "disclosure-trigger#online-purchases",
+        "disclosure-content#online-purchases"
+      ]
+    },
+    "disclosure-trigger#online-purchases":{
+      "title": "disclosure-trigger-online-purchases",
+      "children":[
+        "rich-text#footer__container--links-col-two-title"
+      ]
+    },
+    "disclosure-content#online-purchases":{
+      "title": "online-purchases",
+      "children":[
+        "rich-text#footer__container--links-col-two-link1",
+        "rich-text#footer__container--links-col-two-link2",
+        "rich-text#footer__container--links-col-two-link3",
+        "rich-text#footer__container--links-col-two-link4",
+        "rich-text#footer__container--links-col-two-link5"      
+      ]
+    },
+    "disclosure-layout#services":{
+      "title": "services",
+      "children":[
+        "disclosure-trigger#services",
+        "disclosure-content#services"
+      ]
+    },
+    "disclosure-trigger#services":{
+      "title": "services",
+      "children":[
+        "rich-text#footer__container--links-col-three-title"
+      ]
+    },
+    "disclosure-content#services":{
+      "title": "services",
+      "children":[
+        "rich-text#footer__container--links-col-three-link1",
+        "rich-text#footer__container--links-col-three-link2"
+      ]
+    },
+    "disclosure-layout#policies":{
+      "title": "contact-policies",
+      "children":[
+        "disclosure-trigger#policies",
+        "disclosure-content#policies"
+      ]
+    },
+    "disclosure-trigger#policies":{
+      "title": "policies",
+      "children":[
+        "rich-text#footer__container--col-four-title"
+      ]
+    },
+    "disclosure-content#policies":{
+      "title": "contact-policies",
+      "children":[
+        "rich-text#footer__container--col-four-link1",
+        "rich-text#footer__container--col-four-link2",
+        "rich-text#footer__container--col-four-link3",
+        "rich-text#footer__container--col-four-link4",
+        "rich-text#footer__container--col-four-link5",
+        "rich-text#footer__container--col-four-link6",
+        "rich-text#footer__container--col-four-link7",
+        "rich-text#footer__container--col-four-link8",
+        "rich-text#footer__container--col-four-link9",
+        "rich-text#footer__container--col-four-link10",
+        "rich-text#footer__container--col-four-link11"
+      ]
+    }
+  }

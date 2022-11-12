@@ -1,23 +1,25 @@
 .paragraph--rich-text__footer__container--contacto,
 .link--rich-text__footer__container--contacto-email{
     margin: 0px;
-   /*  font-family: Arial,Helvetica,sans-serif; */
     font-size: 12px;
     line-height: 0.3;
 }
 .paragraph--rich-text__footer__container--contacto-title{
     font-size: 16px;
     color: #fff;
-   /*  font-family: Arial,Helvetica,sans-serif; */
-    line-height: 0.3;
-    
+    line-height: 0.3; 
 }
 .link--rich-text__footer__container--contacto-email{
     text-decoration: none;
     color: #929292;
 }
+.paragraph--rich-text__footer__container--contacto-title-email{
+    margin-top: 9px;
+}
+.paragraph--rich-text__footer__container--contacto-email{
+    margin-top: -2px;
+}
 .paragraph--rich-text__footer__container--contacto-razonsocial{
-    /* font-family: Arial,Helvetica,sans-serif; */
     font-size: 12px;
     color: #fff;
     line-height: 0.3;
@@ -27,7 +29,6 @@
     border-right: solid 1px white;
     font-size: 16px;
     color: #fff;
-   /*  font-family: Arial,Helvetica,sans-serif; */
     line-height: 0.3;
 }
 
@@ -47,13 +48,11 @@
 .paragraph--policies__content-text{
     font-size: 12px;
     color: #929292;
-   /*  font-family: Arial,Helvetica,sans-serif; */
     margin-left: 80px;
 }
  .paragraph--policies__content-text-2{
     font-size: 12px;
     color: #929292;
-    /* font-family: Arial,Helvetica,sans-serif; */
     margin-right: 63px;
     text-align: justify;
     transform: translateX(-30px);
@@ -61,7 +60,6 @@
  .paragraph--policies__content-text-3{
     font-size: 12px;
     color: #929292;
-   /*  font-family: Arial,Helvetica,sans-serif; */
     margin: 1px 80px 1px 80px;
     text-align: justify;
  }
@@ -75,19 +73,16 @@
     margin: 15px 80px 40px 80px;
     font-size: 12px;
     color: #929292;
-    /* font-family: Arial,Helvetica,sans-serif; */
     text-align: justify;
  }
  .paragraph--links-title{
     font-size: 18px;
     color: #fcfcfc;
-   /*  font-family: Arial,Helvetica,sans-serif; */
  }
  .wrapper--links-footer{
     color: #929292;
     font-size: 12px;
     font-weight: 400;
-    /* font-family: Arial,Helvetica,sans-serif; */
  }
  .container--links-footer{
     height: 30px;
@@ -96,27 +91,12 @@
     color: #929292;
     text-decoration: none;
  }
+ .link--links-footer:hover{
+    text-decoration: underline;
+ }
  .paragraph--disclosure-policies-text{
     transform: translateX(-412px)
  }
- 
- @media screen and (max-width: 639px){   
-    .paragraph--rich-text__footer__container--contacto-razonsocial,
-    .paragraph--rich-text__footer__container--contacto{
-        min-width: max-content;
-    }
-    .wrapper--footer__container--mediosdepago-text{
-        margin-top: -15px;
-        margin-left: -8px;
-    }
-    .paragraph--disclosure-policies-text{
-        transform: translateX(-2px);
-    } 
-    .paragraph--links-title{
-        transform: translate(-15px, -20px)
-    }
-}
-
 @media screen and (max-width: 1024px){   
     .paragraph--rich-text__footer__container--contacto-razonsocial,
     .paragraph--rich-text__footer__container--contacto{
@@ -140,29 +120,22 @@
     .paragraph--policies__content-text-2{
         margin-right: 10px;
     }  
-   /*  .paragraph--disclosure-policies-text{
-        margin-bottom: -23px;
-    }  */
+   .paragraph--disclosure-policies-text{
+        margin-top: 6px;
+        margin-left: 26px;
+        margin-right: 10px;
+        font-size: 16px;
+        font-size: 16px;
+        transform: translateX(-2px);
+    }  
     .paragraph--links-title{
        font-size: 16px;
+       transform: translate(-15px, -20px)
     }
     .wrapper--disclosure-policies-text{
         transform: translateY(-8px);
     }
     .container--policies__content-text{
         margin-top: 40px;
-    }
-}
-
-@media screen and (min-width: 640px) and (max-width: 1024px){
-    .wrapper--footer__container--mediosdepago-text{
-        margin-top: -15px;
-        margin-left: -16px;
-    }   
-    .paragraph--disclosure-policies-text{
-        transform: translate(-174px);
-    } 
-    .paragraph--links-title{
-        transform: translate(-20px, -20px)
     }
 }
