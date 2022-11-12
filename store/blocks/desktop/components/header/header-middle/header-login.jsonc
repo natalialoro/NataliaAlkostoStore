@@ -63,13 +63,12 @@
   },
   "flex-layout.row#header__middle--login-content": {
     "children": [
-        "login-content"
+      "login"
     ],
     "props":{
         "blockClass":"modal__row"
     }
-  }
-  /*
+  },
   "login":{
     "props": {
         "emailAndPasswordTitle": "LOG-IN",
@@ -79,5 +78,7 @@
         "showPasswordVerificationIntoTooltip": true,
         "showIconProfile": false
     }
-  } */
+  } 
 }
+  
+ 

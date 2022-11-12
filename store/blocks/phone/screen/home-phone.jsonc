@@ -6,6 +6,7 @@
             "flex-layout.row#home__section--two-title-phone",
             "flex-layout.row#home__section--two-phone",
             "flex-layout.row#home__banner--one-phone",
+            "search-result-layout.customQuery#home__search",
             "flex-layout.row#home__section--topoffers-title-phone",
             "slider-layout#home__section--offers-phone",
             "flex-layout.row#home__section--cellphones--title-four",
