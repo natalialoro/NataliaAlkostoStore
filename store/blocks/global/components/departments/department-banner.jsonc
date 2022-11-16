@@ -1,0 +1,14 @@
+{
+    "image#banner-department":{
+    "title": "banner-department",
+    "props": {
+      "src": "https://cdn.alkst.co/t2261be7c/img/474xt_u8f3a2_87e89aca.jpg",
+      "blockClass": "banner-department",
+      "link": {
+        "url": "/",
+        "newTab": true,
+        "attributeNoFollow":true
+        }
+    }
+  }
+}

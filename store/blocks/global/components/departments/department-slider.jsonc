@@ -1,0 +1,49 @@
+{
+    "slider-layout#slider-department":{
+    "title": "slider-department",
+    "props":{
+      "itemsPerPage":{
+        "desktop": 1,
+        "tablet": 1,
+        "mobile": 1
+      },
+      "infinite": true,
+      "blockClass": "home__slider",
+        "stopOnHover": true
+      },
+    "children":[
+      "image#department__slider--one",
+      "image#department__slider--two",
+      "image#department__slider--three",
+      "image#department__slider--four"
+    ]
+  },
+  "image#department__slider--one":{
+    "title": "slider--one",
+    "props":{
+      "src":"https://cdn.alkst.co/t2261be7c/img/474xt_cdm7k4_2762017f.jpg",
+      "blockClass": "home__slider--image"
+    }
+  },
+  "image#department__slider--two":{
+    "title": "slider--two",
+    "props":{
+      "src":"https://cdn.alkst.co/t2261be7c/img/474xt_dym2bp_d3057a1f.jpg",
+      "blockClass": "home__slider--image"
+    }
+  },
+  "image#department__slider--three":{
+    "title": "slider--three",
+    "props":{
+      "src":"https://cdn.alkst.co/t2261be7c/img/474xt_tnxahf_532c8a8b.jpg",
+      "blockClass": "home__slider--image"
+    }
+  },
+  "image#department__slider--four":{
+    "title": "slider--four",
+    "props":{
+      "src":"https://cdn.alkst.co/t2261be7c/img/474xt_zmhyub_4538f8b3.jpg",
+      "blockClass": "home__slider--image"
+    }
+  }
+}

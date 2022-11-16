@@ -271,7 +271,7 @@
       "rich-text#footer__container--col-four-link9":{
         "title": "col-four-link9",
         "props":{
-          "text":"[Código de ética](/)",
+          "text":"[Código de ética](/codigo-de-etica)",
           "blockClass":"links-footer"
         }
       },
