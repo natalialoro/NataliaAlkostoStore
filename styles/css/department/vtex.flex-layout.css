@@ -16,5 +16,17 @@
     padding-right: 10px;
     padding-left: 10px;
 }
-
-
+.flexColChild--category__results--content{
+    margin-left: 42px;
+    margin-right: 11px
+}
+.flexColChild--search-page__product-shelf-list--info-container{
+    margin-top: 23px;
+    padding-top: 0px;
+}
+.flexColChild--search-page__product-list--cta-container{
+    margin-right: -50px;
+}
+.flexCol--category__results--content{
+    margin-top: -24px;
+}

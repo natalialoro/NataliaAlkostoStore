@@ -165,8 +165,8 @@
       "product-summary-brand",
       "product-summary-name",
       "product-rating-inline",
-      "modal-trigger#global__quick-view",
       "add-to-list-btn"
+      
     ],
     "props": {
       "width": "grow",
@@ -179,7 +179,8 @@
   "flex-layout.col#search-page__product-list--cta": {
     "title": "search-page__product-list--cta",
     "children": [
-      "add-to-cart-button"
+      "add-to-cart-button",
+      "modal-trigger#global__quick-view"
     ],
     "props": {
       "preventVerticalStretch": true,
