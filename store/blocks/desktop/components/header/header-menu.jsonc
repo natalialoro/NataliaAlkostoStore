@@ -66,6 +66,7 @@
       }
     },   
     "flex-layout.row#department__celphones--one":{
+      "title": "department__celphones--one",
       "children":[
         "flex-layout.col#category__celphones--one",
         "flex-layout.col#category__celphones--two",
@@ -79,6 +80,7 @@
       } 
     },
     "flex-layout.col#category__celphones--one":{
+      "title": "category__celphones--one",
       "children":[
         "flex-layout.row#category__cellphone",
         "rich-text#category__celphones--one-title1",
@@ -108,6 +110,7 @@
       }
     },
     "image#icon__cellphone": {
+      "title": "icon__cellphone",
       "props": {
         "src": "assets/img/img-alkosto/icono-cel.png",
         "blockClass":"icon__cellphone"
@@ -127,66 +130,77 @@
       }
     },
     "rich-text#category__celphones--one-title1":{
+      "title": "category__celphones--one-title1",
       "props":{
         "text":"Marca",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--one-description1":{
+      "title": "category__celphones--one-description1",
       "props":{
         "text":"!Phone | Samsumg | Xiaomi |\n Motorola | vivo | Nokia | Oppo |\n Realme | Zte | TCL | Alcatel |\nKalley | Huawei | Honor | Tecno",
         "blockClass":"text__celphones--description"
       }
     },
     "rich-text#category__celphones--one-title2":{
+      "title": "category__celphones--one-title2",
       "props":{
         "text":"Capacidad de almacenamiento",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--one-description2":{
+      "title": "category__celphones--one-description2",
       "props":{
         "text":"32 GB | 64 GB | 128 GB | 256 GB",
         "blockClass":"text__celphones--description"
       }
     },
     "rich-text#category__celphones--one-title3":{
+      "title": "category__celphones--one-title3",
       "props":{
         "text":"Tamaño de Pantalla",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--one-description3":{
+      "title": "category__celphones--one-description3",
       "props":{
         "text":"De 4.1' a 5' | De 5.1' a 6' | De 6.1' a 8'",
         "blockClass":"text__celphones--description"
       }
     },
     "rich-text#category__celphones--one-title4":{
+      "title": "category__celphones--one-title4",
       "props":{
         "text":"Tipo de cámara posterior",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--one-description4":{
+      "title": "category__celphones--one-description4",
       "props":{
         "text":"Sencilla | Dual | Triple | Cuádruple",
         "blockClass":"text__celphones--description"
       }
     },
     "rich-text#category__celphones--one-title5":{
+      "title": "category__celphones--one-title5",
       "props":{
         "text":"Tipo de cámara frontal",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--one-description5":{
+      "title": "category__celphones--one-description5",
       "props":{
         "text":"Sencilla | Dual",
         "blockClass":"text__celphones--description"
       }
     },
     "flex-layout.col#category__celphones--two":{
+      "title": "category__celphones--two",
       "children":[
         "flex-layout.row#category__accesorios",
         "rich-text#category__celphones--two-description1",
@@ -209,6 +223,7 @@
       }
     },
     "image#icon__accesorios": {
+      "title": "icon__accesorios",
       "props": {
         "src": "assets/img/img-alkosto/accesorios.png",
         "blockClass":"icon__cellphone"
@@ -228,24 +243,28 @@
       }
     },  
     "rich-text#category__celphones--two-description1":{
+      "title": "category__celphones--two-description1",
       "props":{
         "text":"Carcasas y estuches\nAudífonos y manos libres\nMemorias Micro SD\nBaterías Externas Power Bank\nCables, Cargadores, Adaptadores\nBases y Soportes\nSelfie Stick",
         "blockClass":"text__celphones--two-description1"
       }
     },
     "rich-text#category__celphones--two-title1":{
+      "title": "category__celphones--two-title1",
       "props":{
         "text":"Accesorios para iPhone",
         "blockClass":"text__celphones--title"
       }
     },
     "rich-text#category__celphones--two-description2":{
+      "title": "category__celphones--two-description2",
       "props":{
         "text":"Carcasas y estuche | \nCables, Cargadores, Adaptadores",
         "blockClass":"text__celphones--two-description2"
       }
     },
     "flex-layout.col#category__celphones--three":{
+      "title": "category__celphones--three",
       "children":[
         "flex-layout.row#category__smartwatch",
         "rich-text#category__celphones--three-description1",
@@ -270,6 +289,7 @@
       }
     },
     "image#icon__smartwatch": {
+      "title": "icon__smartwatch",
       "props": {
         "src": "assets/img/img-alkosto/smartwatch.png",
         "blockClass":"icon__cellphone"
@@ -289,36 +309,42 @@
       }
     },
     "rich-text#category__celphones--three-description1":{
+      "title": "category__celphones--three-description1",
       "props":{
         "text":"Relojes\nBandas de Actividad",
         "blockClass":"text__celphones--three-description1"
       }
     },  
     "rich-text#category__celphones--three-title1":{
+      "title": "category__celphones--three-title1",
       "props":{
         "text":"Marca",
         "blockClass":"text__celphones--three--title1"
       }
     },  
     "rich-text#category__celphones--three-description2":{
+      "title": "category__celphones--three-description2",
       "props":{
         "text":"Apple Watch | Huawei | Samsung |\nFitbit | Garmin | Xiaomi | Kalley |\nMultitech",
         "blockClass":"text__celphones--three-description2"
       }
     },
     "rich-text#category__celphones--three-title2":{
+      "title": "category__celphones--three-title2",
       "props":{
         "text":"Accesorios para Smartwatch",
         "blockClass":"text__celphones--three--title2"
       }
     }, 
     "rich-text#category__celphones--three-description3":{
+      "title": "category__celphones--three-description3",
       "props":{
         "text":"Cargadores | Correas",
         "blockClass":"text__celphones--three-description3"
       }
     },   
     "flex-layout.col#category__celphones--four":{
+      "title": "category__celphones--four",
       "children":[
         "flex-layout.row#category__tabletas",
         "rich-text#category__celphones--four-description1",
@@ -341,6 +367,7 @@
       }
     },
     "image#icon__tabletas": {
+      "title": "icon__tabletas",
       "props": {
         "src": "assets/img/img-alkosto/icono-cel.png",
         "blockClass":"icon__cellphone"
@@ -360,24 +387,28 @@
       }
     },
     "rich-text#category__celphones--four-description1":{
+      "title": "category__celphones--four-description1",
       "props":{
         "text":"iPad\nAndroid\nAccesorios",
         "blockClass":"text__celphones--four-description1"
       }
     },  
     "rich-text#category__celphones--four-title1":{
+      "title": "category__celphones--four-title1",
       "props":{
         "text":"Marca",
         "blockClass":"text__celphones--four--title1"
       }
     },  
     "rich-text#category__celphones--four-description2":{
+      "title": "category__celphones--four-description2",
       "props":{
         "text":"Apple | Samsung | Lenovo | Huawei |\nAlcatel | Multitech",
         "blockClass":"text__celphones--four-description2"
       }
     },
     "flex-layout.col#category__celphones--five":{
+      "title": "category__celphones--five",
       "children":[
         "flex-layout.row#category__mas",
         "rich-text#category__celphones--five-description1"
@@ -398,6 +429,7 @@
       }
     },
     "image#icon__mas": {
+      "title": "icon__mas",
       "props": {
         "src": "assets/img/img-alkosto/mas.png",
         "blockClass":"icon__cellphone"
@@ -417,6 +449,7 @@
       }
     },
     "rich-text#category__celphones--five-description1":{
+      "title": "category__celphones--five-description1",
       "props":{
         "text":"Seguro gratis\nGuía de compra\nCelulares Baratos\nCelulares Nuevos",
         "blockClass":"text__celphones--five-description1"
