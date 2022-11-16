@@ -1,0 +1,15 @@
+{
+    "store.product": {
+    "children": [
+      "rich-text#product"
+      /*"flex-layout.row#product__breadcrumb",
+      "flex-layout.row#product__info",
+      "flex-layout.row#product__tabs"*/
+    ]
+  },
+  "rich-text#product":{
+    "props": {
+        "text": "Esta es una pagina de preoducto"
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+    "store.custom#code-of-ethics": {
+      "blocks": [
+        "rich-text#title-code-of-ethics",
+        "image#banner-code-of-ethics",
+        "rich-text#text1-code-of-ethics",
+        "flex-layout.row#link-code-of-ethics",
+        "flex-layout.row#code-of-ethics-objetivo",
+        "flex-layout.row#code-of-ethics-pilares",
+        "flex-layout.row#code-of-ethics-conflictos",
+        "flex-layout.row#link-code-of-ethics"
+      ]
+    },
+    "rich-text#title-code-of-ethics":{
+      "title": "title-code-of-ethics",
+      "props": {
+        "text":"# Código de Ética",
+        "blockClass": "title1-code-of-ethics"
+      }
+    },
+    "image#banner-code-of-ethics":{
+      "title": "banner-code-of-ethics",
+      "props": {
+        "src": "assets/img/codigo-etica1.jpg",
+        "blockClass": "banner-code-of-ethics",
+        "link": {
+          "url": "/",
+          "newTab": true,
+          "attributeNoFollow":true
+          }
+      }
+    },
+    "rich-text#text1-code-of-ethics":{
+      "title": "title-code-of-ethics",
+      "props": {
+        "textAlignment": "CENTER",
+        "textPosition": "CENTER",
+        "text":" El Código de Ética busca definir un marco de actuación coherente con los \n Valores y Principios Corporativos de Colombiana de Comercio S.A.",
+        "blockClass": "text1-code-of-ethics"
+      }
+    },
+    "flex-layout.row#link-code-of-ethics":{
+      "title": "link-code-of-ethics",
+      "children": [
+        "link#code-of-ethics"
+      ],
+      "props": {
+        "colSizing": "auto",
+        "colGap": 5,
+        "blockClass": "container__link-code-of-ethics"
+      }
+    },
+    "link#code-of-ethics": {
+      "props": {
+        "href": "/https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/2021/codigo-etica/codigo-etica.pdf",
+        "label": "Leer el código",
+        "blockClass": "link-code-of-ethics"
+      }
+    },
+    "flex-layout.row#code-of-ethics-objetivo": {
+      "title": "code-of-ethics-objetivo",
+      "children": [
+        "image#code-of-ethics-objetivo",
+        "flex-layout.col#text-code-of-ethics-objetivo"
+      ],
+      "props": {
+        "blockClass": "container__code-of-ethics-objetivo"
+      }
+    },
+    "flex-layout.col#text-code-of-ethics-objetivo": {
+      "title": "text-code-of-ethics-objetivo",
+      "children": [
+        "rich-text#code-of-ethics-title-objetivo",
+        "rich-text#code-of-ethics-content-objetivo"
+      ],
+          "props": {
+        "preventVerticalStretch": true
+      }
+    },
+   "rich-text#code-of-ethics-title-objetivo": {
+      "title": "code-of-ethics-title-objetivo",
+      "props": {
+        "text":
+        "# Objetivos",
+        "blockClass": "title__code"
+      }
+    },
+    "rich-text#code-of-ethics-content-objetivo": {
+      "title": "code-of-ethics-content-objetivo",
+      "props": {
+        "text":
+        " Los Principios, reglas de conducta, políticas y manuales de la Compañía, no sustituyen el buen criterio, la responsabilidad, el sentido común y la prudencia indispensable para el mejor desempeño de los Empleados en las actividades que desarrollan en ejercicio de su cargo.",
+        "blockClass": "text__code"
+      }
+    },
+    "image#code-of-ethics-objetivo": {
+      "title": "image-code-of-ethics-objetivo",
+      "props": {
+        "src": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/2021/codigo-etica/codigo-etica_objetivos_1.png",
+        "maxHeight": "600px",
+        "blockClass": "image__code"
+      }
+    },
+    "flex-layout.row#code-of-ethics-pilares": {
+      "title": "code-of-ethics-pilares",
+      "children": [
+        "flex-layout.col#text-code-of-ethics-pilares",
+        "image#code-of-ethics-pilares"
+      ],
+      "props": {
+        "blockClass": "container__pilares"
+      }
+    },
+    "flex-layout.col#text-code-of-ethics-pilares": {
+      "title": "text-code-of-ethics-pilares",
+      "children": [
+        "rich-text#code-of-ethics-title-pilares",
+        "rich-text#code-of-ethics-content-pilares"
+      ],
+          "props": {
+        "preventVerticalStretch": true
+      }
+    },
+   "rich-text#code-of-ethics-title-pilares": {
+      "title": "code-of-ethics-title-pilares",
+      "props": {
+        "text":
+        "# Pilares",
+        "blockClass": "title__code-pilares"
+      }
+    },
+    "rich-text#code-of-ethics-content-pilares": {
+      "title": "code-of-ethics-content-pilares",
+      "props": {
+        "text":
+        " Los Principios, reglas de conducta, políticas y manuales de la Compañía, no sustituyen el buen criterio, la responsabilidad, el sentido común y la prudencia indispensable para el mejor desempeño de los Empleados en las actividades que desarrollan en ejercicio de su cargo.",
+        "blockClass": "text__code-pilares"
+      }
+    },
+    "image#code-of-ethics-pilares": {
+      "title": "image-code-of-ethics-objetivo",
+      "props": {
+        "src": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/2021/codigo-etica/codigo-etica_pilares-2.png",
+        "maxHeight": "600px",
+        "blockClass": "image__code"
+      }
+    },
+    "flex-layout.row#code-of-ethics-conflictos": {
+      "title": "code-of-ethics-conflictos",
+      "children": [
+        "image#code-of-ethics-conflictos",
+        "flex-layout.col#text-code-of-ethics-conflictos"
+      ]
+    },
+    "flex-layout.col#text-code-of-ethics-conflictos": {
+      "title": "text-code-of-ethics-conflictos",
+      "children": [
+        "rich-text#code-of-ethics-title-conflictos",
+        "rich-text#code-of-ethics-content-conflictos"
+      ],
+          "props": {
+        "preventVerticalStretch": true
+      }
+    },
+   "rich-text#code-of-ethics-title-conflictos": {
+      "title": "code-of-ethics-title-conflictos",
+      "props": {
+        "text":
+        "# Conflictos de intereses",
+        "blockClass": "title__code"
+      }
+    },
+    "rich-text#code-of-ethics-content-conflictos": {
+      "title": "code-of-ethics-content-conflictos",
+      "props": {
+        "text":
+        " Los Principios, reglas de conducta, políticas y manuales de la Compañía, no sustituyen el buen criterio, la responsabilidad, el sentido común y la prudencia indispensable para el mejor desempeño de los Empleados en las actividades que desarrollan en ejercicio de su cargo.",
+        "blockClass": "text__code"
+      }
+    },
+    "image#code-of-ethics-conflictos": {
+      "title": "image-code-of-ethics-objetivo",
+      "props": {
+        "src": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/2021/codigo-etica/codigo-etica_conflicto-3.png",
+        "maxHeight": "600px",
+        "blockClass": "image__code"
+      }
+    }
+   }

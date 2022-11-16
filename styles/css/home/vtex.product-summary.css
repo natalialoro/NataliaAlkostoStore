@@ -1,6 +1,7 @@
 .brandName {
     color: #000;
-    font-size: .8125rem;  
+    font-size: .8125rem; 
+    margin-left: 2px;
 }
 .nameContainer {
     padding: 0px;
@@ -23,3 +24,53 @@
 .price_listPriceContainer{
     margin-top: -21px;
 }
+.containerNormal{
+    max-width: none !important; 
+    border: solid 1px #bfbfbf;
+    margin-right: 40px;
+    margin-left:-20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.image--image-list--container{
+    width: 100%;
+    height: 223px !important;
+    object-fit: contain;
+    max-height: unset;
+    max-width: 500px;
+    margin-right: 116px;
+    margin-left: 34px;
+}
+.galleryTitle--layout{
+    font-size: 30px;
+    margin-left: 7px;
+}
+.container {
+    border-radius: 0;
+    margin-left: -44px;
+  }
+.searchResultContainer{
+    margin-right: 0px!important;
+    padding-right: 0rem !important;
+}
+@media screen and (min-width:320px){
+    .galleryItem--grid{
+        margin-left: 27px;
+        margin-right: 0px;
+    }
+}
+@media screen and (max-width:1024px){
+    .containerNormal{
+        max-width: none!important;
+        margin-right: 9px;
+        margin-left: 9px;
+        padding-left: 10px;
+    }
+    .container--search__container{
+        width: 277px;
+    }
+}
+
+
+
+
