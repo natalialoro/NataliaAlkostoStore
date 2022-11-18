@@ -179,12 +179,31 @@
   "flex-layout.col#search-page__product-list--cta": {
     "title": "search-page__product-list--cta",
     "children": [
+      "flex-layout.row#link__pdp",
       "add-to-cart-button",
       "modal-trigger#global__quick-view"
     ],
     "props": {
       "preventVerticalStretch": true,
       "blockClass": "search-page__product-list--cta-container"
+    }
+  },
+  "flex-layout.row#link__pdp":{
+    "title": "link-code-of-ethics",
+    "children": [
+      "link#link__pdp"
+    ],
+    "props": {
+      "colSizing": "auto",
+      "colGap": 5,
+      "blockClass": "container__link-pdp"
+    }
+  },
+  "link#link__pdp": {
+    "props": {
+      "href": "/puerta-triplex-okume/p",
+      "label": "VER DETALLE",
+      "blockClass": "link-link-pdp"
     }
   }
 }
