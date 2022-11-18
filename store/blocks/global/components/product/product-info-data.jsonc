@@ -14,7 +14,8 @@
       "title": "Imágenes de Producto",
       "children":[
        "product-images#product__info--image",
-       "product-description"
+       "product-description",
+       "image#img1-pdp"
       ],
       "props":{
         "width": "70%",
@@ -58,5 +59,17 @@
             "selectorType": "dropdown",
             "showLabel": false
           }
+    },
+    "image#img1-pdp":{
+      "title": "banner-department",
+      "props": {
+        "src": "https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/tv/contenido/samsung/QN65/QLED_QN65_Head.jpg",
+        "blockClass": "banner-department",
+        "link": {
+          "url": "/",
+          "newTab": true,
+          "attributeNoFollow":true
+          }
+      }
     }
   }    

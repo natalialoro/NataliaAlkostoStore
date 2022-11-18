@@ -9,3 +9,15 @@
 .link--link-code-of-ethics{
     text-decoration: none;
 }
+.label--link-link-pdp{
+    background: #eb5b25;
+    color: white;
+    padding: 12px;
+    padding-left: 79px;
+    padding-right: 98px;
+    border-radius: 6px;
+    text-decoration-line: none;
+}
+.link--link-link-pdp{
+    text-decoration: none;
+}

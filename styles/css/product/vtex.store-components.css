@@ -1,0 +1,14 @@
+.productImageTag--main{
+    width: 383px !important;
+    margin-left: 221px;
+    height: 257px !important;
+    max-height: 600px;
+    object-fit: contain;
+}
+.listItemActive--tabs__list--questions{
+    width: 10px !important;
+}
+.listItem--tabs__list--questions{
+    width: 10px !important;
+    margin-right: 608px !important;
+}

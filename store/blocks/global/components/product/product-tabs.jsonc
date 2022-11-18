@@ -5,6 +5,7 @@
          "tab-layout#product__tabs"
         ],
         "props": {
+            "fullWidth": false,
             "blockClass": "tabs__layout--products-tabs"
         }
     },
