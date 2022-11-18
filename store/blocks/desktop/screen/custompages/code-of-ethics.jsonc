@@ -1,0 +1,14 @@
+{
+    "responsive-layout.desktop#pcode-of-ethics--desktop": {
+    "children": [
+      "rich-text#title-code-of-ethics",
+      "image#banner-code-of-ethics",
+      "rich-text#text1-code-of-ethics",
+      "flex-layout.row#link-code-of-ethics",
+      "flex-layout.row#code-of-ethics-objetivo",
+      "flex-layout.row#code-of-ethics-pilares",
+      "flex-layout.row#code-of-ethics-conflictos",
+      "flex-layout.row#link-code-of-ethics"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "responsive-layout.mobile#product__page--mobile": {
+    "children": [
+      "flex-layout.row#product__page--mobile"
+    ]
+  },
+  "flex-layout.row#product__page--mobile": {
+    "title": "row-product__page--mobile",
+    "children": [
+      "flex-layout.col#product__page--mobile"
+    ],
+    "props": {
+      "fullWidth": true
+    }
+  },
+  "flex-layout.col#product__page--mobile": {
+    "title": "col-product__page--mobile",
+    "children": [
+      "breadcrumb",
+      "flex-layout.row#product__breadcrumb--mobile",
+      "product-images#product__info--image",
+      "product-description",
+      "share",
+      "vtex.store-components:product-name",
+      "product-price",
+      "flex-layout.row#product__add-to-cart-mobile",
+      "product-reviews",
+      "product-specifications"
+    ]
+  }
+}
