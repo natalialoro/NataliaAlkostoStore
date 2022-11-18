@@ -1,0 +1,11 @@
+{
+    "flex-layout.row#product__add-to-cart-mobile":{
+        "children":[
+          "add-to-cart-button#button__pdp"
+        ],
+        "props":{
+          "blockClass":"product__add-to-cart-mobile",
+          "colSizing":"auto"
+        }
+      }
+}

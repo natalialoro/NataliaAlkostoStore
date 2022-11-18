@@ -1,0 +1,25 @@
+{
+    "responsive-layout.desktop#product__page--desktop": {
+    "children": [
+      "flex-layout.row#product__page--desktop"
+    ]
+  },
+  "flex-layout.row#product__page--desktop": {
+    "title": "row-product__page--desktop",
+    "children": ["flex-layout.col#product__page--desktop"],
+    "props": {
+      "fullWidth": true
+    }
+  },
+  "flex-layout.col#product__page--desktop": {
+    "title": "col-product__page--desktop",
+    "children": [
+      "flex-layout.row#product__breadcrumb",
+      "flex-layout.row#product__info",
+      "flex-layout.row#product__tabs"
+    ],
+    "props": {
+      "blockClass": "product-page__layout--col"
+    }
+  }
+}

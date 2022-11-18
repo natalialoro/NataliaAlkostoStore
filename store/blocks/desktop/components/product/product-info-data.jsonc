@@ -46,8 +46,7 @@
     },
     "flex-layout.row#product__dropdown__add-to-cart":{
       "children":[
-        "product-quantity#selector__pdp",
-        "add-to-cart-button"
+        "add-to-cart-button#button__pdp"
       ],
       "props":{
         "blockClass":"product__dropdown__add-to-cart",
@@ -58,6 +57,12 @@
           "props":{
             "selectorType": "dropdown",
             "showLabel": false
+          }
+    },
+    "add-to-cart-button#button__pdp":{ 
+          "props":{
+            "width": 50,
+            "blockClass":"button__pdp"
           }
     },
     "image#img1-pdp":{

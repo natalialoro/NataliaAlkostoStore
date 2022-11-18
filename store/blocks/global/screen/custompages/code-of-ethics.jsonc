@@ -1,0 +1,8 @@
+{
+    "store.custom#code-of-ethics": {
+    "blocks": [
+      "responsive-layout.desktop#pcode-of-ethics--desktop",
+      "responsive-layout.mobile#code-of-ethics--mobile"
+    ]
+  }
+}
