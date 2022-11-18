@@ -1,22 +1,4 @@
 {
-    "responsive-layout.mobile#code-of-ethics--mobile": {
-    "children": [
-      "rich-text#title-code-of-ethics",
-      "image#banner-code-of-ethics",
-      "rich-text#text1-code-of-ethics",
-      "flex-layout.row#link-code-of-ethics",
-      "image#code-of-ethics-objetivo",
-      "rich-text#code-of-ethics-title-objetivo",
-      "rich-text#code-of-ethics-content-objetivo",
-      "image#code-of-ethics-pilares",
-      "rich-text#code-of-ethics-title-pilares",
-      "rich-text#code-of-ethics-content-pilares",
-      "image#code-of-ethics-conflictos",
-      "rich-text#code-of-ethics-title-conflictos",
-      "rich-text#code-of-ethics-content-conflictos",
-      "flex-layout.row#link-code-of-ethics"
-    ]
-  },
   "rich-text#title-code-of-ethics":{
     "title": "title-code-of-ethics",
     "props": {
