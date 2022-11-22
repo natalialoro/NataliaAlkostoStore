@@ -6,12 +6,12 @@
         ]
       },
       "flex-layout.row#home__section--two-phone":{
+        "title": "section-two-phone",
         "children":[
           "flex-layout.col#home__section--two-department-one-phone",
           "flex-layout.col#home__section--two-department-two-phone",
           "flex-layout.col#home__section--two-department-three-phone"
         ],
-        "title": "section-two-phone",
         "props":{
             "blockClass":"home__section--two-departments-phone",
             "preserveLayoutOnMobile": true

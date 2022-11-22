@@ -2,6 +2,7 @@
     "responsive-layout.tablet#home__tablet":{
         "title": "responsive-tablet",
         "children":[
+          "whatsapp-button",
           "flex-layout.row#home__section-one-tablet",
           "flex-layout.row#home__section--two-title-tablet",
           "flex-layout.row#home__section--two-tablet",
