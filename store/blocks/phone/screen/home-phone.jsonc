@@ -2,6 +2,7 @@
     "responsive-layout.phone#home__phone":{
         "title": "responsive-phone",
         "children":[
+            "whatsapp-button",
             "flex-layout.row#home__section-one-phone",
             "flex-layout.row#home__section--two-title-phone",
             "flex-layout.row#home__section--two-phone",
