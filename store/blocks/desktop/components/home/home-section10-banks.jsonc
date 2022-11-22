@@ -178,7 +178,7 @@
       "props":{
         "textAlignment": "CENTER",
         "textPosition": "CENTER",
-        "text":"Krédito en 20 Minutos",
+        "text":"Krédito en 20 Minutos",  
         "blockClass":"section__banks--text2"
       }
     }

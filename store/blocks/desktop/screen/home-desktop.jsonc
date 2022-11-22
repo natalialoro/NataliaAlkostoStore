@@ -2,6 +2,7 @@
   "responsive-layout.desktop#home__desktop":{
         "title": "responsive-desktop",
         "children":[
+          "whatsapp-button",
           "flex-layout.row#home__section--one",
           "flex-layout.row#home__banner--one",
           //"slider-layout#home__search",
@@ -28,6 +29,14 @@
           //"modal-trigger#home__modal--children",
           //"modal-trigger#home__modal--event"
         ]
+      },
+      "whatsapp-button":{
+        "props": {
+            "logo": "assets/img/logo-whatsapp.png",
+            "phone":"3144073033",
+            "message":"Si tienes alguna inquietud comunicate con nosotros"
+        }
+
       }
 }
   

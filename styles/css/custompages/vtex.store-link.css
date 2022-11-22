@@ -21,3 +21,14 @@
 .link--link-link-pdp{
     text-decoration: none;
 }
+.link--link-code-of-ethics-mobile{
+    margin-left: 100px;
+    margin-right: 81px;
+    padding: 11px;
+    background: #eb5b25;
+    color: white;
+    text-decoration-line: none;
+    border-radius: 6px;
+    padding-left: 10px;
+    justify-content: center;
+}

@@ -53,12 +53,6 @@
         "colSizing":"auto"
       }
     },
-    "product-quantity#selector__pdp":{ 
-          "props":{
-            "selectorType": "dropdown",
-            "showLabel": false
-          }
-    },
     "add-to-cart-button#button__pdp":{ 
           "props":{
             "width": 50,

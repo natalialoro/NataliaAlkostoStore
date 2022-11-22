@@ -27,10 +27,24 @@
     color: #5083b8;
     margin-top: 121px;
     margin-left: 37px;
-
 }
 .paragraph--text__code-pilares{
     margin-left: 34px;
     margin-right: -89px;
     font-size: 14px;
+}
+.headingLevel1--title1-code-of-ethics-mobile{
+    font-size: 21px;
+    margin-left: 16px;
+}
+.paragraph--text1-code-of-ethics-mobile{
+    font-size: 13px;
+    margin-top: 38px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.paragraph--text__code-mobile{
+    font-size: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
