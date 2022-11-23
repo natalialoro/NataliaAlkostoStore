@@ -4,6 +4,8 @@
         "children":[
           "whatsapp-button",
           "flex-layout.row#home__section--one",
+          //"bullets-diagramation",
+          "list-context.bullet-group",
           "flex-layout.row#home__banner--one",
           //"slider-layout#home__search",
           "flex-layout.row#home__gallery--title",
@@ -36,7 +38,18 @@
             "phone":"3144073033",
             "message":"Si tienes alguna inquietud comunicate con nosotros."
         }
+    },
+      "list-context.bullet-group":{
+        "props":{
+          "bullets":{
+            "image": "miimagen.png",
+            "titleBullet":"Computadores",
+            "Link": {
+              "url":"/"
+            }
 
+          }
+        }
       }
 }
   

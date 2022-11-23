@@ -4,6 +4,7 @@
         "children":[
             "whatsapp-button",
             "flex-layout.row#home__section-one-phone",
+            "list-context.bullet-group",
             "flex-layout.row#home__section--two-title-phone",
             "flex-layout.row#home__section--two-phone",
             "flex-layout.row#home__banner--one-phone",
