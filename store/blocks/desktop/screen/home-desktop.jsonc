@@ -40,17 +40,66 @@
         }
     },
       "list-context.bullet-group":{
+        "title": "Mi contexto de lista de Bullets",
+        "children":["slider-layout#bullet-group"],
         "props":{
-          "bullets":{
-            "image": "miimagen.png",
-            "titleBullet":"Computadores",
-            "Link": {
+          "bullets":[
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"Computadores",
+          "Link": {
+              "url":"/"
+          }
+        },
+        {
+           "image": "assets/img/audio.jpg",
+           "titleBullet":"Ropa",
+           "Link": {
+              "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"Computadores",
+          "Link": {
+            "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"Computadores",
+          "Link": {
               "url":"/"
             }
-
+        },
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"Computadores",
+          "Link": {
+              "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"Computadores",
+          "Link": {
+            "url":"/"
           }
         }
-      }
+      ]
+    }
+  },
+  "slider-layout#bullet-group":{
+    "title": "slider-bullet-group",
+    "props": {
+      "itemsPerPage": {
+        "desktop": 5,
+        "tablet": 5,
+        "phone": 5
+      },
+    "infinite": true
+    }
+  }
 }
   
    
