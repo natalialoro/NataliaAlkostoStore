@@ -55,6 +55,12 @@
 .sliderTrack--home__slider-section--phone{
     padding: 15px 75px 10px 75px;
 }
+.bullet__item--link{
+    text-decoration: none;
+    text-align: center;
+    color:  #e54318;
+    font-weight: 400;
+ }
 
 
 .paginationDotsContainer--home__slider-one--tablet{

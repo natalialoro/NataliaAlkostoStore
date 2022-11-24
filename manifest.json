@@ -59,7 +59,8 @@
     "vtex.checkout-summary": "0.x",
     "vtex.overlay-layout": "0.x",
     "vtex.product-highlights": "2.x",
-    "itgloberspartnercl.whatsapp-button": "0.x"
+    "itgloberspartnercl.whatsapp-button": "0.x",
+    "itgloberspartnercl.bullets-diagramation": "0.x"
   },
   "peerDependencies": {
     "vtex.reviews-and-ratings": "3.x",
