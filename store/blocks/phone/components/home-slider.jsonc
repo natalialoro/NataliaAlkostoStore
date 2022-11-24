@@ -27,7 +27,7 @@
 "image#home__slider--one-phone":{
   "title": "slider-one-phone",
   "props":{
-    "src":"assets/img/main-slide-1.jpg",
+    "src":"assets/img/main-slider-1.jpg",
     "blockClass": "home__slider--image-phone"
   
   }
@@ -63,7 +63,7 @@
 "image#home__slider--six-phone":{
   "title": "slider-six-phone",
   "props":{
-    "src":"assets/img/main-slide-6.jpg",
+    "src":"assets/img/main-slider-6.jpg",
     "blockClass": "home__slider--image-phone"
   }
 }

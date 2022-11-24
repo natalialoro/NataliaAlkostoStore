@@ -4,7 +4,9 @@
         "children":[
           "whatsapp-button",
           "flex-layout.row#home__section--one",
+          //"bullets-diagramation",
           "flex-layout.row#home__banner--one",
+          "flex-layout.row#bullet",
           //"slider-layout#home__search",
           "flex-layout.row#home__gallery--title",
           "search-result-layout.customQuery#home__search",
@@ -34,10 +36,89 @@
         "props": {
             "logo": "assets/img/logo-whatsapp.png",
             "phone":"3144073033",
-            "message":"Si tienes alguna inquietud comunicate con nosotros"
+            "message":"Si tienes alguna inquietud comunicate con nosotros."
         }
-
-      }
+    },
+    "flex-layout.row#bullet":{
+      "children": [
+        "list-context.bullet-group"
+      ]
+    },
+      "list-context.bullet-group":{
+        "title": "Mi contexto de lista de Bullets",
+        "children":["slider-layout#bullet-group"],
+        "props":{
+          "bullets":[
+        {
+          "image": "assets/img/celulares.jpg",
+          "titleBullet":"celulares",
+          "Link": {
+              "url":"/"
+          }
+        },
+        {
+           "image": "assets/img/audio.jpg",
+           "titleBullet":"Audio",
+           "Link": {
+              "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/colchones.jpg",
+          "titleBullet":"Colchones",
+          "Link": {
+            "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/computadores.png",
+          "titleBullet":"Computadores",
+          "Link": {
+              "url":"/"
+            }
+        },
+        {
+          "image": "assets/img/videojuegos.jpg",
+          "titleBullet":"Juegos",
+          "Link": {
+              "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/accesorios.jpg",
+          "titleBullet":"Accesorios",
+          "Link": {
+            "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/impresoras.png",
+          "titleBullet":"Impresoras",
+          "Link": {
+            "url":"/"
+          }
+        },
+        {
+          "image": "assets/img/televisores.png",
+          "titleBullet":"Televisores",
+          "Link": {
+            "url":"/"
+          }
+        }
+      ]
+    }
+  },
+  "slider-layout#bullet-group":{
+    "title": "slider-bullet-group",
+    "props": {
+      "itemsPerPage": {
+        "desktop": 5,
+        "tablet": 5,
+        "phone": 5
+      },
+    "infinite": true
+    }
+  }
 }
   
    

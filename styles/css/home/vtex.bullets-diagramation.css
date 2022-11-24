@@ -1,0 +1,9 @@
+.bullet__item--title{
+    color: red;
+    font-weight: 700;
+    font-size: 11px;
+}
+.bullet__item--link {
+    text-decoration: none !important;
+
+}
