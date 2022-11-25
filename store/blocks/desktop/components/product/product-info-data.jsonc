@@ -32,19 +32,45 @@
     "flex-layout.col#product__info--data":{
       "title": "Data de Producto",
       "children":[
+        "modal-trigger#add-to-cart-info",
         "share",
         "vtex.store-components:product-name",
         "product-rating-inline",
         "product-price",
-        "flex-layout.row#product__dropdown__add-to-cart"
-        
+        "flex-layout.row#product__dropdown__add-to-cart",
+        "modal-trigger#add-to-cart-info"
       ],
       "props":{
         "width": "30%",
         "blockClass":"container__product__info--data"
       }
     },
+    "modal-trigger#add-to-cart-info":{
+      "children":[
+        "modal-layout#add-to-cart-info"
+      ],
+      "props":{
+        "customPixelEventName": "addToCart"
+      }
+    },
+    "modal-layout#add-to-cart-info":{
+      "children":[
+        "modal-header#add-to-cart-info",
+        "add-to-cart-info"
+      ],
+      "props":{
+        "blockClass": "modal__layout--add-to-cart-info"
+      }
+    },
+    "modal-header#add-to-cart-info":{
+      "props":{
+        "showCloseButton": true,
+        "iconCloseSize": 24,
+        "blockClass": "modal__header--add-to-cart-info"
+      }
+    },
     "flex-layout.row#product__dropdown__add-to-cart":{
+      "title": "dropdown__add-to-cart",
       "children":[
         "add-to-cart-button#button__pdp"
       ],
