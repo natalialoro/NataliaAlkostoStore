@@ -1,18 +1,12 @@
 .flexCol--container__product__info--data{
-    position: fixed;
-    height: 260px;
-    padding: 0px 473px;
-    border-radius: 10px;
+    position: relative;
+    width: 100%;
 }  
 .flexRow--container__product--info{
     padding: 10px 50px 10px 50px;
 }
 .flexCol--container__product__info--image  {
     padding: 0px 10px 0px 10px;   
-}
-.flexRow--tabs__layout--products-tabs{
-    margin-left: 15px !important;
-    width: 65%;
 }
 .flexRowContent--product__dropdown__add-to-cart{
     padding-right: 107px;
