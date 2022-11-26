@@ -40,7 +40,7 @@
     },
     "link#code-of-ethics": {
       "props": {
-        "href": "/https://media.aws.alkosto.com/ymarketingcolcomercio/Alkosto/2021/codigo-etica/codigo-etica.pdf",
+        "href": "/htcomercio/Alkosto/2021/codigo-etica/codigo-etica.pdf",
         "label": "Leer el código",
         "blockClass": "link-code-of-ethics"
       }
