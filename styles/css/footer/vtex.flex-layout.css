@@ -4,7 +4,7 @@
 }
 .flexRow--footer__container--mediosdepago{
     border-top: 1px solid grey;
-    max-width: 1366px;
+    max-width: 100%;
     margin: 25px 65px 20px;
     padding-top: 10px;
 
@@ -25,7 +25,7 @@
 } 
 .flexRow--footer__container--links{
     border-top: 1px solid grey;
-    max-width: 1366px;
+    max-width: 100%;
     margin: 0px 65px 180px 65px;
     padding-top: 10px;
 }
