@@ -1,0 +1,9 @@
+{
+ "pdf-reader":{
+    "props":{
+        "pdfUrl": "assets/documents/codigo-etica.pdf",
+        "width": 500,
+        "height": 800
+    }
+ }
+}
