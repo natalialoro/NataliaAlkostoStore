@@ -5,6 +5,9 @@ NataliaAlkostoStore es una tienda de tecnología basada en la tienda oficial de 
 Preview
 
 ![image](https://user-images.githubusercontent.com/55117122/204119373-003d4b8b-4ec6-4290-8ce6-d949b51ad3ad.png)
+![image](https://user-images.githubusercontent.com/55117122/204119410-299edc64-2a26-4728-87b4-b14b56fe175b.png)
+![image](https://user-images.githubusercontent.com/55117122/204119425-db22450b-258d-4fba-996c-f0a40647d08e.png)
+![image](https://user-images.githubusercontent.com/55117122/204119438-493e4d0f-f423-4f10-8a15-a8f1457d56f4.png)
 
 
 It should be used only when you want to start a new store theme without any pre-set configurations, as is the case with [Store Theme](https://github.com/vtex-apps/store-theme). 
