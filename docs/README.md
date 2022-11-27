@@ -130,13 +130,13 @@ PeerDependencies
 
 Custom Apps (Componentes que deben instalarse en la tienda)
 
-- "itgloberspartnercl.whatsapp-button": "0.x",
-- "itgloberspartnercl.bullets-diagramation": "0.x",
-- "itgloberspartnercl.add-to-cart-info": "0.x",
-- "itgloberspartnercl.custom-department-search": "0.x",
-- "itgloberspartnercl.pdf-reader": "0.x",
-- "itgloberspartnercl.quick-order": "0.x",
-- "itgloberspartnercl.special-diagramation": "0.x"
+- "itgloberspartnercl-whatsapp-button": "0.x",
+- "itgloberspartnercl-bullets-diagramation": "0.x",
+- "itgloberspartnercl-add-to-cart-info": "0.x",
+- "itgloberspartnercl-custom-department-search": "0.x",
+- "itgloberspartnercl-pdf-reader": "0.x",
+- "itgloberspartnercl-quick-order": "0.x"
+
 
 Contributors
 
