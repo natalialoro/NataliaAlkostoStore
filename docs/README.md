@@ -3,11 +3,14 @@
 NataliaAlkostoStore es una tienda de tecnología basada en la tienda oficial de Alkosto.
 
 Preview
+![image](https://user-images.githubusercontent.com/55117122/204119463-b0be341d-5bc4-4ae8-8c78-c0f017a733db.png)
+![image](https://user-images.githubusercontent.com/55117122/204119466-d9092602-861f-4eab-af6f-a273134ab9b3.png)
+![image](https://user-images.githubusercontent.com/55117122/204119477-e8516a17-a3d6-42b7-a287-d79a7b3cd10d.png)
+![image](https://user-images.githubusercontent.com/55117122/204119487-49d38295-4835-4627-8d38-6497a65cb951.png)
+![image](https://user-images.githubusercontent.com/55117122/204119495-c7e2aad3-9388-4043-9bae-35e6300ccb6b.png)
+![image](https://user-images.githubusercontent.com/55117122/204119508-2c1d8e8f-a5c8-4ac2-8928-3de7a798efed.png)
+![image](https://user-images.githubusercontent.com/55117122/204119539-33088be8-c54e-4eee-a2dc-596cae6a26ec.png)
 
-![image](https://user-images.githubusercontent.com/55117122/204119373-003d4b8b-4ec6-4290-8ce6-d949b51ad3ad.png)
-![image](https://user-images.githubusercontent.com/55117122/204119410-299edc64-2a26-4728-87b4-b14b56fe175b.png)
-![image](https://user-images.githubusercontent.com/55117122/204119425-db22450b-258d-4fba-996c-f0a40647d08e.png)
-![image](https://user-images.githubusercontent.com/55117122/204119438-493e4d0f-f423-4f10-8a15-a8f1457d56f4.png)
 
 
 It should be used only when you want to start a new store theme without any pre-set configurations, as is the case with [Store Theme](https://github.com/vtex-apps/store-theme). 
