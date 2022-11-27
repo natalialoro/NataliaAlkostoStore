@@ -1,6 +1,11 @@
-# Minimum Boilerplate Theme
+# Store-theme Natalia-Alkosto-Store 
 
-The minimum Boilerplate Theme is basic store front model based on the VTEX IO Store Framework.
+NataliaAlkostoStore es una tienda de tecnología basada en la tienda oficial de Alkosto.
+
+Preview
+
+![image](https://user-images.githubusercontent.com/55117122/204119373-003d4b8b-4ec6-4290-8ce6-d949b51ad3ad.png)
+
 
 It should be used only when you want to start a new store theme without any pre-set configurations, as is the case with [Store Theme](https://github.com/vtex-apps/store-theme). 
 
