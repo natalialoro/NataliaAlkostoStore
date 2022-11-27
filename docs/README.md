@@ -69,7 +69,9 @@ Esto le permitirá ver los cambios aplicados en tiempo real, a través de la cue
 Dependencies
 
 "vtex.store": "2.x",
+
 "vtex.store-header": "2.x",
+
 "vtex.product-summary": "2.x",
 "vtex.store-footer": "2.x",
 "vtex.store-components": "3.x",
@@ -127,7 +129,9 @@ PeerDependencies
 "vtex.wish-list": "1.x",
 "vtex.reviews-and-ratings": "3.x",
 "vtex.mega-menu": "2.x"
+
 Custom Apps (Componentes que deben instalarse en la tienda)
+
 "itgloberspartnercl.whatsapp-button": "0.x",
 "itgloberspartnercl.bullets-diagramation": "0.x",
 "itgloberspartnercl.add-to-cart-info": "0.x",
