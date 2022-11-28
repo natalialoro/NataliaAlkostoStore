@@ -101,6 +101,15 @@
     width: 170px;
     height: 159px;
 }
+.imageElement--image__custom-grid1{
+    width: 460px;
+    height: 525px;
+}
+.imageElement--image__custom-grid{
+    width: 270px;
+    height: 250px;
+    margin-top: 10px;
+}
 @media screen and (max-width: 768px){
     .imageElement--home__image--banner-two{
         max-width: 100%;

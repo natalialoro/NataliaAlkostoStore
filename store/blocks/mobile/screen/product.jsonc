@@ -22,7 +22,6 @@
       "product-description",
       "share",
       "vtex.store-components:product-name",
-      "product-price",
       "flex-layout.row#product__add-to-cart-mobile",
       "product-reviews",
       "product-specifications"
