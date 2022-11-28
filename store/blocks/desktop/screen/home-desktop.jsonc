@@ -26,7 +26,7 @@
           "flex-layout.row#home__section--videogames--title-eight",
           "flex-layout.row#home__section--videogames",
           "flex-layout.row#home__section--learn-more--title-nine",
-          "flex-layout.row#home__section--learn-more",
+          "custom-grid",
           "flex-layout.row#home__banner--three",
           "flex-layout.row#home__section--banks--title-ten",
           "flex-layout.row#home__section--banks",

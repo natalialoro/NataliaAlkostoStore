@@ -7,6 +7,7 @@
             "flex-layout.row#home__section--two-title-phone",
             "flex-layout.row#home__section--two-phone",
             "flex-layout.row#home__banner--one-phone",
+            "quick-order",
             "list-context.bullet-group",
             "search-result-layout.customQuery#home__search",
             "flex-layout.row#home__section--topoffers-title-phone",

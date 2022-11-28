@@ -1,0 +1,41 @@
+{
+    "custom-grid":{
+    "children":[
+      "image#custom-grid-1",
+      "image#custom-grid-2",
+      "image#custom-grid-3",
+      "image#custom-grid-4",
+      "image#custom-grid-5"
+    ]
+},
+"image#custom-grid-1":{
+  "props": {
+      "src": "assets/img/section3.2.jpg",
+      "blockClass": "image__custom-grid1"
+  }
+},
+"image#custom-grid-2":{
+  "props": {
+      "src": "assets/img/section4.2.jpg",
+      "blockClass": "image__custom-grid"
+  }
+},
+"image#custom-grid-3":{
+  "props": {
+      "src": "assets/img/section5.2.jpg",
+      "blockClass": "image__custom-grid"
+  }
+},
+"image#custom-grid-4":{
+  "props": {
+      "src": "assets/img/section6.2.jpg",
+      "blockClass": "image__custom-grid"
+  }
+},
+"image#custom-grid-5":{
+  "props": {
+    "src": "assets/img/section7.2.jpg",
+      "blockClass": "image__custom-grid"
+        }
+    }    
+}

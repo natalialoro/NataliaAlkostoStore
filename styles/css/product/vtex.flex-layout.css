@@ -1,6 +1,5 @@
 .flexCol--container__product__info--data{
     position: relative;
-    width: 100%;
 }  
 .flexRow--container__product--info{
     padding: 10px 50px 10px 50px;
@@ -15,4 +14,12 @@
     justify-content: center;
     margin-left: -4px;
     padding: 16px;
+}
+.flexRowContent--product__dropdown__add-to-cart {
+    margin-top: 3px;
+    margin-left: 48px;
+}
+.flexCol--container__product__info--data{
+    box-shadow: -2px 1px 10px 0px rgb(107 129 137);
+    padding-left:22px;
 }
